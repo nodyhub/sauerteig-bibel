@@ -1,6 +1,5 @@
 ---
 title: Backmethoden
-weight: 40
 ---
 
 # Backmethoden

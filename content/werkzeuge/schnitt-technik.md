@@ -1,6 +1,5 @@
 ---
-title: Schnitt-Technik
-weight: 20
+title: Die Schnitt-Technik
 ---
 
 # Die Schnitt-Technik

@@ -1,6 +1,5 @@
 ---
 title: Tipps & Tricks
-weight: 30
 ---
 
 # Praktische Tipps & Tricks

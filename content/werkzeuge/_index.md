@@ -7,7 +7,7 @@ weight: 60
 
 Profis haben keine Geheimnisse, nur bessere Arbeitsabläufe. Hier sind die praktischen Tricks, um Brotbacken einfacher und freundlicher zu gestalten – egal ob du eine Hand oder zwei hast.
 
-## 1. Das Anti-Klebe-Gesetz: Wasser statt Mehl
+## Das Anti-Klebe-Gesetz: Wasser statt Mehl
 
 Viele Anfänger bemehlen die Hände und trocknen den Teig damit aus. Profis nutzen Wasser.
 
@@ -15,7 +15,7 @@ Viele Anfänger bemehlen die Hände und trocknen den Teig damit aus. Profis nutz
 * **Die Teigkarte (Dein bester Freund):** Eine flexible Teigkarte aus Kunststoff (kein Metall in der Schüssel!) ist die Verlängerung deiner Hand.
     * *Der Trick:* Mach auch die Teigkarte nass! Damit fährst du an der Rundung der Schüssel entlang, hebst den Teig an und legst ihn um. So kannst du den Teig perfekt **in der Schüssel modellieren**, ohne dir die Finger schmutzig zu machen.
 
-## 2. Das Einhänder-Spezial (Backen mit Links... oder Rechts)
+## Das Einhänder-Spezial (Backen mit Links... oder Rechts)
 
 Brotbacken ist Handwerk, aber man braucht keine zwei Hände, um ein Weltklasse-Brot zu zaubern. Hier sind die Hacks für den Einhand-Workflow:
 
@@ -27,14 +27,14 @@ Brotbacken ist Handwerk, aber man braucht keine zwei Hände, um ein Weltklasse-B
     * Friere die Scheiben päckchenweise oder mit Backpapier dazwischen ein.
     * Morgens: Gefrorene Scheibe direkt in den Toaster. Schmeckt wie frisch gebacken und spart dir morgens das Sägen.
 
-## 3. Die Schnitt-Technik
+## Die Schnitt-Technik
 
 Warum schneiden wir ein? Damit das Gas kontrolliert entweicht und das Brot nicht an der Seite wild aufplatzt.
 
 * **Bei Kastenbroten (Weiche Teige):** Nimm die **Schere**! Das ist viel einfacher als ein Messer. Schneide im Zick-Zack-Muster oder einfach tief der Länge nach. Die Schere verklebt nicht so schnell.
 * **Bei freigeschobenen Broten (Feste Teige):** Nimm eine **Rasierklinge (Lame)**. Halte sie im 45°-Winkel, um ein knuspriges "Ohr" zu erzeugen.
 
-## 4. Teig-Notdienst (Hilfe, es ist Suppe!)
+## Teig-Notdienst (Hilfe, es ist Suppe!)
 
 Du hast zu viel Wasser erwischt oder das Vollkornmehl war zickig?
 
@@ -43,7 +43,7 @@ Du hast zu viel Wasser erwischt oder das Vollkornmehl war zickig?
 3.  **Flohsamenschalen:** Die Geheimwaffe. 1 TL geliert sofort große Mengen Wasser.
 4.  **Egal-Haltung:** Ab in die Kastenform! Die hält auch "Suppe" zusammen. Das Brot wird oft trotzdem lecker, nur die Krume wird etwas feuchter.
 
-## 5. Lagerung (Rette die Kruste)
+## Lagerung (Rette die Kruste)
 
 Ein Sauerteigbrot lebt.
 

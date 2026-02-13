@@ -93,36 +93,88 @@ weight: 10  # Sortierposition
 - Konkrete Tipps & Tricks
 - Optionen mit Pro/Contra auflisten
 
-### 8. **Gewichtung (Weight)**
+### 8. **Gewichtung (Weight) - Aktualisierte Struktur**
 
 ```
 Hauptnavigation (content/):
 - philosophie.md        → weight: 10
 - master-prozess.md     → weight: 20
 - rezepte/              → weight: 30
-- baby-spezial.md       → weight: 40
-- methoden/             → weight: 50
+- methoden/             → weight: 50  (Der Sauerteig)
+- werkzeuge/            → weight: 60  (Werkzeuge, Tricks & Hacks)
+- baby-spezial/         → weight: 70  (Baby-Spezial)
 - impressum.md          → weight: 100
 
-Unterkapitel (z.B. rezepte/):
+Unterkapitel Rezepte (rezepte/):
 - landbrot.md           → weight: 10
 - graubrot.md           → weight: 20
 - vollkorn.md           → weight: 25
 - dinkel-saftkorn.md    → weight: 30
-- specials/             → weight: 40
+- hanseat.md            → weight: 25
+- dinkel-seele.md       → weight: 26
+- reformer.md           → weight: 27
 
-Unter-Unterkapitel (z.B. methoden/):
-- sauerteig-pflege.md   → weight: 10
-- starter-ansetzen.md   → weight: 20
-- schnitt-technik.md    → weight: 30
-- tipps-tricks.md       → weight: 40
-- backmethoden.md       → weight: 50
+Unterkapitel Methoden (methoden/):
+- ansaetzen-und-pflegen.md  → weight: 10
+- schnitt-technik.md        → weight: 20
+- tipps-tricks.md           → weight: 30
+- backmethoden.md           → weight: 40
+``` - Rezepte**
+
+```markdown
+| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Weizen 550* | *54 %* | *270 g* | *400 g* |
+| **Wasser** | **68 %** | **340 ml** | **510 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz**Formatierungsstandards**
+
+- **Zahlenbereiche:** "5 bis 10 Minuten" (nicht "5-10")
+- **Temperaturangaben:** "250 °C" (Leerzeichen vor °C)
+- **Prozentzeichen:** "1,8 %" (Leerzeichen vor %)
+- **Bindestriche bei Adjektiven:** "550er-Weizen", "150er-Form" (Bindestrich, nicht minus)
+- **Substantivlisten:** Kleinbuchstaben ("altes Anstellgut", nicht "Altes Anstellgut")
+- **Hervorhebung:** `**Text**` für wichtige Wörter/Zahlen
+- **Kursiv:** `*Text*` nur für Titel/Anmerkungen, nicht für Betonung
+- **Links:** Relative Pfade mit trailing slash: `[Link](../kapitel/)`
+
+### 11. **Überschriftenstruktur - KEINE Nummerierungen**
+
+```markdown
+# Haupttitel (nur einmal pro Datei)
+
+## Hauptkapitel
+Text...
+
+## Nächstes Kapitel
+Text...
+
+### Unterpunkt
+Text...
 ```
 
-### 9. **Tabellen Standard**
-```markdown
-| Spalte 1 | Spalte 2 | Spalte 3 |
-| :--- | :--- | :--- |
+**WICHTIG:** 
+- KEINE Nummerierungen vor Überschriften (## 1., ## 2. etc.)
+- Nur bei Listen werden Nummern verwendet: `1. Punkt`, `2. Punkt`
+- Gilt überall im content/ Verzeichnis (methoden/, werkzeuge/, baby-spezial/, etc.)
+
+### 12. **Honig & Baby-Sicherheit**
+
+- **Standard-Süßungsmittel:** Honig (in allen Rezepten)
+- **Warnung:** Honig ist für Säuglinge unter 1 Jahr tabu (Botulismus-Risiko)
+- **Alternative:** Apfelmark (ungesüßt), Reissirup, Agavendicksaft, Zucker
+- **In recipes:** Immer auflisten als "1 EL Honig" in Extras-Zeile
+
+### 13. **Zeitangaben - Standards**
+
+**Wichtig für Rezepte:**
+- Spalte 1: "Bäckerprozente" (nicht "%")
+- Dezimaltrennzeichen: Komma (1,8 nicht 1.8)
+- Einheiten: Leerzeichen vor Einheit (1 EL, nicht 1EL; 100 g, nicht 100g)
+- Mengen-Dezimalzeichen: Komma (1,5 EL nicht 1.5 EL)
+- Gesamtmehl IMMER zuerst auflisten, dann "davon" Anteile eingerückt
+- "Honig" verwenden, nicht "Apfelmark"--- | :--- | :--- |
 | Linksbündig | Standard | Default |
 ```
 
