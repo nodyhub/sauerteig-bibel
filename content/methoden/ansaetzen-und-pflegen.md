@@ -7,48 +7,30 @@ weight: 10
 
 Dein Sauerteig lebt. Er braucht Rhythmus – vom ersten Tag bis zu deinem hundertsten Brot.
 
-## Phase 1: Ansätzen – Von Grund auf
+## Der Urknall: Einen Starter ansetzen
 
-Du möchtest deinen eigenen Sauerteig-Starter züchten? Das ist einfacher als du denkst!
+Du fängst bei Null an? Hier erschaffst du Leben. Verwende am besten **Roggenvollkornmehl** (das gärt am sichersten).
 
-### Voraussetzungen
+* **Der Plan:** Wir züchten über 5 Tage eine Kultur.
+* **Das Mantra:** 1:1:1 (Gleiche Teile Starter, Mehl, Wasser).
 
-- Glas zum Lagern (800ml Bügelglas ist ideal)
-- Roggenvollkornmehl
-- Warmes Wasser
-- Waage
-- Geduld
+1.  **Tag 1 (Start):** Verrühre **50 g Mehl** und **50 g Wasser (lauwarm)** in einem sauberen Glas. Deckel locker drauf. **24 Stunden** warm stehen lassen.
+2.  **Tag 2:** Es riecht vielleicht schon komisch. Nimm **50 g** von dem Ansatz (den Rest wegwerfen!) und mische ihn mit **50 g frischem Mehl** und **50 g Wasser**. **24 Stunden** stehen lassen.
+3.  **Tag 3 bis 5 (Die Routine):** Wiederhole das Prozedere von Tag 2 jeden Tag zur gleichen Zeit (50 g Starter + 50 g Mehl + 50 g Wasser).
+4.  **Der Turbo (Ab Aktivität):** Sobald der Starter deutlich Blasen wirft und sich hebt (meist ab Tag 3 oder 4), fütterst du ihn **alle 12 Stunden**.
+5.  **Das Ziel:** Wenn er sich verlässlich innerhalb von **4 bis 6 Stunden verdoppelt**, ist er backstark und bereit für dein erstes Brot.
 
-### Schritt-für-Schritt Anleitung
+## Sauerteig-Pflege (Das Tamagotchi)
 
-1. Glas reinigen
-2. 50g Wasser ins Glas
-3. 50g Mehl ins Glas
-4. Verrühren
-
-Das Glas bei Raumtemperatur lagern und **täglich wiederholen**.
-
-**Kleiner Tipp:** Beim Vermengen immer erst Wasser und dann Mehl einrühren, das lässt sich einfacher rühren.
-
-### Beschleunigung mit Bioapfel
-
-Um schneller freie Enzyme in den Teig zu bekommen, kann man zusätzlich **100g ungespritzten Bioapfel mit Schale reiben** und in den Teig einrühren. Auf diesem Weg wird der Sauerteig schnell sehr aktiv.
-
-### Einsatzbereitschaft
-
-Der Starter ist einsatzbereit, sobald sich eindeutig Bläschen im Teig bilden, die man durch die Glaswand erkennen kann. Außerdem ist beim Durchrühren mit dem Löffel der Starter eine fast schaumige Masse.
-
-## Phase 2: Pflegen – Die tägliche Routine
-
-Dein Sauerteig lebt. Er braucht regelmäßig Futter.
+Dein fertiger Starter braucht Rhythmus.
 
 ### Füttern (Verhältnis 1:5:5 oder 1:10:10)
 
-*Beispiel:* 10g Altes Anstellgut + 50g Wasser + 50g Mehl.
+*Beispiel:* 10 g altes Anstellgut + 50 g Wasser + 50 g Mehl.
 
-**Tipp:** Ein Mix aus Weizen und Roggen macht ihn besonders stark.
+*Tipp:* Ein Mix aus Weizen und Roggen macht ihn besonders stark.
 
-#### Auffrischungs-Routine
+### Auffrischungs-Routine
 
 - Starter aus Kühlschrank nehmen und auf Raumtemperatur kommen lassen
 - 50g warmes Wasser einrühren
@@ -64,7 +46,7 @@ Dein Sauerteig lebt. Er braucht regelmäßig Futter.
 
 Wenn er sich im Glas verdoppelt hat und oben leicht wölbt. Mach den **Schwimmtest**: Ein Löffel Sauerteig in Wasser. Schwimmt er? → Backbereit. Geht er unter? → Muss noch warten.
 
-## Phase 3: Lagerung & Haltbarkeit
+## Lagerung & Haltbarkeit
 
 ### Im aktiven Zustand (Kühlschrank)
 

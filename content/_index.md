@@ -5,7 +5,7 @@ type: docs
 
 # 📖 Die Hamburger Sauerteig-Bibel
 
-*Dein persönliches Handbuch für ehrliches Brot. Version 2.0 (Februar 2026).*
+*Dein persönliches Handbuch für ehrliches Brot. Version 2.4 (Februar 2026).*
 
 Willkommen in deiner Backstube. Dieses Dokument ist mehr als eine Rezeptsammlung. Es ist die Essenz aus vielen Experimenten, "Matsch-Traumata" und dem glorreichen Moment, wenn die Kruste knackt. Wir backen hier nicht für Instagram, sondern für den echten Hamburger Alltag – mit Kind, Job und dem Anspruch an richtig gutes Brot.
 

@@ -11,12 +11,13 @@ weight: 25
 
 | Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
-| **Sauerteig (aktiv)** | 20% | 100g | 150g |
-| **Weizen Vollkorn** | 60% | 300g | 450g |
-| **Roggen Vollkorn** | 40% | 200g | 300g |
-| **Wasser** | 86% | 430ml | 645ml |
-| **Salz** | 1.8% | 9g | 13g |
-| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1.5 EL Essig, 1 EL Apfelmark |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Weizen Vollkorn* | *60 %* | *300 g* | *450 g* |
+| *davon Roggen Vollkorn* | *40 %* | *200 g* | *300 g* |
+| **Wasser** | **86 %** | **430 ml** | **645 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
 | **WICHTIG** | | **Autolyse: mind. 45 Minuten** | **Autolyse: mind. 45 Minuten** |
 
 ## Wichtig: Die Autolyse ist essentiell!

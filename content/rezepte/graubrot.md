@@ -11,12 +11,13 @@ weight: 20
 
 | Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
-| **Sauerteig (aktiv)** | 20% | 100g | 150g |
-| **Dinkelmehl 1050** | 67% | 335g | 500g |
-| **Roggenmehl 1150** | 33% | 165g | 250g |
-| **Wasser** | 68% | 340ml | 510ml |
-| **Salz** | 1.8% | 9g | 13g |
-| **Extras** | - | **1 EL Essig! (Pflicht)** | **1.5 EL Essig! (Pflicht)** |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Dinkel 1050* | *67 %* | *335 g* | *500 g* |
+| *davon Roggen 1150* | *33 %* | *165 g* | *250 g* |
+| **Wasser** | **68 %** | **340 ml** | **510 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Extras** | - | **1 EL Essig! (Pflicht)** | **1,5 EL Essig! (Pflicht)** |
 
 ## Wichtig: Der Essig ist Pflicht!
 

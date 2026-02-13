@@ -11,14 +11,14 @@ weight: 10
 
 | Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
-| Sauerteig (aktiv) | 20% | 100g | 150g |
-| Weizenmehl 550 | 54% | 270g | 400g |
-| Roggenmehl 1150 | 26% | 130g | 200g |
-| Dinkel Vollkorn | 20% | 100g | 150g |
-| Wasser | ~68% | 340ml | 510ml |
-| Salz | 1.8% | 9g | 13g |
-| Essig | Spur | 1 EL | 1.5 EL |
-| Apfelmark | Spur | 1 EL | 1 EL |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Weizen 550* | *54 %* | *270 g* | *400 g* |
+| *davon Roggen 1150* | *26 %* | *130 g* | *200 g* |
+| *davon Dinkel VK* | *20 %* | *100 g* | *150 g* |
+| **Wasser** | **68 %** | **340 ml** | **510 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
 
 ## Ablauf
 
