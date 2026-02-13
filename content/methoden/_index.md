@@ -1,8 +1,8 @@
 ---
-title: Methoden & Werkzeuge
+title: Der Sauerteig
 weight: 50
 ---
 
-# Methoden & Werkzeuge (Dein Arsenal)
+# Der Sauerteig (Das Herzstück)
 
-Hier findest du alle wichtigen Techniken und Methoden für erfolgreiches Sauerteig-Backen – von der Starter-Pflege über Schnitt-Techniken bis zu verschiedenen Backmethoden.
+Hier findest du alles über die Kultur: Wie du einen Starter von Grund auf züchtest, wie du ihn pflegst und wie du ihn am Leben hältst.

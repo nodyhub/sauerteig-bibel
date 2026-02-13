@@ -20,7 +20,7 @@ Wir arbeiten mit einem "Brühstück" (Quellstück) direkt im Teig – dafür nut
 | **Wasser** | **75 %** | **375 ml** | **560 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | **2 EL Essig** (Pflicht!), 1 TL Flohsamenschalen | 3 EL Essig, 1,5 TL Flohsamenschalen |
+| **Extras** | - | **2 EL Essig** (Pflicht!), 1 EL Honig | 3 EL Essig, 1 EL Honig |
 
 ## Wichtig
 

@@ -18,7 +18,7 @@ weight: 25
 | **Wasser** | **80 %** | **400 ml** | **600 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Apfelmark (Wichtig!) | 1 EL Apfelmark |
+| **Extras** | - | 1 EL Honig | 1 EL Honig |
 | **Tipp** | | Sonnenblumenkerne passen super! | |
 
 ## Besonderheit

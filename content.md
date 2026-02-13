@@ -1,5 +1,5 @@
 # 📖 Die Hamburger Sauerteig-Bibel
-*Dein persönliches Handbuch für ehrliches Brot. Version 2.4 (Februar 2026).*
+*Dein persönliches Handbuch für ehrliches Brot. Version 3.0 (Februar 2026).*
 
 Willkommen in deiner Backstube. Dieses Dokument ist mehr als eine Rezeptsammlung. Es ist die Essenz aus vielen Experimenten, "Matsch-Traumata" und dem glorreichen Moment, wenn die Kruste knackt. Wir backen hier nicht für Instagram, sondern für den echten Hamburger Alltag – mit Kind, Job und dem Anspruch an richtig gutes Brot.
 
@@ -29,7 +29,7 @@ Wir erfinden das Rad nicht jeden Tag neu. Egal welches Brot du aus dieser Bibel 
 ### Phase 1: Die Begegnung (Mischen & Autolyse)
 Hier lernen sich Mehl und Wasser kennen. Wir wollen noch kein perfektes Brot, wir wollen nur, dass alles nass ist.
 * **Das Ziel:** Eine struppige, nasse Masse. Kein trockenes Mehl mehr am Boden.
-* **Die Handlung:** Gib Wasser, Sauerteig, Honig/Apfelmark und alle Mehle in die Schüssel.
+* **Die Handlung:** Gib Wasser, Sauerteig, Honig und alle Mehle in die Schüssel.
     * *Mit Maschine:* Stufe "Min" für **2 Minuten**.
     * *Von Hand:* Mit einem Dänischen Schneebesen oder einem stabilen Löffel verrühren.
 * **Der Zauber:** Deckel drauf. **20 bis 30 Minuten warten** (bei Vollkorn gerne **45 Minuten**). In dieser Zeit bildet sich das Klebergerüst von ganz allein, weil die Proteine quellen. Das spart dir später Knetzeit und verhindert Oxidation.
@@ -76,8 +76,9 @@ Wir wollen eine Kruste, die kracht ("rösch"), und eine saftige Krume.
 
 ## III. Die Rezept-Bibliothek (Bäckerprozente)
 
-*Info: Die Summe aller Mehle ist immer 100 %. Alles andere wird davon abgeleitet.*
-*Die Salzmenge ist hier auf ca. 1,8 % berechnet (Familien-Kompromiss). Für striktes Baby-Brot siehe Kapitel VI.*
+* **Info:** Die Summe aller Mehle ist immer 100 %. Alles andere wird davon abgeleitet.
+* **Standard-Salz:** Die Menge ist hier auf ca. 1,8 % berechnet (Familien-Kompromiss).
+* **👶 Baby-Check:** Möchtest du salzreduziert und honigfrei backen? **Schau unbedingt vorher in Kapitel VII!**
 
 ### 1. Das Hamburger Landbrot (Der Favorit)
 *Das perfekte Frühstücksbrot. Hell, fluffig durch den 550er-Weizen, aber mit Charakter.*
@@ -91,7 +92,7 @@ Wir wollen eine Kruste, die kracht ("rösch"), und eine saftige Krume.
 | **Wasser** | **68 %** | **340 ml** | **510 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 
 ### 2. Das feine Graubrot (Der Allrounder)
 *Der Klassiker für Wurst und Käse. Saftig, ohne Körner-Feeling, kindgerecht.*
@@ -117,7 +118,7 @@ Wir wollen eine Kruste, die kracht ("rösch"), und eine saftige Krume.
 | **Wasser** | **86 %** | **430 ml** | **645 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 | **WICHTIG** | | **Autolyse: mind. 45 Minuten** | |
 
 ### 4. Das Dinkel-Saftkorn (Das Besondere)
@@ -144,7 +145,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | *davon im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig | 1,5 EL Essig |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 
 ### 5. Der Hanseat (100 % Roggen)
 *Ein echtes Schwarzbrot. Dunkel, kräftig, saftig. Hält sich ewig frisch.*
@@ -158,7 +159,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | **Wasser** | **80 %** | **400 ml** | **600 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Apfelmark (Wichtig!) | 1 EL Apfelmark |
+| **Extras** | - | 1 EL Honig | 1 EL Honig |
 | **Tipp** | | Sonnenblumenkerne passen super! | |
 
 * **Besonderheit:** Roggen muss nicht "entwickelt" werden. Mische alles zusammen (Stufe Min), bis es eine homogene Masse ist. Fertig. Keine Falten nötig (bringt bei Roggen nichts). Einfach in den Kasten füllen, glattstreichen, gehen lassen.
@@ -174,7 +175,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | **Wasser** | **75 %** | **375 ml** | **560 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | **2 EL Essig** (Pflicht!), 1 TL Flohsamenschalen | 3 EL Essig, 1,5 TL Flohsamenschalen |
+| **Extras** | - | **2 EL Essig** (Pflicht!), 1 EL Honig | 3 EL Essig, 1 EL Honig |
 
 * **Wichtig:** Dinkel Vollkorn säuft wie ein Loch, aber langsam. Mische Wasser und Mehl und lass es **mindestens 45 bis 60 Minuten** stehen (Autolyse), bevor Salz und Sauerteig dazu kommen. Sanft kneten!
 
@@ -190,7 +191,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
 | **Fett** | **3 %** | **15 g Butter/Öl** | **25 g Butter/Öl** |
-| **Extras** | - | 1 EL Honig/Apfelmark | 1 EL Honig/Apfelmark |
+| **Extras** | - | 1 EL Honig | 1 EL Honig |
 
 * **Zubereitung:** Weizen Vollkorn braucht Power. Knete diesen Teig ruhig **8 bis 10 Minuten** in der Maschine, bis er sich richtig gut entwickelt hat. Das Fett erst ganz am Ende unterkneten.
 
@@ -198,7 +199,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 
 ## IV. Specials (Süßes & Faules)
 
-### 5. No-Knead Topfbrot ("Lazy Sunday")
+### 8. No-Knead Topfbrot ("Lazy Sunday")
 *Du hast keine Lust auf Kneten und Falten? Das ist dein Rezept. Es nutzt die Zeit statt Muskelkraft.*
 
 | Zutat | Bäcker-% | Menge (1 Gusseisen-Topf) |
@@ -218,7 +219,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
     5.  Teig in den heißen Topf plumpsen lassen, Deckel drauf.
     6.  **30 Minuten** mit Deckel backen (Dampf bleibt drin), dann **15 Minuten** ohne Deckel für die Kruste.
 
-### 6. Sauerteig-Schokokuchen (Nichts wegwerfen!)
+### 9. Sauerteig-Schokokuchen (Nichts wegwerfen!)
 *Dein Sauerteigrest ("Discard") muss nicht in den Müll. Das ist der saftigste Kuchen der Welt.*
 * **Zutaten:**
     * 200 g Sauerteig-Reste (darf ruhig inaktiv sein)
@@ -231,7 +232,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 
 ---
 
-## V. Methoden & Werkzeuge (Dein Arsenal)
+## V. Der Sauerteig (Das Herzstück)
 
 ### Der Urknall: Einen Starter ansetzen
 Du fängst bei Null an? Hier erschaffst du Leben. Verwende am besten **Roggenvollkornmehl** (das gärt am sichersten).
@@ -253,30 +254,61 @@ Dein fertiger Starter braucht Rhythmus.
 * **Wann ist er fertig? (Peak):** Wenn er sich im Glas verdoppelt hat und oben leicht wölbt. Mach den **Schwimmtest**: Ein Löffel Sauerteig in Wasser. Schwimmt er? -> Backbereit. Geht er unter? -> Muss noch warten.
 * **Backup:** Streiche Sauerteig dünn auf Backpapier, lass ihn trocknen und zerbrösel ihn. Diese "Sauerteig-Flakes" halten im Glas ewig.
 
-### Die Schnitt-Technik
-Warum schneiden wir ein? Damit das Gas kontrolliert entweicht und das Brot nicht an der Seite aufplatzt.
-* **Bei Kastenbroten (Weiche Teige):** Nimm die **Schere**! Schneide im Zick-Zack-Muster oder einfach tief der Länge nach. Die Schere verklebt nicht so schnell wie ein Messer.
-* **Bei freigeschobenen Broten (Feste Teige):** Nimm eine **Rasierklinge (Lame)**. Halte sie im 45°-Winkel, um ein knuspriges "Ohr" zu erzeugen.
-
 ---
 
-## VI. Baby-Spezial & Wissenswertes
+## VI. Werkzeuge, Tricks & Einhänder-Hacks
 
-### Die Baby-Formel (Salz vs. Physik)
-Ein Kleinkind (1–3 Jahre) sollte maximal 2 g Salz am Tag essen. Normales Brot hat aber viel Salz.
-* **Das Problem:** Salz gibt Geschmack, aber es stabilisiert auch das Klebergerüst (Gluten). Ohne Salz läuft der Teig breit.
-* **Unsere Lösung:** Wir reduzieren das Salz auf **1 % bis 1,2 %** (statt 2 %). Dafür erhöhen wir die **Säure (Essig)**.
-    * Die Säure übernimmt die stabilisierende Rolle des Salzes.
-    * *Faustregel:* Wenn du Salz reduzierst, nimm **1,5 bis 2 EL Essig** statt einem.
+### 1. Das Anti-Klebe-Gesetz: Wasser statt Mehl
+Viele Anfänger bemehlen die Hände und trocknen den Teig damit aus. Profis nutzen Wasser.
+* **Kalte, nasse Hände:** Bevor du den Teig anfasst (z. B. beim Falten), halte deine Hände unter kaltes Wasser. Das Wasser schließt die Poren der Haut und bildet einen Schutzfilm. Der Teig klebt nicht an nasser Haut. Stell dir immer eine kleine Schale Wasser neben die Schüssel.
+* **Die Teigkarte (Dein bester Freund):** Eine flexible Teigkarte aus Kunststoff (kein Metall in der Schüssel!) ist die Verlängerung deiner Hand.
+    * *Der Trick:* Mach auch die Teigkarte nass! Damit fährst du an der Rundung der Schüssel entlang, hebst den Teig an und legst ihn um. So kannst du den Teig perfekt **in der Schüssel modellieren**, ohne dir die Finger schmutzig zu machen.
 
-### Teig-Notdienst (Hilfe, es ist Suppe!)
+### 2. Das Einhänder-Spezial (Backen mit Links... oder Rechts)
+Brotbacken ist Handwerk, aber man braucht keine zwei Hände, um ein Weltklasse-Brot zu zaubern. Hier sind die Hacks für den Einhand-Workflow:
+
+* **Der Anker (Rutschfestigkeit):** Leg immer ein **feuchtes Spültuch** unter deine Rührschüssel. Das saugt sich an der Arbeitsplatte fest. So kannst du in der Schüssel arbeiten, ohne dass sie sich wegdreht oder wegrutscht.
+* **Modellieren statt Kneten:** Vergiss das Kneten auf der Arbeitsplatte. Wir machen alles in der Schüssel. Nutze die nasse Teigkarte, um den Teig vom Rand in die Mitte zu ziehen ("Rubaud-Methode"). Das baut Spannung auf, ohne Chaos auf dem Tisch.
+* **Teilen nach Augenmaß:** Wenn du zwei Brote backst (Doppel-Rezept), wieg nicht mühsam Teigstücke ab. Kipp die Masse auf die nasse Arbeitsfläche und teile sie mit der Teigkarte mittig durch. Kastenformen verzeihen es, wenn ein Brot 50 g schwerer ist als das andere.
+* **Der Toaster-Hack:** Das Schneiden von krustigem Brot ist einhändig oft ein Kampf.
+    * *Lösung:* Schneide das Brot, sobald es ausgekühlt ist (wenn die Kruste noch nicht steinhart ist), komplett in Scheiben (ggf. mit Brotschneidemaschine).
+    * Friere die Scheiben päckchenweise oder mit Backpapier dazwischen ein.
+    * Morgens: Gefrorene Scheibe direkt in den Toaster. Schmeckt wie frisch gebacken und spart dir morgens das Sägen.
+
+### 3. Die Schnitt-Technik
+Warum schneiden wir ein? Damit das Gas kontrolliert entweicht und das Brot nicht an der Seite wild aufplatzt.
+* **Bei Kastenbroten (Weiche Teige):** Nimm die **Schere**! Das ist viel einfacher als ein Messer. Schneide im Zick-Zack-Muster oder einfach tief der Länge nach. Die Schere verklebt nicht so schnell.
+* **Bei freigeschobenen Broten (Feste Teige):** Nimm eine **Rasierklinge (Lame)**. Halte sie im 45°-Winkel, um ein knuspriges "Ohr" zu erzeugen.
+
+### 4. Teig-Notdienst (Hilfe, es ist Suppe!)
 Du hast zu viel Wasser erwischt oder das Vollkornmehl war zickig?
 1.  **Ruhe:** Maschine aus. **20 Minuten** warten. Oft quillt es nach.
 2.  **Haferflocken:** Knete 2–3 EL Haferflocken unter. Sie sind Saugwunder und machen das Brot saftig.
 3.  **Flohsamenschalen:** Die Geheimwaffe. 1 TL geliert sofort große Mengen Wasser.
 4.  **Egal-Haltung:** Ab in die Kastenform! Die hält auch "Suppe" zusammen. Das Brot wird oft trotzdem lecker, nur die Krume wird etwas feuchter.
 
-### Lagerung (Rette die Kruste)
+### 5. Lagerung (Rette die Kruste)
 Ein Sauerteigbrot lebt.
 * **Tag 1–2:** Stell das angeschnittene Brot einfach mit der **Schnittfläche auf ein Holzbrett**. Die Kruste bleibt an der Luft knusprig, das Innere trocknet durch das Brett nicht aus.
-* **Einfrieren:** Schneide den Rest in Scheiben, friere sie mit Backpapier-Trennern ein. Direkt in den Toaster – schmeckt wie frisch gebacken!
+* **Verboten:** Plastiktüten (machen das Brot weich und zäh) und der Kühlschrank (lässt Brot physikalisch schneller altbacken werden).
+
+---
+
+## VII. Baby-Spezial (Salz, Honig & Sicherheit)
+
+Ein Kleinkind (1–3 Jahre) sollte maximal 2 g Salz am Tag essen. Normales Brot hat aber viel Salz.
+
+### 1. Die Salz-Formel
+* **Das Problem:** Salz gibt Geschmack, aber es stabilisiert auch das Klebergerüst (Gluten). Ohne Salz läuft der Teig breit.
+* **Unsere Lösung:** Wir reduzieren das Salz auf **1 % bis 1,2 %** (statt 2 %). Dafür erhöhen wir die **Säure (Essig)**.
+    * Die Säure übernimmt die stabilisierende Rolle des Salzes.
+    * *Faustregel:* Wenn du Salz reduzierst, nimm **1,5 bis 2 EL Essig** statt einem.
+
+### 2. Honig vs. Apfelmark (Der süße Ersatz)
+Die Rezepte in dieser Bibel nutzen Honig.
+* **Achtung:** Honig ist für Säuglinge **unter 1 Jahr tabu** (Gefahr von Botulismus).
+* **Die Alternative:** Ersetze in den Rezepten den Honig einfach 1:1 durch:
+    * **Apfelmark** (ungesüßt) – macht das Brot super saftig.
+    * **Reissirup** oder **Agavendicksaft**.
+    * **Zucker** (einfach weiß/braun).
+    * *Oder:* Einfach weglassen. Das Brot wird dann nur etwas blasser.

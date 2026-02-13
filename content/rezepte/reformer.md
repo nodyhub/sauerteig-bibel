@@ -21,7 +21,7 @@ Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher und die
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
 | **Fett** | **3 %** | **15 g Butter/Öl** | **25 g Butter/Öl** |
-| **Extras** | - | 1 EL Honig/Apfelmark | 1 EL Honig/Apfelmark |
+| **Extras** | - | 1 EL Honig | 1 EL Honig |
 
 ## Zubereitung
 

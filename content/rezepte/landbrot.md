@@ -18,7 +18,7 @@ weight: 10
 | **Wasser** | **68 %** | **340 ml** | **510 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 
 ## Ablauf
 

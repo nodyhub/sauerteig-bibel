@@ -17,7 +17,7 @@ weight: 25
 | **Wasser** | **86 %** | **430 ml** | **645 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1,5 EL Essig, 1 EL Apfelmark |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 | **WICHTIG** | | **Autolyse: mind. 45 Minuten** | **Autolyse: mind. 45 Minuten** |
 
 ## Wichtig: Die Autolyse ist essentiell!

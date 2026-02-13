@@ -29,7 +29,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | *davon im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
 | **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig | 1,5 EL Essig |
+| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
 
 ## Ablauf
 
