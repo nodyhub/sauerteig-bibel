@@ -16,16 +16,17 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 
 ## Schritt B: Der Hauptteig
 
-*Zutaten für Standard (XL in Klammern):*
-
-| Zutat | Standard | XL |
-| :--- | :--- | :--- |
-| **Kochstück (gekühlt)** | wie oben | wie oben |
-| **Sauerteig (aktiv)** | 100g | 150g |
-| **Dinkelmehl 630** | 350g | 525g |
-| **Dinkel Vollkorn** | 150g | 225g |
-| **Wasser (Eiskalt!)** | 230ml | 345ml |
-| **Salz + Essig** | 9g + 1 EL | 13g + 1.5 EL |
+| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Dinkel 630* | *64 %* | *320 g* | *480 g* |
+| *davon Dinkel VK* | *30 %* | *150 g* | *225 g* |
+| *davon im Kochstück* | *6 %* | *30 g* | *45 g* |
+| **Gesamtwasser** | **76%** | **380 ml** | **570 ml** |
+| *davon im Hauptteig (Eiskalt!)* | | *230 ml* | *345 ml* |
+| **Sauerteig (aktiv)** | 20% | 100 g | 150 g |
+| **Salz** | 1.8% | 9 g | 13 g |
+| **Essig** | - | 1 EL | 1.5 EL |
 
 ## Ablauf
 

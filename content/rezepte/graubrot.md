@@ -9,12 +9,12 @@ weight: 20
 
 ## Zutaten
 
-| Zutat | % | Standard (1 Kasten) | XL (Großer Kasten) |
+| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Sauerteig (aktiv)** | 20% | 100g | 150g |
-| **Dinkelmehl 1050** | 66% | 330g | 500g |
+| **Dinkelmehl 1050** | 67% | 335g | 500g |
 | **Roggenmehl 1150** | 33% | 165g | 250g |
-| **Wasser** | ~68% | 340ml | 510ml |
+| **Wasser** | 68% | 340ml | 510ml |
 | **Salz** | 1.8% | 9g | 13g |
 | **Extras** | - | **1 EL Essig! (Pflicht)** | **1.5 EL Essig! (Pflicht)** |
 

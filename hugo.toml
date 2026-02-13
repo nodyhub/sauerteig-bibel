@@ -6,6 +6,9 @@ googleAnalytics = "G-V6WWFW2FNX"
 disablePathToLower = false
 enableGitInfo = false
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
   BookTheme = 'auto'
   BookToC = false

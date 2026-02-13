@@ -9,12 +9,12 @@ weight: 25
 
 ## Zutaten
 
-| Zutat | % | Standard (1 Kasten) | XL (Großer Kasten) |
+| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Sauerteig (aktiv)** | 20% | 100g | 150g |
 | **Weizen Vollkorn** | 60% | 300g | 450g |
 | **Roggen Vollkorn** | 40% | 200g | 300g |
-| **Wasser** | ~85% | 430ml | 640ml |
+| **Wasser** | 86% | 430ml | 645ml |
 | **Salz** | 1.8% | 9g | 13g |
 | **Extras** | - | 1 EL Essig, 1 EL Apfelmark | 1.5 EL Essig, 1 EL Apfelmark |
 | **WICHTIG** | | **Autolyse: mind. 45 Minuten** | **Autolyse: mind. 45 Minuten** |
