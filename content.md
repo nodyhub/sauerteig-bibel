@@ -146,6 +146,54 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. 
 | **Salz** | **1,8 %** | **9 g** | **13 g** |
 | **Extras** | - | 1 EL Essig | 1,5 EL Essig |
 
+### 5. Der Hanseat (100 % Roggen)
+*Ein echtes Schwarzbrot. Dunkel, kräftig, saftig. Hält sich ewig frisch.*
+*Achtung:* Das ist kein Teig, das ist Mörtel. Nicht kneten, nur mischen!
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Roggen Vollkorn* | *50 %* | *250 g* | *375 g* |
+| *davon Roggen 1150* | *50 %* | *250 g* | *375 g* |
+| **Wasser** | **80 %** | **400 ml** | **600 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Extras** | - | 1 EL Apfelmark (Wichtig!) | 1 EL Apfelmark |
+| **Tipp** | | Sonnenblumenkerne passen super! | |
+
+* **Besonderheit:** Roggen muss nicht "entwickelt" werden. Mische alles zusammen (Stufe Min), bis es eine homogene Masse ist. Fertig. Keine Falten nötig (bringt bei Roggen nichts). Einfach in den Kasten füllen, glattstreichen, gehen lassen.
+
+### 6. Die Dinkel-Seele (100 % Dinkel Vollkorn)
+*Nussig und fein. Die Herausforderung: Dinkel Vollkorn wird schnell trocken.*
+*Die Lösung:* Wir arbeiten mit einem "Brühstück" (Quellstück) direkt im Teig – dafür nutzen wir kochendes Wasser für einen Teil des Mehls oder einfach eine sehr lange Autolyse. Hier die einfache Version mit Flohsamenschalen für die Saftigkeit.
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Dinkel Vollkorn* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | **75 %** | **375 ml** | **560 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Extras** | - | **2 EL Essig** (Pflicht!), 1 TL Flohsamenschalen | 3 EL Essig, 1,5 TL Flohsamenschalen |
+
+* **Wichtig:** Dinkel Vollkorn säuft wie ein Loch, aber langsam. Mische Wasser und Mehl und lass es **mindestens 45 bis 60 Minuten** stehen (Autolyse), bevor Salz und Sauerteig dazu kommen. Sanft kneten!
+
+### 7. Der Reformer (100 % Weizen Vollkorn)
+*Das klassische "Gesundheitsbrot", aber in lecker. Nicht bitter, sondern fluffig.*
+*Der Trick:* Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher und die Krume geschmeidig.
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *davon Weizen Vollkorn* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | **80 %** | **400 ml** | **600 ml** |
+| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
+| **Salz** | **1,8 %** | **9 g** | **13 g** |
+| **Fett** | **3 %** | **15 g Butter/Öl** | **25 g Butter/Öl** |
+| **Extras** | - | 1 EL Honig/Apfelmark | 1 EL Honig/Apfelmark |
+
+* **Zubereitung:** Weizen Vollkorn braucht Power. Knete diesen Teig ruhig **8 bis 10 Minuten** in der Maschine, bis er sich richtig gut entwickelt hat. Das Fett erst ganz am Ende unterkneten.
+
 ---
 
 ## IV. Specials (Süßes & Faules)
