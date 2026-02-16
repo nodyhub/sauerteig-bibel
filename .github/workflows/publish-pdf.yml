@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths: ['content_dump.txt']
-  # NEU: Manueller Trigger hinzugefügt
   workflow_dispatch:
 
 permissions:
@@ -38,34 +37,24 @@ jobs:
           with sync_playwright() as p:
               browser = p.chromium.launch()
               page = browser.new_page()
-              # Pfad zum generierten HTML
               path = 'file://' + os.getcwd() + '/sauerteig_bibel.html'
-              page.goto(path)
-              # PDF Drucken mit Hintergrundfarben (für das Cover)
+              page.goto(path, wait_until='networkidle')
               page.pdf(
                   path='Sauerteig-Bibel.pdf', 
                   format='A4', 
                   print_background=True,
-                  margin={'top': '0px', 'right': '0px', 'bottom': '0px', 'left': '0px'}
+                  margin={'top': '0', 'right': '0', 'bottom': '0', 'left': '0'}
               )
               browser.close()
           "
 
-      # Optional: PDF als Artifact speichern (zum direkten Download in der Action)
-      - name: Upload PDF Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: Sauerteig-Bibel-PDF
-          path: Sauerteig-Bibel.pdf
-
       - name: Create Release
-        # Nur einen Release erstellen, wenn wir auf dem main branch sind (nicht bei Tests)
         if: github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v${{ steps.prep.outputs.VERSION }}
           name: "Sauerteig-Bibel v${{ steps.prep.outputs.VERSION }}"
           files: Sauerteig-Bibel.pdf
-          body: "Manuell oder automatisch generierte PDF-Version ${{ steps.prep.outputs.VERSION }}."
+          body: "Automatisch generiertes PDF der Version ${{ steps.prep.outputs.VERSION }}."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
