@@ -18,7 +18,7 @@ titlepage: true
 titlepage-text-color: "FFFFFF"
 titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 2
-titlepage-background: "5D4037" 
+titlepage-background: "#5D4037" 
 toc: true
 toc-own-page: true
 book: true
