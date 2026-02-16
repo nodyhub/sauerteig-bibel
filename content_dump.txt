@@ -8,6 +8,8 @@ type: docs
 
 *Dein persönliches Handbuch für ehrliches Brot. Version 4.2.*
 
+> **[📥 Download PDF (v4.2)](https://github.com/nodyhub/sauerteig-bibel/releases/download/v4.2/Sauerteig-Bibel.pdf)**
+
 Moin.
 
 Dies ist keine Hochglanz-Broschüre und kein Chemie-Lehrbuch. Es ist meine persönliche Sammlung für den echten Hamburger Alltag – zwischen Job, Kind und dem Wunsch, vernünftiges Brot auf dem Tisch zu haben, ohne dafür nachts um drei aufzustehen.
