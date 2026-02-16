@@ -1,0 +1,785 @@
+===== START FILE: _index.md =====
+---
+title: Die Hamburger Sauerteig-Bibel
+type: docs
+---
+
+# Die Hamburger Sauerteig-Bibel
+
+*Dein persönliches Handbuch für ehrliches Brot. Version 4.2.*
+
+Moin.
+
+Dies ist keine Hochglanz-Broschüre und kein Chemie-Lehrbuch. Es ist meine persönliche Sammlung für den echten Hamburger Alltag – zwischen Job, Kind und dem Wunsch, vernünftiges Brot auf dem Tisch zu haben, ohne dafür nachts um drei aufzustehen.
+
+**Wichtig vorab:**
+Dieses Buch konzentriert sich fast ausschließlich auf das Backen in der **Kastenform**.
+Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen sauber hält und am Ende Scheiben liefert, die perfekt in die Brotdose passen.
+
+## Der Fahrplan
+
+* **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
+* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Kneten, Falten, Backen).
+* **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten).
+* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
+
+---
+
+*Viel Spaß beim Backen. Es wird gut.*
+
+===== START FILE: wissen/philosophie.md =====
+---
+title: Philosophie & Grundlagen
+weight: 10
+---
+
+# Philosophie & Grundlagen
+
+Brotbacken ist Handwerk, aber vor allem ist es Gefühl. Das wichtigste Gesetz lautet: **Mehl ist ein Naturprodukt.** Es verhält sich jeden Tag ein bisschen anders, je nach Luftfeuchtigkeit in Hamburg oder der Temperatur in deiner Küche.
+
+Bevor du blind Wasser in die Schüssel kippst, schau dir an, wen du vor dir hast.
+
+## Die Mehl-Charaktere
+
+Nicht jedes Mehl trinkt gleich viel. Diese Tabelle bewahrt dich davor, aus Versehen Suppe zu produzieren.
+
+| Der Kandidat | Wasserbedarf (Hydratation) | Charakter & Umgang |
+| :--- | :--- | :--- |
+| **Weizen 550** | **ca. 60–65 %** | **Der Motor.** Bringt Fluffigkeit. Er ist gutmütig, schluckt Wasser schnell und lässt sich wunderbar auskneten. |
+| **Dinkel 630** | **ca. 60–63 %** | **Die Diva.** Wird bei zu viel Wasser schlagartig flüssig. Behandle ihn sanft, knete ihn kurz. Lieber 10 ml Wasser zurückhalten! |
+| **Weizen 1050** | **ca. 70–75 %** | **Der Gutmütige.** Bringt mehr Geschmack als das 550er und verzeiht Fehler eher als Dinkel. |
+| **Dinkel 1050** | **ca. 65–70 %** | **Der Stabilisator.** Dunkler und griffiger. Braucht oft etwas Säure (Essig/Sauerteig), um die Form zu halten. |
+| **Roggen 1150** | **ca. 75–80 %** | **Der Lehm.** Roggen bildet kein Klebergerüst (Gluten). Er ist immer klebrig. Hier gibt es keinen "Fenstertest", nur eine pampige Masse. |
+| **Vollkorn** | **ca. 80–90 %+** | **Der Durstige.** Die Schalenteile saugen Wasser wie ein Schwamm – aber langsam! Deshalb ist die *Autolyse* (Quellzeit) hier Pflicht. |
+
+## Warum machen wir das alles?
+
+### Kneten
+Im Weizen und Dinkel steckt Gluten (Klebereiweiß). Stell dir das wie ein Netz vor. Durch das Kneten verknüpfen wir die Fäden zu einem stabilen Netz, das die Luftbläschen festhält.
+* **Weizen:** Mag es, kräftig geknetet zu werden.
+* **Dinkel:** Ist empfindlich. Zu viel Kneten zerreißt das Netz wieder (der Teig wird nass und glänzend).
+* **Roggen:** Hat kein solches Netz. Roggen wird nur gemischt.
+
+### Warten (Gare)
+Sauerteig ist wilde Biologie: Hefen und Milchsäurebakterien. Die brauchen Zeit, um den Zucker im Mehl zu futtern und dabei CO₂ zu produzieren (das macht die Löcher) und Säure zu bilden (das macht den Geschmack). Zeit ist die wichtigste Zutat.
+
+### Falten
+Wenn der Teig ruht, entspannt er sich und läuft breit. Durch das Dehnen und Falten ("Coil Fold") bringen wir wieder Spannung in das Paket, damit das Brot im Ofen nach oben aufgeht und nicht in die Breite fließt.
+
+===== START FILE: sauerteig/_index.md =====
+---
+title: Die Sauerteig-Schule
+weight: 10
+---
+
+# Die Sauerteig-Schule
+
+Hier lernst du, wie du deine Kultur ansetzt, pflegst und am Leben hältst.
+
+## Begriffsdefinition
+
+* **Das Anstellgut (Starter):** Die Kultur im Kühlschrank. Dein Backup.
+* **Der Sauerteig:** Der aktive Teig, der ins Brot kommt. Er entsteht, wenn wir einen Teil vom Anstellgut mit frischem Mehl und Wasser mischen und warm stehen lassen.
+
+## Einen Starter ansetzen
+
+Du hast noch keinen? Wir züchten einen über 5 Tage.
+* **Mehl:** Roggenvollkorn (gärt am sichersten).
+* **Prinzip:** 1 Teil Mehl, 1 Teil Wasser (1:1).
+
+### Der Plan
+* **Tag 1:** 50 g Mehl + 50 g Wasser (lauwarm) verrühren. 24 Std. warm stehen lassen.
+* **Tag 2:** 50 g vom Ansatz nehmen (Rest wegwerfen/verbacken), mit 50 g frischem Mehl + 50 g Wasser mischen.
+* **Tag 3 bis 5:** Wiederholen.
+* **Ziel:** Wenn er angenehm säuerlich riecht und sich in 4–6 Stunden verdoppelt, ist er fertig.
+
+## Pflege & Fütterung
+
+### Die Routine
+1.  Starter aus dem Kühlschrank holen.
+2.  **Füttern:** 50 g Wasser + 50 g Vollkornmehl einrühren.
+3.  Warm stehen lassen (4–6 Stunden).
+4.  **Der Peak:** Wenn er sich verdoppelt hat und oben leicht wölbt, ist er perfekt zum Backen.
+5.  Menge fürs Rezept abnehmen, den Rest (das Anstellgut) zurück in den Kühlschrank.
+
+### Lagerung
+Im Kühlschrank hält er 1–2 Wochen ohne Futter. Deckel nur auflegen, nicht festschrauben (Gase müssen entweichen können).
+
+### Geschichte: Der Strumpf
+Früher gab es keine Kühlschränke. Wie haben Oma und Opa den Sauerteig konserviert?
+Ganz pragmatisch: Der krümelige Rest vom Backtrog wurde in einen sauberen Leinenstrumpf gesteckt und auf dem Dachboden aufgehängt. Dort trocknete er durch. Beim nächsten Backtag wurde der "Strumpf-Inhalt" einfach mit warmem Wasser zerbröselt und mit Mehl gefüttert. Zack – lebendig.
+(Wir nehmen heute aber lieber das saubere Schraubglas im Kühlschrank.)
+
+===== START FILE: basis-ablauf.md =====
+---
+title: Der Basis-Ablauf
+weight: 20
+---
+
+# Der Basis-Ablauf
+
+Wir erfinden das Rad nicht jeden Tag neu. Dies ist der bewährte Rhythmus für fast alle **Kastenbrote** in diesem Buch.
+
+> **TL;DR (Zusammenfassung):**
+> Wir starten mit dem Mischen von Mehl, Wasser und Sauerteig (Autolyse), damit das Mehl quellen kann. Erst danach kommt Salz dazu und wir kneten den Hauptteig. Über 3–4 Stunden geben wir dem Teig durch Falten Struktur (Stockgare). Geformt wandert er im Kasten über Nacht in den Kühlschrank (Kalte Gare) und wird morgens direkt kalt gebacken.
+
+---
+
+## Phase: Vorbereitung (Optional)
+Manche Rezepte (wie das Saftkorn) benötigen ein **Kochstück** oder **Brühstück**.
+* Das wird *vor* allem anderen gemacht.
+* Es muss **komplett abkühlen**, bevor es zum Teig kommt.
+* *Details findest du im jeweiligen Rezept.*
+
+## Phase: Die Autolyse (Mischen)
+Wir mischen fast alles – **außer das Salz!** Salz entzieht Wasser und hemmt die Entwicklung der Hefe/Bakterien. Wir wollen aber, dass das Mehl erstmal in Ruhe quellen kann.
+
+* **Tun:** Wasser, Sauerteig, Honig/Apfelmark und alle Mehle (und ggf. das kalte Kochstück) in die Schüssel.
+* **Mischen:** Nur kurz (Maschine: 2 Min, Hand: Löffel), bis kein trockenes Mehl mehr zu sehen ist.
+* **Warten:** Deckel drauf. 20 bis 30 Minuten stehen lassen.
+    * *Bei Vollkorn:* Mindestens **45 bis 60 Minuten**, damit die Kleie weich wird.
+
+## Phase: Der Hauptteig (Kneten)
+Jetzt kommt das Salz (und ggf. Essig) dazu. Der Teig wird jetzt straffer.
+
+### In der Küchenmaschine
+* **Weizen-Teige:** Stufe 2 (zügig). Ca. 6–8 Minuten. Der Teig sollte sich vom Schüsselrand lösen ("Fenstertest").
+* **Dinkel/Roggen:** Vorsicht! Stufe 1 (langsam). Maximal 4–5 Minuten. Sobald der Teig glatt aussieht: **Stopp.** Dinkel verzeiht kein Überkneten (wird sonst wieder flüssig).
+
+### Von Hand
+Knete das Salz unter. Nutze Techniken wie "Slap & Fold" (auf den Tisch klatschen) oder knete in der Schüssel. Nach ca. 5–10 Minuten merkst du, wie der Teig elastisch wird.
+
+## Phase: Stockgare & Falten
+Der Teig ruht nun ca. **3 bis 4 Stunden** an einem warmen Ort (22–24 °C).
+
+**Falten:**
+Um dem Teig Stabilität zu geben, falten wir ihn nach **45 Minuten** und nach **90 Minuten**.
+* *Wie das geht?* Siehe [Kapitel Teigbearbeitung](../wissen/teigbearbeitung/).
+* *Ausnahme:* Reine Roggenbrote werden nicht gefaltet.
+
+## Phase: Formen
+1.  Kastenform fetten (Butter ist King).
+2.  Teig hineingeben.
+3.  Mit einem nassen Löffel oder nasser Teigkarte glattstreichen.
+4.  *Optional:* Mit Wasser besprühen und Haferflocken/Saaten draufstreuen.
+
+## Phase: Die Gare (Übernacht)
+Wir nutzen die "Kalte Gare". Das macht dich zeitlich flexibel und das Brot bekömmlicher.
+1.  Lass den Teig im Kasten noch ca. **30 Minuten** in der Küche anspringen.
+2.  Packe eine Tüte drüber (aufpusten, damit sie nicht klebt).
+3.  Ab in den **Kühlschrank** für **8 bis 16 Stunden** (z.B. über Nacht).
+
+## Phase: Das Backen
+Wir wollen eine Kruste, die kracht.
+
+1.  **Vorheizen:** **250 °C** (Ober-/Unterhitze). Stell eine feuerfeste Schale mit Wasser unten rein (Dampf!).
+2.  **Schnitt:** Hol den kalten Teig aus dem Kühlschrank. Schneide ihn sofort der Länge nach ca. 1 cm tief ein (nasse Schere oder Klinge).
+3.  **Anbacken:** **15 Minuten** bei 250 °C.
+4.  **Durchbacken:** Tür kurz auf (Dampf rauslassen!), Temperatur runter auf **200–210 °C**. Ca. **40 bis 45 Minuten** backen.
+5.  **Krusten-Finale:** Brot aus dem Kasten kippen. Leg es "nackt" auf den Rost. Klemme einen Kochlöffel in die Ofentür und backe es **10 bis 15 Minuten** fertig.
+
+===== START FILE: rezepte/_index.md =====
+---
+title: Rezept-Bibliothek
+weight: 30
+---
+
+# Rezept-Bibliothek
+
+Hier sind deine Bausteine für den Alltag.
+
+* **Standard:** Berechnet für die normale Kastenform (ca. 1 kg Teig).
+* **XL:** Berechnet für die große 1,5-fache Form (ca. 1,5 kg Teig).
+* **%:** Die Bäckerprozente (Mehl ist immer 100 %).
+
+> **Hinweis:** Alle Rezepte folgen dem [Basis-Ablauf](../basis-ablauf/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
+>
+> **Baby-Check:** Backst du für Kleinkinder? Dann schau dir vor dem Wiegen das [Baby-Spezial](../wissen/baby-spezial/) an (Salz & Honig anpassen).
+
+===== START FILE: rezepte/landbrot.md =====
+---
+title: Hamburger Landbrot
+weight: 10
+---
+
+# Hamburger Landbrot
+
+*Das perfekte Frühstücksbrot. Hell, fluffig durch den 550er Weizen, aber mit Charakter durch Roggen und Dinkel.*
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *54 %* | *270 g* | *400 g* |
+| *...Roggen 1150* | *26 %* | *130 g* | *200 g* |
+| *...Dinkel VK* | *20 %* | *100 g* | *150 g* |
+| **Wasser** | *68 %* | **340 ml** | **510 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Honig** (optional) | - | 1 EL | 1 EL |
+| **Essig** | - | optional (1 TL) | optional (1 EL) |
+
+## Der Ablauf
+1.  **Phase: Autolyse**
+    * Standard: 30 Minuten quellen lassen.
+2.  **Phase: Kneten**
+    * Weizen mag Struktur. Knete zügig (Stufe 2) für **6–8 Minuten**.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) (Phase 3: Stockgare).
+
+===== START FILE: rezepte/graubrot.md =====
+---
+title: Feines Graubrot
+weight: 20
+---
+
+# Feines Graubrot
+
+*Der Allrounder für Wurst und Käse. Saftig, ohne Körner, sehr kindgerecht.*
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Dinkel 1050* | *67 %* | *335 g* | *500 g* |
+| *...Roggen 1150* | *33 %* | *165 g* | *250 g* |
+| **Wasser** | *68 %* | **340 ml** | **510 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Essig** | - | **1 EL (Pflicht!)** | **1,5 EL (Pflicht!)** |
+
+**Wichtig:** Da hier kein Weizen klebt, brauchen Dinkel und Roggen die Säure vom Essig zur Stabilisierung. Nicht weglassen!
+
+## Der Ablauf
+1.  **Phase: Autolyse**
+    * Standard: 30 Minuten quellen lassen.
+2.  **Phase: Kneten**
+    * Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal **4–5 Minuten**. Sobald der Teig glatt ist: Stopp.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+===== START FILE: rezepte/vollkorn.md =====
+---
+title: Vollkorn-Kraftpaket
+weight: 30
+---
+
+# Vollkorn-Kraftpaket
+
+*Dunkel, gesund, kernig. Hier ist die Quellzeit (Autolyse) besonders wichtig, damit es nicht trocken wird.*
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen VK* | *60 %* | *300 g* | *450 g* |
+| *...Roggen VK* | *40 %* | *200 g* | *300 g* |
+| **Wasser** | *86 %* | **430 ml** | **645 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Honig** | - | 1 EL | 1 EL |
+| **Essig** | - | 1 EL | 1,5 EL |
+
+## Der Ablauf
+1.  **Phase: Autolyse (Verlängert!)**
+    * Vollkornschalen saugen langsam. Lass Mehl und Wasser **mindestens 45 bis 60 Minuten** stehen, bevor Salz dazu kommt.
+2.  **Phase: Kneten**
+    * Vorsichtig. Stufe 1, maximal **5 Minuten**.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+===== START FILE: rezepte/hanseat.md =====
+---
+title: Der Hanseat
+weight: 40
+---
+
+# Der Hanseat
+
+*100 % Roggen. Ein echtes Schwarzbrot. Das ist kein Teig, das ist Mörtel.*
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Roggen VK* | *50 %* | *250 g* | *375 g* |
+| *...Roggen 1150* | *50 %* | *250 g* | *375 g* |
+| **Wasser** | *80 %* | **400 ml** | **600 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Honig** | - | 1 EL | 1 EL |
+| **Tipp** | - | Sonnenblumenkerne | Sonnenblumenkerne |
+
+## Der Ablauf
+1.  **Phase: Autolyse**
+    * Standard: 30 Minuten.
+2.  **Phase: Kneten (Mischen)**
+    * Roggen hat kein Glutengerüst, das man kneten müsste. Mische alles auf kleinster Stufe, bis es eine homogene Masse ist.
+3.  **Phase: Stockgare (Ohne Falten!)**
+    * Lass den Teig 3 Stunden ruhen. **Nicht falten.** Bringt bei Roggen nichts außer klebrige Finger.
+4.  **Weiter:**
+    * Ab Phase 4 (Formen) dem [Basis-Ablauf](../../basis-ablauf/) folgen.
+
+===== START FILE: rezepte/dinkel-seele.md =====
+---
+title: Die Dinkel-Seele
+weight: 50
+---
+
+# Die Dinkel-Seele
+
+*100 % Dinkel Vollkorn. Nussig und fein. Wirkt trocken entgegen mit extra viel Wasser und Flohsamenschalen.*
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Dinkel VK* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | *75 %* | **375 ml** | **560 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Essig** | - | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
+| **Honig** | - | 1 EL | 1 EL |
+| **Flohsamenschalen** | - | 1 TL | 1,5 TL |
+
+## Der Ablauf
+1.  **Phase: Autolyse (Verlängert!)**
+    * **45 bis 60 Minuten**. Mische die Flohsamenschalen hier schon direkt mit dem Mehl und Wasser.
+2.  **Phase: Kneten**
+    * Sanft. Stufe 1, maximal **4–5 Minuten**.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+===== START FILE: rezepte/dinkel-saftkorn.md =====
+---
+title: Dinkel-Saftkorn
+weight: 60
+---
+
+# Dinkel-Saftkorn
+
+*Das Besondere mit Kochstück (Mehlpudding). Bindet extrem viel Wasser, das Brot bleibt tagelang saftig.*
+
+## Phase: Vorbereitung (Kochstück)
+Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (wie eine Mehlschwitze). **Komplett abkühlen lassen!**
+
+| Zutat | Standard | XL |
+| :--- | :--- | :--- |
+| Mehl (für Kochstück) | 30 g | 45 g |
+| Wasser (für Kochstück) | 150 ml | 225 ml |
+
+## Der Hauptteig
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...im Kochstück* | *6 %* | *30 g* | *45 g* |
+| *...Dinkel 630* | *64 %* | *320 g* | *480 g* |
+| *...Dinkel VK* | *30 %* | *150 g* | *225 g* |
+| **Gesamtwasser** | *76 %* | **380 ml** | **570 ml** |
+| *...im Kochstück* | | *150 ml* | *225 ml* |
+| *...im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Essig** | - | 1 EL | 1,5 EL |
+
+**Wichtig:** Nutze **eiskaltes** Wasser im Hauptteig. Die Kälte schützt den empfindlichen Dinkel vor dem Überkneten.
+
+## Der Ablauf
+1.  **Phase: Autolyse (Mischen)**
+    * Gib das **kalte** Kochstück direkt mit dem Wasser, Sauerteig und Mehl in die Schüssel. 30 Minuten quellen lassen.
+2.  **Phase: Kneten**
+    * Kurz und langsam (Stufe 1, 4 Min).
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+===== START FILE: rezepte/reformer.md =====
+---
+title: Der Reformer
+weight: 70
+---
+
+# Der Reformer
+
+*100 % Weizen Vollkorn. Fluffig statt bitter.*
+
+**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher.
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen VK* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | *80 %* | **400 ml** | **600 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Fett** (Butter/Öl) | *3 %* | **15 g** | **25 g** |
+| **Honig** | - | 1 EL | 1 EL |
+
+## Der Ablauf
+1.  **Phase: Autolyse**
+    * Standard (30 Min).
+2.  **Phase: Kneten**
+    * Kräftig! **8–10 Minuten** auf Stufe 2.
+    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+===== START FILE: rezepte/no-knead.md =====
+---
+title: No-Knead Topfbrot
+weight: 80
+---
+
+# No-Knead Topfbrot ("Lazy Sunday")
+
+*Für Faule. Zeit statt Muskelkraft.*
+
+**Hinweis:** Dies ist eines der wenigen Rezepte hier für den **Gusseisernen Topf** (rund), nicht für den Kasten.
+
+## Zutaten
+- 400 g Weizen 550
+- 100 g Roggen 1150
+- 360 ml Wasser
+- 10 g Salz
+- 80 g Sauerteig
+
+## Der Ablauf
+1.  **Mischen:** Abends alle Zutaten einfach nur verrühren. Schüssel abdecken.
+2.  **Gare:** 12 Stunden bei Raumtemperatur stehen lassen.
+3.  **Formen:** Teig auf Mehl kippen, wie einen Briefumschlag falten, rund wirken. 1 Stunde im Gärkorb gehen lassen.
+4.  **Backen:** Im heißen Gusseisen-Topf (250 °C): 30 Minuten **mit Deckel**, dann 15 Minuten **ohne Deckel**.
+
+===== START FILE: rezepte/schokokuchen.md =====
+---
+title: Sauerteig-Schokokuchen
+weight: 90
+---
+
+# Sauerteig-Schokokuchen
+
+*Die perfekte Reste-Verwertung ("Discard"). Super saftig.*
+
+## Zutaten
+- 200 g Sauerteig-Reste (darf inaktiv sein)
+- 250 g Mehl
+- 200 g Zucker + 100 g Kakao
+- 1 TL Natron + 1 TL Backpulver + Prise Salz
+- 2 Eier + 120 ml Öl + 250 ml Milch
+- **150 ml kochendes Wasser**
+
+## Zubereitung
+1.  Alles (außer das Wasser) verrühren.
+2.  Das kochende Wasser ganz am Ende zügig unterrühren.
+3.  In eine gefettete Form gießen.
+4.  Bei **180 °C für 45–55 Minuten** backen.
+
+===== START FILE: wissen/_index.md =====
+---
+title: Wissenswertes & Tipps
+weight: 50
+---
+
+# Wissenswertes & Tipps
+
+Hier findest du das theoretische Fundament, Werkzeug-Tipps und das Baby-Spezial.
+
+===== START FILE: wissen/teigbearbeitung.md =====
+---
+title: Teigbearbeitung & Falten
+weight: 5
+---
+
+# Teigbearbeitung: Warum und Wie?
+
+Im Basis-Ablauf steht "Falten". Aber was heißt das?
+
+## Warum Falten?
+Der Teig entspannt sich mit der Zeit. Er läuft in die Breite wie ein nasser Sack. Durch das Falten straffen wir das Glutengerüst wieder. Das Brot bekommt "Stand" und geht nach oben auf statt in die Breite.
+
+## Methoden
+
+### Coil Fold (Die sanfte Methode)
+Ideal für die Kastenbrot-Teige direkt in der Schüssel.
+* Hände nass machen.
+* In die Mitte der Schüssel unter den Teig greifen.
+* Teig hochheben, bis er sich dehnt und vom Boden löst.
+* Das untere Ende unter den Teigballen schlagen.
+* Schüssel um 90 Grad drehen, wiederholen (insgesamt 4x).
+
+### Stretch & Fold (Der Klassiker)
+* Teig am Rand greifen, langziehen und zur Mitte umschlagen.
+* Einmal im Kreis herum arbeiten.
+
+### Laminieren (Für Freaks)
+* Teig auf den nassen Tisch kippen, extrem dünn ausziehen wie einen Strudelteig und wieder zusammenfalten. (Meist unnötig für einfache Kastenbrote).
+
+*Tipp:* Suche auf YouTube nach "Coil Fold Sourdough" für ein Video. Das ist leichter zu sehen als zu lesen.
+
+===== START FILE: wissen/grundlagen.md =====
+---
+title: Grundlagen & Mehlkunde
+weight: 10
+---
+
+# Grundlagen & Mehlkunde
+
+## Mehl-Tabelle
+
+| Mehl | Wasserbedarf | Info |
+| :--- | :--- | :--- |
+| **Weizen 550** | ca. 60–65 % | Der Standard-Motor. |
+| **Dinkel 630** | ca. 60–63 % | Die Diva. Vorsicht mit Wasser. |
+| **Weizen 1050** | ca. 70–75 % | Robust und griffig. |
+| **Dinkel 1050** | ca. 65–70 % | Braucht oft Säure zur Stabilität. |
+| **Roggen 1150** | ca. 75–80 % | Klebt immer. Kein Glutengerüst. |
+| **Vollkorn** | ca. 80–90 % | Braucht lange Autolyse (Quellzeit). |
+
+===== START FILE: wissen/werkzeuge.md =====
+---
+title: Werkzeuge & Tricks
+weight: 20
+---
+
+# Werkzeuge & Tricks
+
+## Wasser statt Mehl
+Klebt der Teig an den Händen? Nimm **kaltes Wasser** statt Mehl!
+Auch die Teigkarte immer nass machen, dann kannst du den Teig perfekt in der Schüssel modellieren.
+
+## Die Teigkarte (Wichtig!)
+Eine flexible Kunststoff-Teigkarte ist Pflicht. Damit holst du den Teig aus der Schüssel oder spannst ihn an, ohne dass alles an den Fingern klebt.
+* *Trick:* Nutze sie nass, um den Teig in der Schüssel rund zu schieben.
+
+## Einhänder-Hacks
+* **Der Anker:** Feuchtes Tuch unter die Schüssel. Hält bombenfest.
+* **Modellieren:** Alles in der Schüssel machen (mit nasser Karte), Kneten auf dem Tisch ist überflüssig.
+* **Toaster-Hack:** Brot schneiden, einfrieren, scheibenweise toasten.
+
+## Teig-Notdienst
+Zu viel Wasser?
+1.  **Ruhe:** 20 Minuten warten. Oft quillt es nach.
+2.  **Saugmittel:** 2–3 EL Haferflocken oder 1 TL Flohsamenschalen unterkneten.
+3.  **Egal-Haltung:** Ab in den Kasten. Der hält auch Suppe zusammen.
+
+===== START FILE: wissen/backmethoden.md =====
+---
+title: Backmethoden
+weight: 30
+---
+
+# Backmethoden (Topf, Blech oder Stein?)
+
+Je nachdem, was dein Küchenschrank hergibt, gibt es verschiedene Wege zum Ziel.
+
+## Das Backblech (Basic)
+Der Teig wird direkt auf das heiße Blech (oder auf Backpapier darauf) geschoben.
+* *Vorteil:* Hat jeder.
+* *Nachteil:* Hält die Hitze nicht so gut, Brot läuft breiter.
+
+## Der Pizzastein (Fortgeschritten)
+Der Stein speichert Hitze und gibt sie schlagartig an den Teigboden ab. Das sorgt für tollen Ofentrieb.
+* *Setup:* Stein im Ofen mind. 30–45 Min vorheizen.
+* *Backen:* 240 °C anbacken, dann runter auf 210 °C.
+
+## Der Gusseiserne Topf (Profi-Hack)
+Der Topf simuliert einen professionellen Dampfbackofen. Die Eigenfeuchte des Brotes bleibt im Topf gefangen.
+* *Ablauf:* Topf (mit Deckel) im Ofen leer vorheizen (heiß!). Teig hineinplumpsen lassen.
+* **Backen:** Die ersten 15–20 Minuten **mit Deckel** (ersetzt die Wasserschale im Ofen). Danach Deckel abnehmen für die Kruste.
+
+===== START FILE: wissen/baby-spezial.md =====
+---
+title: Baby-Spezial
+weight: 40
+---
+
+# Baby-Spezial (Salzarm Backen)
+
+Wenn du für Kleinkinder (1–3 Jahre) bäckst, gelten andere Regeln.
+
+## Das Salz-Problem
+Nieren von Kleinkindern können große Mengen Salz noch nicht gut verarbeiten. Handelsübliches Brot hat oft 2 % Salz oder mehr.
+* **Unsere Anpassung:** Wir gehen runter auf **1 % Salz** (z. B. 5 g auf 500 g Mehl).
+
+## Der Säure-Ausgleich
+Salz ist nicht nur für den Geschmack da. Es stärkt das "Kleber-Netz" im Teig. Fehlt das Salz, wird der Teig klebrig und läuft breit.
+* **Der Trick:** Säure stabilisiert ebenfalls. Wenn wir Salz weglassen, geben wir **Essig** dazu (1,5 bis 2 EL pro Brot). Das kompensiert den Stabilitätsverlust.
+
+## Honig & Botulismus
+Honig ist ein Rohprodukt und kann Sporen enthalten, die für Kinder **unter 1 Jahr** gefährlich sind (Säuglingsbotulismus).
+* **Ersatz:** Nimm Apfelmark (ungesüßt). Das macht das Brot zudem herrlich saftig. Oder Reissirup.
+
+## Die Kruste
+Sauerteigkruste kann sehr hart sein. Für Backanfänger (Babys):
+* Brot nach dem Backen kurz in ein feuchtes Tuch wickeln (macht die Kruste weich).
+* Oder die Rinde abschneiden.
+
+===== START FILE: impressum.md =====
+---
+title: Impressum
+weight: 100
+---
+
+# Impressum
+
+**Angaben gemäß § 5 TMG**
+
+Die Hamburger Sauerteig-Bibel
+Jan Harrie
+Othmarscher Kirchenweg 8a
+22763 Hamburg
+
+E-Mail: mail@sauerteig-bibel.de
+
+*Haftungsausschluss: Backen auf eigene Gefahr. Bitte Allergene prüfen.*
+
+===== START FILE: rezepte/pizza-hybrid.md =====
+---
+title: Die Hybrid-Pizza
+weight: 100
+---
+
+# Die Hybrid-Pizza (Sauerteig + Hefe)
+
+*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer", aber mit Hamburger Tiefgang.*
+
+## Zutaten (für 4 Pizzen)
+* **Mehl:** 500 g (Am besten Tipo 00 oder Weizen 550)
+* **Wasser:** 325 ml (lauwarm)
+* **Sauerteig:** 50 g (für das Aroma)
+* **Hefe:** 2 g Frischhefe (erbsengroß) – für den Trieb
+* **Salz:** 12 g
+* **Olivenöl:** 1 EL
+
+## Der Ablauf
+1.  **Mischen:** Hefe und Sauerteig im Wasser auflösen. Mehl dazu. Kurz mischen. 15 Min warten.
+2.  **Kneten:** Salz und Öl dazu. Teig glatt kneten (Maschine: 5–8 Min).
+3.  **Gehen lassen (Stockgare):** 2 Stunden bei Raumtemperatur. Nach 1 Stunde einmal falten.
+4.  **Kugeln:** Teile den Teig in 4 Stücke (à ca. 220 g). Schleife sie zu straffen Kugeln.
+5.  **Die lange Ruhe:** Leg die Kugeln in eine bemehlte Box/Auflaufform (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**.
+    * *Eilig?* Lass sie 4 Stunden bei Raumtemperatur gehen, dann backen. Aber der Kühlschrank bringt den Geschmack.
+6.  **Backen:** Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Teig mit den Händen ausziehen (nicht rollen!), belegen, 5–8 Minuten backen.
+
+===== START FILE: rezepte/pancakes.md =====
+---
+title: Sauerteig-Pancakes
+weight: 110
+---
+
+# Sauerteig-Pancakes (Fluffig & Dick)
+
+*Das perfekte Wochenend-Frühstück. Der Sauerteig macht sie locker und nicht so "teigig" wie normale Pfannkuchen.*
+
+## Zutaten
+* **Sauerteig-Reste:** 200 g (Discard)
+* **Mehl:** 150 g
+* **Milch:** 150 ml
+* **Ei:** 1 großes
+* **Zucker:** 2 EL
+* **Backpulver:** 1 TL (Wichtig für den Fluff!)
+* **Natron:** 0,5 TL (Reagiert mit der Säure)
+* **Salz:** 1 Prise
+* **Butter:** Zum Braten
+
+## Zubereitung
+1.  **Mixen:** Sauerteig, Mehl, Zucker und Milch verrühren.
+2.  **Ei:** Ei verquirlen und unterrühren.
+3.  **Der Turbo:** Erst kurz vor dem Backen Natron und Backpulver unterrühren. Der Teig fängt sofort an zu schäumen – das wollen wir!
+4.  **Backen:** Butter in der Pfanne bei mittlerer Hitze schmelzen. Teig klecksweise hineingeben.
+5.  **Wenden:** Wenn oben Bläschen platzen und der Rand trocken aussieht: Umdrehen. Goldbraun ausbacken.
+
+===== START FILE: rezepte/cracker.md =====
+---
+title: Discard-Cracker
+weight: 120
+---
+
+# Discard-Cracker (Der Knabber-Spaß)
+
+*Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig.*
+
+## Zutaten
+* **Sauerteig-Reste:** 200 g (Discard)
+* **Mehl:** 100 g (Weizen oder Dinkel)
+* **Butter:** 50 g (weich/geschmolzen) oder Olivenöl
+* **Kräuter:** Rosmarin, Thymian oder "Italienische Kräuter" (getrocknet)
+* **Salz:** Nach Belieben oben drauf
+
+## Zubereitung
+1.  **Teig:** Sauerteig, Mehl, Fett und Kräuter zu einer glatten Kugel verkneten.
+2.  **Kühlen:** In Folie wickeln und 30 Min in den Kühlschrank (lässt sich besser rollen).
+3.  **Rollen:** Teig auf Backpapier legen. Zweites Backpapier oben drauf. Mit dem Nudelholz **hauchdünn** ausrollen. Wirklich dünn!
+4.  **Schneiden:** Das obere Papier abziehen. Mit einem Pizzaroller oder Messer in Rauten/Vierecke schneiden (nicht auseinanderziehen, nur ritzen). Mit grobem Salz bestreuen.
+5.  **Backen:** Bei **180 °C Umluft** für ca. 15–20 Minuten. Sie müssen leicht bräunen.
+6.  **Abkühlen:** Auf dem Blech auskühlen lassen, dann brechen sie an den Schnittkanten auseinander.
+
+===== START FILE: rezepte/zitronenkuchen.md =====
+---
+title: Saftiger Zitronenkuchen
+weight: 130
+---
+
+# Saftiger Zitronenkuchen
+
+*Frisch, säuerlich und dank Sauerteig extrem saftig. Ein einfacher Rührkuchen für jeden Tag.*
+
+## Zutaten
+* **Sauerteig-Reste:** 150 g
+* **Mehl:** 200 g (Weizen 550)
+* **Zucker:** 150 g
+* **Öl:** 100 ml (geschmacksneutral, z.B. Raps)
+* **Joghurt:** 100 g (Natur)
+* **Eier:** 3 Stück
+* **Zitrone:**
+    * *Frisch:* Abrieb von 2 Bio-Zitronen + Saft von 1 Zitrone.
+    * *Flasche:* **40–50 ml Zitronensaft** (Bio-Direktsaft aus der Glasflasche) + 1 Pck. Zitronenabrieb.
+* **Backpulver:** 1 Päckchen
+* **Salz:** 1 Prise
+
+## Guss (Optional)
+* Puderzucker + Zitronensaft
+
+## Zubereitung
+1.  **Feucht:** Eier und Zucker schaumig schlagen. Öl, Joghurt, Sauerteig, Zitronensaft und Abrieb unterrühren.
+2.  **Trocken:** Mehl, Backpulver und Salz mischen.
+3.  **Verbinden:** Trockene Zutaten kurz unter die feuchten rühren (nicht totrühren, sonst wird er zäh).
+4.  **Backen:** In einer gefetteten Kastenform bei **180 °C (Ober-/Unterhitze)** für ca. **45–55 Minuten**. Stäbchenprobe machen!
+5.  **Finish:** Wenn er noch warm ist, mit dem Guss bepinseln oder Löcher einstechen und noch mehr Saft darüber träufeln.
+
+===== START FILE: rezepte/apfelkuchen.md =====
+---
+title: Schneller Apfelkuchen
+weight: 140
+---
+
+# Schneller Apfel-Sauerteigkuchen
+
+*Ratzfatz gemacht, innen weich, oben knusprig. Der perfekte "Oma-Kuchen", nur cooler.*
+
+## Zutaten
+* **Sauerteig-Reste:** 200 g (Discard)
+* **Äpfel:** 3–4 Stück (säuerlich, z.B. Boskop oder Elstar)
+* **Mehl:** 250 g (Dinkel 630 oder Weizen 550)
+* **Butter:** 150 g (weich!)
+* **Zucker:** 150 g (brauner Zucker gibt tolles Karamell-Aroma)
+* **Eier:** 3 Stück
+* **Backpulver:** 1 Päckchen
+* **Zimt:** 1–2 TL (Pflicht!)
+* **Vanille:** 1 Pck. Vanillezucker oder Aroma
+
+## Zubereitung
+1.  **Äpfel:** Schälen, entkernen und in Würfel oder Spalten schneiden.
+2.  **Teig:** Butter und Zucker schaumig schlagen. Eier einzeln dazu. Dann den Sauerteig unterrühren.
+3.  **Mehl:** Mehl, Backpulver, Zimt und Vanille mischen und kurz unter den Teig rühren. Er ist recht fest – das muss so.
+4.  **Mischen:** 2/3 der Äpfel direkt unter den Teig heben.
+5.  **Form:** In eine gefettete Springform (rund, 26cm) oder kleine Auflaufform geben.
+6.  **Top:** Die restlichen Äpfel oben drauf drücken. Wer mag: Noch etwas Zucker & Zimt drüberstreuen.
+7.  **Backen:** Bei **180 °C (Ober-/Unterhitze)** für ca. **50–60 Minuten**.
+
+*Tipp:* Schmeckt lauwarm mit Schlagsahne am besten.
