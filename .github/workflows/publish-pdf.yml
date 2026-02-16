@@ -24,30 +24,42 @@ jobs:
         with:
           python-version: '3.9'
 
+      # 1. Wir installieren Pandoc direkt (kein Docker)
+      - name: Install Pandoc
+        uses: pandoc/actions/setup@v1
+        with:
+          version: 3.1
+
+      # 2. Wir installieren Tectonic (Die magische LaTeX Engine)
+      - name: Install Tectonic
+        uses: wtfjoke/setup-tectonic@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Extract Version & Build Markdown
         id: prep
         run: python build_book.py
 
+      # Template laden (feste Version)
       - name: Download Eisvogel Template
         run: |
           wget https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/v2.0.0/eisvogel.tex
 
+      # 3. PDF bauen mit tectonic engine
+      # Tectonic lädt alle fehlenden Pakete (polyglossia, fonts, etc.) automatisch nach!
       - name: Convert to PDF
-        # WICHTIG: Wir nutzen 'extra:edge' (enthält polyglossia) UND xelatex (versteht Farben)
-        uses: docker://pandoc/extra:edge
-        with:
-          args: >-
-            --output=Sauerteig-Bibel.pdf
-            --template=eisvogel.tex
-            --listings
-            --pdf-engine=xelatex
-            --variable geometry:margin=2.5cm
-            --variable fontsize=11pt
-            --variable titlepage=true
-            --variable book=true
-            --variable toc-own-page=true
+        run: |
+          pandoc sauerteig_book.md \
+            -o Sauerteig-Bibel.pdf \
+            --template=eisvogel.tex \
+            --pdf-engine=tectonic \
+            --listings \
+            --variable geometry:margin=2.5cm \
+            --variable fontsize=11pt \
+            --variable titlepage=true \
+            --variable book=true \
+            --variable toc-own-page=true \
             --top-level-division=chapter
-            sauerteig_book.md
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
