@@ -1,45 +1,31 @@
 ---
-title: Der Reformer (100 % Weizen Vollkorn)
-weight: 27
+title: Der Reformer
+weight: 70
 ---
 
-# Der Reformer (100 % Weizen Vollkorn)
+# Der Reformer
 
-*Das klassische "Gesundheitsbrot", aber in lecker. Nicht bitter, sondern fluffig.*
+*100 % Weizen Vollkorn. Fluffig statt bitter.*
 
-## Der Trick
-
-Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher und die Krume geschmeidig.
+**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher.
 
 ## Zutaten
 
-| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *davon Weizen Vollkorn* | *100 %* | *500 g* | *750 g* |
-| **Wasser** | **80 %** | **400 ml** | **600 ml** |
-| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
-| **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Fett** | **3 %** | **15 g Butter/Öl** | **25 g Butter/Öl** |
-| **Extras** | - | 1 EL Honig | 1 EL Honig |
+| *...Weizen VK* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | *80 %* | **400 ml** | **600 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Fett** (Butter/Öl) | *3 %* | **15 g** | **25 g** |
+| **Honig** | - | 1 EL | 1 EL |
 
-## Zubereitung
-
-Weizen Vollkorn braucht Power. Knete diesen Teig ruhig **8 bis 10 Minuten** in der Maschine, bis er sich richtig gut entwickelt hat. Das Fett erst ganz am Ende unterkneten.
-
-## Ablauf
-
-Folge dem [Master-Prozess](../../master-prozess/) mit diesen Anpassungen:
-- **Phase 1 (Autolyse):** 30 Minuten (Weizen Vollkorn saugt schneller auf)
-- **Phase 2 (Kneten):** **8 bis 10 Minuten** auf Stufe 2 – dieser Teig braucht Kraft!
-- **Phase 3 (Stockgare):** 3 Stunden mit Falten nach 45 Min und 90 Min
-- **Phase 4 & 5 (Formgebung & Gare):** 30 Min Zimmertemperatur + 8-16 Std Kühlschrank
-- **Phase 6 (Backen):** Nach dem [Back-Fahrplan](../../master-prozess/#der-back-fahrplan)
-
-## Charakteristik
-
-- Warm-goldenes Krumb, nicht grau
-- Weiche, fluffige Krume trotz Vollkorn
-- Süßlich-mildes Aroma (dank Honig/Apfelmark)
-- Ideal für alle, die Vollkornbrot lieben, aber keine körnig-raue Struktur wollen
-- Perfekt zum Frühstück
+## Der Ablauf
+1.  **Phase: Autolyse**
+    * Standard (30 Min).
+2.  **Phase: Kneten**
+    * Kräftig! **8–10 Minuten** auf Stufe 2.
+    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).

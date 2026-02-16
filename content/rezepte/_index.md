@@ -5,11 +5,12 @@ weight: 30
 
 # Rezept-Bibliothek
 
-Hier sind deine Bausteine. Ich habe sie für deine zwei Formen berechnet:
-- **Standard:** Für die normale Kastenform (ca. 1 kg Teig).
-- **XL:** Für die 1,5-fache Form (ca. 1,5 kg Teig).
-- **%:** Die Bäckerprozente, falls du mal skalieren willst (Mehl ist immer 100%).
+Hier sind deine Bausteine für den Alltag.
 
-## Grundrezepte
+* **Standard:** Berechnet für die normale Kastenform (ca. 1 kg Teig).
+* **XL:** Berechnet für die große 1,5-fache Form (ca. 1,5 kg Teig).
+* **%:** Die Bäckerprozente (Mehl ist immer 100 %).
 
-Die folgenden Rezepte folgen alle dem [Master-Prozess](../master-prozess/). Sie unterscheiden sich vor allem in der Mehlkombination und den spezifischen Anforderungen.
+> **Hinweis:** Alle Rezepte folgen dem [Basis-Ablauf](../basis-ablauf/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
+>
+> **Baby-Check:** Backst du für Kleinkinder? Dann schau dir vor dem Wiegen das [Baby-Spezial](../wissen/baby-spezial/) an (Salz & Honig anpassen).

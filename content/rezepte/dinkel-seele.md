@@ -1,43 +1,29 @@
 ---
-title: Die Dinkel-Seele (100 % Dinkel Vollkorn)
-weight: 26
+title: Die Dinkel-Seele
+weight: 50
 ---
 
-# Die Dinkel-Seele (100 % Dinkel Vollkorn)
+# Die Dinkel-Seele
 
-*Nussig und fein. Die Herausforderung: Dinkel Vollkorn wird schnell trocken.*
-
-## Die Lösung
-
-Wir arbeiten mit einem "Brühstück" (Quellstück) direkt im Teig – dafür nutzen wir kochendes Wasser für einen Teil des Mehls oder einfach eine sehr lange Autolyse. Hier die einfache Version mit Flohsamenschalen für die Saftigkeit.
+*100 % Dinkel Vollkorn. Nussig und fein. Wirkt trocken entgegen mit extra viel Wasser und Flohsamenschalen.*
 
 ## Zutaten
 
 | Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *davon Dinkel Vollkorn* | *100 %* | *500 g* | *750 g* |
-| **Wasser** | **75 %** | **375 ml** | **560 ml** |
-| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
-| **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | **2 EL Essig** (Pflicht!), 1 EL Honig | 3 EL Essig, 1 EL Honig |
+| *...Dinkel VK* | *100 %* | *500 g* | *750 g* |
+| **Wasser** | *75 %* | **375 ml** | **560 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Essig** | - | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
+| **Honig** | - | 1 EL | 1 EL |
+| **Flohsamenschalen** | - | 1 TL | 1,5 TL |
 
-## Wichtig
-
-Dinkel Vollkorn säuft wie ein Loch, aber langsam. Mische Wasser und Mehl und lass es **mindestens 45 bis 60 Minuten** stehen (Autolyse), bevor Salz und Sauerteig dazu kommen. Sanft kneten!
-
-## Ablauf
-
-Folge dem [Master-Prozess](../../master-prozess/) mit diesen Anpassungen:
-- **Phase 1 (Autolyse):** **45 bis 60 Minuten** (essentiell für Dinkel Vollkorn!)
-- **Phase 2 (Kneten):** Nur Stufe 1, maximal 4-5 Minuten. Dinkel ist empfindlich!
-- **Phase 3 (Stockgare):** 3 Stunden mit Falten nach 45 Min und 90 Min
-- **Phase 4 & 5 (Formgebung & Gare):** 30 Min Zimmertemperatur + 8-16 Std Kühlschrank
-- **Phase 6 (Backen):** Nach dem [Back-Fahrplan](../../master-prozess/#der-back-fahrplan)
-
-## Charakteristik
-
-- Nussiger, voluminöser Geschmack
-- Feine, gleichmäßige Krume trotz Vollkorn
-- Dank Flohsamenschalen herrlich saftig
-- Wird 3-4 Tage lang besser statt schlechter
+## Der Ablauf
+1.  **Phase: Autolyse (Verlängert!)**
+    * **45 bis 60 Minuten**. Mische die Flohsamenschalen hier schon direkt mit dem Mehl und Wasser.
+2.  **Phase: Kneten**
+    * Sanft. Stufe 1, maximal **4–5 Minuten**.
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).

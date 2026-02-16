@@ -3,20 +3,25 @@ title: Die Hamburger Sauerteig-Bibel
 type: docs
 ---
 
-# 📖 Die Hamburger Sauerteig-Bibel
+# Die Hamburger Sauerteig-Bibel
 
-*Dein persönliches Handbuch für ehrliches Brot. Version 3.0 (Februar 2026).*
+*Dein persönliches Handbuch für ehrliches Brot. Version 4.2.*
 
-Willkommen in deiner Backstube. Dieses Dokument ist mehr als eine Rezeptsammlung. Es ist die Essenz aus vielen Experimenten, "Matsch-Traumata" und dem glorreichen Moment, wenn die Kruste knackt. Wir backen hier nicht für Instagram, sondern für den echten Hamburger Alltag – mit Kind, Job und dem Anspruch an richtig gutes Brot.
+Moin.
 
-## Die Struktur
+Dies ist keine Hochglanz-Broschüre und kein Chemie-Lehrbuch. Es ist meine persönliche Sammlung für den echten Hamburger Alltag – zwischen Job, Kind und dem Wunsch, vernünftiges Brot auf dem Tisch zu haben, ohne dafür nachts um drei aufzustehen.
 
-- **[Philosophie & Grundlagen](philosophie/)** – Verstehe Mehl, Wasser und das Gefühl
-- **[Der Master-Prozess](master-prozess/)** – Der Rhythmus für jedes Brot
-- **[Rezept-Bibliothek](rezepte/)** – Deine Bausteine zum Erfolg
-- **[Methoden & Werkzeuge](methoden/)** – Dein Arsenal
-- **[Baby-Spezial](baby-spezial/)** – Backen mit Kindern im Sinn
+**Wichtig vorab:**
+Dieses Buch konzentriert sich fast ausschließlich auf das Backen in der **Kastenform**.
+Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen sauber hält und am Ende Scheiben liefert, die perfekt in die Brotdose passen.
+
+## Der Fahrplan
+
+* **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
+* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Kneten, Falten, Backen).
+* **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten).
+* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
 
 ---
 
-*Los geht's. Es wird köstlich.*
+*Viel Spaß beim Backen. Es wird gut.*

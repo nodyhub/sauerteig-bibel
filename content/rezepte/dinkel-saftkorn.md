@@ -1,51 +1,41 @@
 ---
-title: Dinkel-Saftkorn (Das Besondere)
-weight: 30
+title: Dinkel-Saftkorn
+weight: 60
 ---
 
-# Das Dinkel-Saftkorn (Das Besondere)
+# Dinkel-Saftkorn
 
-*Hier arbeiten wir mit einem **Kochstück** (Mehlpudding). Achtung: Das Mehl im Kochstück zählt zu den 100%! Das treibt die Hydratation (Wasseranteil) hoch, ohne dass der Teig flüssig wird.*
+*Das Besondere mit Kochstück (Mehlpudding). Bindet extrem viel Wasser, das Brot bleibt tagelang saftig.*
 
-## Schritt A: Das Kochstück (Vorbereitung)
-
-Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist. **Komplett abkühlen lassen!**
+## Phase: Vorbereitung (Kochstück)
+Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (wie eine Mehlschwitze). **Komplett abkühlen lassen!**
 
 | Zutat | Standard | XL |
 | :--- | :--- | :--- |
 | Mehl (für Kochstück) | 30 g | 45 g |
 | Wasser (für Kochstück) | 150 ml | 225 ml |
 
-## Schritt B: Der Hauptteig
+## Der Hauptteig
 
-| Zutat | Bäckerprozente | Standard (1 Kasten) | XL (Großer Kasten) |
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...im Kochstück* | *6 %* | *30 g (siehe oben)* | *45 g* |
+| *...im Kochstück* | *6 %* | *30 g* | *45 g* |
 | *...Dinkel 630* | *64 %* | *320 g* | *480 g* |
 | *...Dinkel VK* | *30 %* | *150 g* | *225 g* |
-| **Gesamtwasser** | **76 %** | **380 ml** | **570 ml** |
-| *davon im Kochstück* | | *150 ml* | *225 ml* |
-| *davon im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
-| **Sauerteig (aktiv)** | **20 %** | **100 g** | **150 g** |
-| **Salz** | **1,8 %** | **9 g** | **13 g** |
-| **Extras** | - | 1 EL Essig, 1 EL Honig | 1,5 EL Essig, 1 EL Honig |
+| **Gesamtwasser** | *76 %* | **380 ml** | **570 ml** |
+| *...im Kochstück* | | *150 ml* | *225 ml* |
+| *...im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *1,8 %* | **9 g** | **13 g** |
+| **Essig** | - | 1 EL | 1,5 EL |
 
-## Ablauf
+**Wichtig:** Nutze **eiskaltes** Wasser im Hauptteig. Die Kälte schützt den empfindlichen Dinkel vor dem Überkneten.
 
-1. **Mischen:** Alle Zutaten mischen (Kochstück + Sauerteig + Mehle + Eiswasser + Salz + Essig)
-2. **Kneten:** Sehr kurz! (max. 4-5 Min auf Stufe 1) Dinkel ist empfindlich.
-3. **Stockgare:** 3 Stunden mit Falten nach 45 Min und 90 Min
-4. **Formgebung:** Nach Standard [Master-Prozess](../../master-prozess/)
-5. **Gare & Backen:** Nach [Master-Prozess](../../master-prozess/)
-
-## Wichtig: Dinkel mag es kühl!
-
-Nutze **eiskalt** Wasser für dieses Rezept. Die Kälte schützt das empfindliche Dinkelgluten und verhindert, dass der Teig zu schnell gärt.
-
-## Charakteristik
-
-- Überraschend saftig und fluffig trotz hohem Dinkelanteil
-- Das Kochstück sorgt dafür, dass das Brot 3-4 Tage frisch bleibt
-- Ideal wenn du Dinkel magst und nicht zu viel "Dichte" willst
-- Spannend und außergewöhnlich im Geschmack
+## Der Ablauf
+1.  **Phase: Autolyse (Mischen)**
+    * Gib das **kalte** Kochstück direkt mit dem Wasser, Sauerteig und Mehl in die Schüssel. 30 Minuten quellen lassen.
+2.  **Phase: Kneten**
+    * Kurz und langsam (Stufe 1, 4 Min).
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
