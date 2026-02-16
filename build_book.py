@@ -1,34 +1,9 @@
 import re
 import os
-import sys
 from datetime import datetime
 
 SOURCE_FILE = 'content_dump.txt'
-OUTPUT_FILE = 'sauerteig_book.md'
-
-# Farben & Style (Brot-Theme)
-# primary: Ein warmes Dunkelgrau für Texte
-# accent: Ein schönes "Krusten-Orange/Braun" für Überschriften/Cover
-# Farben & Style (Brot-Theme)
-HEADER_TEMPLATE = """---
-title: "Die Hamburger Sauerteig-Bibel"
-author: "Jan Harrie"
-date: "Version {version} ({date})"
-lang: "de"
-titlepage: true
-titlepage-text-color: "FFFFFF"
-titlepage-rule-color: "FFFFFF"
-titlepage-rule-height: 2
-titlepage-background: "#5D4037"
-toc: true
-toc-own-page: true
-book: true
-classoption: [oneside]
----
-"""
-
-# Info: titlepage-background: "5D4037" ist ein schönes Altrosa/Braun. 
-# Du kannst auch "8B4513" (SaddleBrown) nehmen.
+OUTPUT_HTML = 'sauerteig_bibel.html'
 
 ORDER = [
     '_index.md', 'sauerteig/_index.md', 'basis-ablauf.md', 
@@ -43,49 +18,98 @@ ORDER = [
     'impressum.md'
 ]
 
-def clean_content(text):
-    # Entfernt Hugo Frontmatter und repariert Bildpfade falls nötig
-    text = re.sub(r'^---\n(.*?)\n---\n', '', text, flags=re.DOTALL)
-    # Entfernt Hugo Shortcodes falls vorhanden, z.B. {{< ... >}}
-    text = re.sub(r'\{\{<.*?>\}\}', '', text)
-    return text.strip()
+HTML_TEMPLATE = """
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700&display=swap');
+        
+        :root {{ --main-color: #5D4037; --bg-color: #fdfaf7; }}
+        body {{ font-family: 'Inter', sans-serif; line-height: 1.6; color: #333; margin: 0; background: var(--bg-color); }}
+        
+        /* Cover Page */
+        .cover {{ 
+            height: 100vh; display: flex; flex-direction: column; justify-content: center; 
+            align-items: center; background: var(--main-color); color: white; text-align: center;
+            page-break-after: always;
+        }}
+        .cover h1 {{ font-family: 'Libre+Baskerville', serif; font-size: 4rem; margin: 0; }}
+        .cover p {{ font-size: 1.5rem; opacity: 0.8; }}
 
-def build_book():
-    if not os.path.exists(SOURCE_FILE):
-        print(f"Error: {SOURCE_FILE} not found.")
-        return
+        /* Typography */
+        .content {{ padding: 2cm; max-width: 21cm; margin: auto; }}
+        h1, h2, h3 {{ font-family: 'Libre+Baskerville', serif; color: var(--main-color); page-break-after: avoid; }}
+        h1 {{ border-bottom: 2px solid var(--main-color); padding-bottom: 0.5rem; margin-top: 3rem; }}
+        h2 {{ margin-top: 2rem; }}
+        
+        /* Page Breaks & Printing */
+        .page-break {{ page-break-before: always; }}
+        table {{ width: 100%; border-collapse: collapse; margin: 1rem 0; }}
+        th, td {{ border: 1px solid #ddd; padding: 8px; text-align: left; }}
+        th {{ background-color: #eee; }}
+        blockquote {{ border-left: 5px solid var(--main-color); margin: 1.5rem 0; padding: 0.5rem 1rem; background: #f9f2f0; font-style: italic; }}
+        img {{ max-width: 100%; height: auto; }}
+        
+        @media print {{
+            body {{ background: white; }}
+            .content {{ padding: 0; }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <h1>Die Hamburger Sauerteig-Bibel</h1>
+        <p>Version {version}</p>
+        <p>{date}</p>
+        <p>Jan Harrie</p>
+    </div>
+    <div class="content">
+        {main_content}
+    </div>
+</body>
+</html>
+"""
 
+def build_html():
     with open(SOURCE_FILE, 'r', encoding='utf-8') as f:
         raw_data = f.read()
 
     # Version finden
     version_match = re.search(r'Version (\d+\.\d+)', raw_data)
     version = version_match.group(1) if version_match else "1.0"
-    current_date = datetime.now().strftime("%d.%m.%Y")
     
-    # Output für GitHub Actions setzen
+    # GitHub Output
     if "GITHUB_OUTPUT" in os.environ:
         with open(os.environ["GITHUB_OUTPUT"], "a") as gh_out:
             gh_out.write(f"VERSION={version}\n")
-    
-    print(f"Building PDF Source for Version: {version}")
 
     files = {}
     parts = re.split(r'===== START FILE: (.*?) =====\n', raw_data)
     for i in range(1, len(parts), 2):
         files[parts[i].strip()] = parts[i+1]
 
-    # Header zuerst schreiben
-    full_book = HEADER_TEMPLATE.format(version=version, date=current_date)
-
+    # Markdown zu einfachem HTML (sehr basic Ersatz für Pandoc im Script)
+    import markdown
+    md = markdown.Markdown(extensions=['tables', 'fenced_code'])
+    
+    combined_md = ""
     for filename in ORDER:
         if filename in files:
-            content = clean_content(files[filename])
-            # Seitenumbruch einfügen (Pandoc/LaTeX command)
-            full_book += f"\n\n\\newpage\n\n{content}"
+            content = re.sub(r'^---\n(.*?)\n---\n', '', files[filename], flags=re.DOTALL)
+            combined_md += f"\n\n<div class='page-break'></div>\n\n" + content
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write(full_book)
+    html_content = md.convert(combined_md)
+    
+    final_html = HTML_TEMPLATE.format(
+        version=version, 
+        date=datetime.now().strftime("%d.%m.%Y"),
+        main_content=html_content
+    )
+
+    with open(OUTPUT_HTML, 'w', encoding='utf-8') as f:
+        f.write(final_html)
 
 if __name__ == "__main__":
-    build_book()
+    build_html()
