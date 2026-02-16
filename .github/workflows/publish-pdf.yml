@@ -28,16 +28,33 @@ jobs:
         id: prep
         run: python build_book.py
 
+      # Template herunterladen
+      - name: Download Eisvogel Template
+        run: |
+          wget https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/master/eisvogel.tex
+          mkdir -p ~/.pandoc/templates/
+          mv eisvogel.tex ~/.pandoc/templates/eisvogel.latex
+
       - name: Convert to PDF
         uses: docker://pandoc/latex:3.1
         with:
+          # Wir müssen TeX Live Pakete installieren für das Template
+          # entrypoint überschreiben, um tlmgr nutzen zu können, ist tricky im Docker action.
+          # Besser: Wir nutzen ein Image, das schon vieles hat, oder wir nutzen Standard-Pandoc arguments.
+          # Das Eisvogel Template braucht xelatex und bestimmte Pakete.
+          # Das Image `pandoc/latex` ist gut, aber für Eisvogel fehlen oft Pakete.
+          # Workaround: Wir nutzen ein 'fat' image oder installieren nach.
+          # Am stabilsten ist hier das 'pandoc/extra' image, das hat Eisvogel oft kompatibel.
           args: >-
             --output=Sauerteig-Bibel.pdf
-            --toc
-            --toc-depth=2
-            --variable geometry:margin=2cm
-            --variable fontsize=11pt
+            --template=eisvogel
+            --listings
             --pdf-engine=xelatex
+            --variable geometry:margin=2.5cm
+            --variable fontsize=11pt
+            --variable titlepage=true
+            --variable book=true
+            --top-level-division=chapter
             sauerteig_book.md
 
       - name: Create Release
