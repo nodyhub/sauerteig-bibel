@@ -28,19 +28,19 @@ jobs:
         id: prep
         run: python build_book.py
 
-      # FIX: Wir nutzen eine feste Version (v2.0.0), da der master-Link 404 wirft
       - name: Download Eisvogel Template
+        # Wir nehmen wieder v2.0.0, da der Link stabil ist
         run: |
           wget https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/v2.0.0/eisvogel.tex
 
       - name: Convert to PDF
-        uses: docker://pandoc/extra:3.1
+        # Wir nehmen 'edge', das ist das dickste Image mit allen Paketen
+        uses: docker://pandoc/extra:edge
         with:
           args: >-
             --output=Sauerteig-Bibel.pdf
             --template=eisvogel.tex
-            --listings
-            --pdf-engine=xelatex
+            --pdf-engine=pdflatex
             --variable geometry:margin=2.5cm
             --variable fontsize=11pt
             --variable titlepage=true
@@ -54,7 +54,7 @@ jobs:
         with:
           tag_name: v${{ steps.prep.outputs.VERSION }}
           name: "Sauerteig-Bibel v${{ steps.prep.outputs.VERSION }}"
-          body: "Automatisch generiertes PDF der Version ${{ steps.prep.outputs.VERSION }} mit Eisvogel-Design."
+          body: "Automatisch generiertes PDF der Version ${{ steps.prep.outputs.VERSION }}."
           files: Sauerteig-Bibel.pdf
           draft: false
           prerelease: false
