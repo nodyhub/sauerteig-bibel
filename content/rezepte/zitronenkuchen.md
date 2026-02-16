@@ -8,17 +8,19 @@ weight: 130
 *Frisch, säuerlich und dank Sauerteig extrem saftig. Ein einfacher Rührkuchen für jeden Tag.*
 
 ## Zutaten
-* **Sauerteig-Reste:** 150 g
-* **Mehl:** 200 g (Weizen 550)
-* **Zucker:** 150 g
-* **Öl:** 100 ml (geschmacksneutral, z.B. Raps)
-* **Joghurt:** 100 g (Natur)
-* **Eier:** 3 Stück
-* **Zitrone:**
-    * *Frisch:* Abrieb von 2 Bio-Zitronen + Saft von 1 Zitrone.
-    * *Flasche:* **40–50 ml Zitronensaft** (Bio-Direktsaft aus der Glasflasche) + 1 Pck. Zitronenabrieb.
-* **Backpulver:** 1 Päckchen
-* **Salz:** 1 Prise
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** | 150 g |
+| **Mehl** (Weizen 550) | 200 g |
+| **Zucker** | 150 g |
+| **Öl** (z.B. Raps) | 100 ml |
+| **Joghurt** (Natur) | 100 g |
+| **Eier** | 3 Stk. |
+| **Zitronensaft** (Frisch/Glas) | 40–50 ml |
+| **Zitronenabrieb** | 1 Pck. / 2 Bio |
+| **Backpulver** | 1 Pck. |
+| **Salz** | 1 Prise |
 
 ## Guss (Optional)
 * Puderzucker + Zitronensaft

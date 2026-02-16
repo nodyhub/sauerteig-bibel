@@ -8,15 +8,18 @@ weight: 110
 *Das perfekte Wochenend-Frühstück. Der Sauerteig macht sie locker und nicht so "teigig" wie normale Pfannkuchen.*
 
 ## Zutaten
-* **Sauerteig-Reste:** 200 g (Discard)
-* **Mehl:** 150 g
-* **Milch:** 150 ml
-* **Ei:** 1 großes
-* **Zucker:** 2 EL
-* **Backpulver:** 1 TL (Wichtig für den Fluff!)
-* **Natron:** 0,5 TL (Reagiert mit der Säure)
-* **Salz:** 1 Prise
-* **Butter:** Zum Braten
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (Discard) | 200 g |
+| **Mehl** | 150 g |
+| **Milch** | 150 ml |
+| **Ei** | 1 groß |
+| **Zucker** | 2 EL |
+| **Backpulver** | 1 TL |
+| **Natron** | 0,5 TL |
+| **Salz** | 1 Prise |
+| **Butter** | Zum Braten |
 
 ## Zubereitung
 1.  **Mixen:** Sauerteig, Mehl, Zucker und Milch verrühren.

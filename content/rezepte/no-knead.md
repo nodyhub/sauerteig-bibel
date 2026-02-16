@@ -10,11 +10,14 @@ weight: 80
 **Hinweis:** Dies ist eines der wenigen Rezepte hier für den **Gusseisernen Topf** (rund), nicht für den Kasten.
 
 ## Zutaten
-- 400 g Weizen 550
-- 100 g Roggen 1150
-- 360 ml Wasser
-- 10 g Salz
-- 80 g Sauerteig
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Weizen 550** | 400 g |
+| **Roggen 1150** | 100 g |
+| **Wasser** | 360 ml |
+| **Salz** | 10 g |
+| **Sauerteig** | 80 g |
 
 ## Der Ablauf
 1.  **Mischen:** Abends alle Zutaten einfach nur verrühren. Schüssel abdecken.

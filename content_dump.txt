@@ -444,11 +444,14 @@ weight: 80
 **Hinweis:** Dies ist eines der wenigen Rezepte hier für den **Gusseisernen Topf** (rund), nicht für den Kasten.
 
 ## Zutaten
-- 400 g Weizen 550
-- 100 g Roggen 1150
-- 360 ml Wasser
-- 10 g Salz
-- 80 g Sauerteig
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Weizen 550** | 400 g |
+| **Roggen 1150** | 100 g |
+| **Wasser** | 360 ml |
+| **Salz** | 10 g |
+| **Sauerteig** | 80 g |
 
 ## Der Ablauf
 1.  **Mischen:** Abends alle Zutaten einfach nur verrühren. Schüssel abdecken.
@@ -467,18 +470,185 @@ weight: 90
 *Die perfekte Reste-Verwertung ("Discard"). Super saftig.*
 
 ## Zutaten
-- 200 g Sauerteig-Reste (darf inaktiv sein)
-- 250 g Mehl
-- 200 g Zucker + 100 g Kakao
-- 1 TL Natron + 1 TL Backpulver + Prise Salz
-- 2 Eier + 120 ml Öl + 250 ml Milch
-- **150 ml kochendes Wasser**
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (inaktiv ok) | 200 g |
+| **Mehl** (550 oder Dinkel) | 250 g |
+| **Zucker** | 200 g |
+| **Kakao** | 100 g |
+| **Natron** | 1 TL |
+| **Backpulver** | 1 TL |
+| **Salz** | 1 Prise |
+| **Eier** | 2 Stk. |
+| **Öl** (oder weiche Butter) | 120 ml |
+| **Milch** | 250 ml |
+| **Kochendes Wasser** | 150 ml |
 
 ## Zubereitung
 1.  Alles (außer das Wasser) verrühren.
 2.  Das kochende Wasser ganz am Ende zügig unterrühren.
 3.  In eine gefettete Form gießen.
 4.  Bei **180 °C für 45–55 Minuten** backen.
+
+===== START FILE: rezepte/pizza-hybrid.md =====
+---
+title: Die Hybrid-Pizza
+weight: 100
+---
+
+# Die Hybrid-Pizza (Sauerteig + Hefe)
+
+*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer", aber mit Hamburger Tiefgang.*
+
+## Zutaten (für 4 Pizzen)
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Mehl** (Tipo 00 / 550) | 500 g |
+| **Wasser** (lauwarm) | 325 ml |
+| **Sauerteig** (fürs Aroma) | 50 g |
+| **Hefe** (Frischhefe) | 2 g |
+| **Salz** | 12 g |
+| **Olivenöl** | 1 EL |
+
+## Der Ablauf
+1.  **Mischen:** Hefe und Sauerteig im Wasser auflösen. Mehl dazu. Kurz mischen. 15 Min warten.
+2.  **Kneten:** Salz und Öl dazu. Teig glatt kneten (Maschine: 5–8 Min).
+3.  **Gehen lassen (Stockgare):** 2 Stunden bei Raumtemperatur. Nach 1 Stunde einmal falten.
+4.  **Kugeln:** Teile den Teig in 4 Stücke (à ca. 220 g). Schleife sie zu straffen Kugeln.
+5.  **Die lange Ruhe:** Leg die Kugeln in eine bemehlte Box/Auflaufform (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**.
+    * *Eilig?* Lass sie 4 Stunden bei Raumtemperatur gehen, dann backen. Aber der Kühlschrank bringt den Geschmack.
+6.  **Backen:** Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Teig mit den Händen ausziehen (nicht rollen!), belegen, 5–8 Minuten backen.
+
+===== START FILE: rezepte/pancakes.md =====
+---
+title: Sauerteig-Pancakes
+weight: 110
+---
+
+# Sauerteig-Pancakes (Fluffig & Dick)
+
+*Das perfekte Wochenend-Frühstück. Der Sauerteig macht sie locker und nicht so "teigig" wie normale Pfannkuchen.*
+
+## Zutaten
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (Discard) | 200 g |
+| **Mehl** | 150 g |
+| **Milch** | 150 ml |
+| **Ei** | 1 groß |
+| **Zucker** | 2 EL |
+| **Backpulver** | 1 TL |
+| **Natron** | 0,5 TL |
+| **Salz** | 1 Prise |
+| **Butter** | Zum Braten |
+
+## Zubereitung
+1.  **Mixen:** Sauerteig, Mehl, Zucker und Milch verrühren.
+2.  **Ei:** Ei verquirlen und unterrühren.
+3.  **Der Turbo:** Erst kurz vor dem Backen Natron und Backpulver unterrühren. Der Teig fängt sofort an zu schäumen – das wollen wir!
+4.  **Backen:** Butter in der Pfanne bei mittlerer Hitze schmelzen. Teig klecksweise hineingeben.
+5.  **Wenden:** Wenn oben Bläschen platzen und der Rand trocken aussieht: Umdrehen. Goldbraun ausbacken.
+
+===== START FILE: rezepte/cracker.md =====
+---
+title: Discard-Cracker
+weight: 120
+---
+
+# Discard-Cracker (Der Knabber-Spaß)
+
+*Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig.*
+
+## Zutaten
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (Discard) | 200 g |
+| **Mehl** (Weizen/Dinkel) | 100 g |
+| **Butter** (weich) / Öl | 50 g |
+| **Kräuter** (getrocknet) | 1–2 TL |
+| **Salz** (grob) | Zum Bestreuen |
+
+## Zubereitung
+1.  **Teig:** Sauerteig, Mehl, Fett und Kräuter zu einer glatten Kugel verkneten.
+2.  **Kühlen:** In Folie wickeln und 30 Min in den Kühlschrank (lässt sich besser rollen).
+3.  **Rollen:** Teig auf Backpapier legen. Zweites Backpapier oben drauf. Mit dem Nudelholz **hauchdünn** ausrollen. Wirklich dünn!
+4.  **Schneiden:** Das obere Papier abziehen. Mit einem Pizzaroller oder Messer in Rauten/Vierecke schneiden (nicht auseinanderziehen, nur ritzen). Mit grobem Salz bestreuen.
+5.  **Backen:** Bei **180 °C Umluft** für ca. 15–20 Minuten. Sie müssen leicht bräunen.
+6.  **Abkühlen:** Auf dem Blech auskühlen lassen, dann brechen sie an den Schnittkanten auseinander.
+
+===== START FILE: rezepte/zitronenkuchen.md =====
+---
+title: Saftiger Zitronenkuchen
+weight: 130
+---
+
+# Saftiger Zitronenkuchen
+
+*Frisch, säuerlich und dank Sauerteig extrem saftig. Ein einfacher Rührkuchen für jeden Tag.*
+
+## Zutaten
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** | 150 g |
+| **Mehl** (Weizen 550) | 200 g |
+| **Zucker** | 150 g |
+| **Öl** (z.B. Raps) | 100 ml |
+| **Joghurt** (Natur) | 100 g |
+| **Eier** | 3 Stk. |
+| **Zitronensaft** (Frisch/Glas) | 40–50 ml |
+| **Zitronenabrieb** | 1 Pck. / 2 Bio |
+| **Backpulver** | 1 Pck. |
+| **Salz** | 1 Prise |
+
+## Guss (Optional)
+* Puderzucker + Zitronensaft
+
+## Zubereitung
+1.  **Feucht:** Eier und Zucker schaumig schlagen. Öl, Joghurt, Sauerteig, Zitronensaft und Abrieb unterrühren.
+2.  **Trocken:** Mehl, Backpulver und Salz mischen.
+3.  **Verbinden:** Trockene Zutaten kurz unter die feuchten rühren (nicht totrühren, sonst wird er zäh).
+4.  **Backen:** In einer gefetteten Kastenform bei **180 °C (Ober-/Unterhitze)** für ca. **45–55 Minuten**. Stäbchenprobe machen!
+5.  **Finish:** Wenn er noch warm ist, mit dem Guss bepinseln oder Löcher einstechen und noch mehr Saft darüber träufeln.
+
+===== START FILE: rezepte/apfelkuchen.md =====
+---
+title: Schneller Apfelkuchen
+weight: 140
+---
+
+# Schneller Apfel-Sauerteigkuchen
+
+*Ratzfatz gemacht, innen weich, oben knusprig. Der perfekte "Oma-Kuchen", nur cooler.*
+
+## Zutaten
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** | 200 g |
+| **Äpfel** (säuerlich) | 3–4 Stk. |
+| **Mehl** (Dinkel/Weizen) | 250 g |
+| **Butter** (weich) | 150 g |
+| **Zucker** (braun ist super) | 150 g |
+| **Eier** | 3 Stk. |
+| **Backpulver** | 1 Pck. |
+| **Zimt** | 1–2 TL |
+| **Vanille** | 1 Pck. |
+
+## Zubereitung
+1.  **Äpfel:** Schälen, entkernen und in Würfel oder Spalten schneiden.
+2.  **Teig:** Butter und Zucker schaumig schlagen. Eier einzeln dazu. Dann den Sauerteig unterrühren.
+3.  **Mehl:** Mehl, Backpulver, Zimt und Vanille mischen und kurz unter den Teig rühren. Er ist recht fest – das muss so.
+4.  **Mischen:** 2/3 der Äpfel direkt unter den Teig heben.
+5.  **Form:** In eine gefettete Springform (rund, 26 cm) oder kleine Auflaufform geben.
+6.  **Top:** Die restlichen Äpfel oben drauf drücken. Wer mag: Noch etwas Zucker & Zimt drüberstreuen.
+7.  **Backen:** Bei **180 °C (Ober-/Unterhitze)** für ca. **50–60 Minuten**.
+
+*Tipp:* Schmeckt lauwarm mit Schlagsahne am besten.
 
 ===== START FILE: wissen/_index.md =====
 ---
@@ -639,147 +809,3 @@ E-Mail: mail@sauerteig-bibel.de
 
 *Haftungsausschluss: Backen auf eigene Gefahr. Bitte Allergene prüfen.*
 
-===== START FILE: rezepte/pizza-hybrid.md =====
----
-title: Die Hybrid-Pizza
-weight: 100
----
-
-# Die Hybrid-Pizza (Sauerteig + Hefe)
-
-*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer", aber mit Hamburger Tiefgang.*
-
-## Zutaten (für 4 Pizzen)
-* **Mehl:** 500 g (Am besten Tipo 00 oder Weizen 550)
-* **Wasser:** 325 ml (lauwarm)
-* **Sauerteig:** 50 g (für das Aroma)
-* **Hefe:** 2 g Frischhefe (erbsengroß) – für den Trieb
-* **Salz:** 12 g
-* **Olivenöl:** 1 EL
-
-## Der Ablauf
-1.  **Mischen:** Hefe und Sauerteig im Wasser auflösen. Mehl dazu. Kurz mischen. 15 Min warten.
-2.  **Kneten:** Salz und Öl dazu. Teig glatt kneten (Maschine: 5–8 Min).
-3.  **Gehen lassen (Stockgare):** 2 Stunden bei Raumtemperatur. Nach 1 Stunde einmal falten.
-4.  **Kugeln:** Teile den Teig in 4 Stücke (à ca. 220 g). Schleife sie zu straffen Kugeln.
-5.  **Die lange Ruhe:** Leg die Kugeln in eine bemehlte Box/Auflaufform (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**.
-    * *Eilig?* Lass sie 4 Stunden bei Raumtemperatur gehen, dann backen. Aber der Kühlschrank bringt den Geschmack.
-6.  **Backen:** Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Teig mit den Händen ausziehen (nicht rollen!), belegen, 5–8 Minuten backen.
-
-===== START FILE: rezepte/pancakes.md =====
----
-title: Sauerteig-Pancakes
-weight: 110
----
-
-# Sauerteig-Pancakes (Fluffig & Dick)
-
-*Das perfekte Wochenend-Frühstück. Der Sauerteig macht sie locker und nicht so "teigig" wie normale Pfannkuchen.*
-
-## Zutaten
-* **Sauerteig-Reste:** 200 g (Discard)
-* **Mehl:** 150 g
-* **Milch:** 150 ml
-* **Ei:** 1 großes
-* **Zucker:** 2 EL
-* **Backpulver:** 1 TL (Wichtig für den Fluff!)
-* **Natron:** 0,5 TL (Reagiert mit der Säure)
-* **Salz:** 1 Prise
-* **Butter:** Zum Braten
-
-## Zubereitung
-1.  **Mixen:** Sauerteig, Mehl, Zucker und Milch verrühren.
-2.  **Ei:** Ei verquirlen und unterrühren.
-3.  **Der Turbo:** Erst kurz vor dem Backen Natron und Backpulver unterrühren. Der Teig fängt sofort an zu schäumen – das wollen wir!
-4.  **Backen:** Butter in der Pfanne bei mittlerer Hitze schmelzen. Teig klecksweise hineingeben.
-5.  **Wenden:** Wenn oben Bläschen platzen und der Rand trocken aussieht: Umdrehen. Goldbraun ausbacken.
-
-===== START FILE: rezepte/cracker.md =====
----
-title: Discard-Cracker
-weight: 120
----
-
-# Discard-Cracker (Der Knabber-Spaß)
-
-*Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig.*
-
-## Zutaten
-* **Sauerteig-Reste:** 200 g (Discard)
-* **Mehl:** 100 g (Weizen oder Dinkel)
-* **Butter:** 50 g (weich/geschmolzen) oder Olivenöl
-* **Kräuter:** Rosmarin, Thymian oder "Italienische Kräuter" (getrocknet)
-* **Salz:** Nach Belieben oben drauf
-
-## Zubereitung
-1.  **Teig:** Sauerteig, Mehl, Fett und Kräuter zu einer glatten Kugel verkneten.
-2.  **Kühlen:** In Folie wickeln und 30 Min in den Kühlschrank (lässt sich besser rollen).
-3.  **Rollen:** Teig auf Backpapier legen. Zweites Backpapier oben drauf. Mit dem Nudelholz **hauchdünn** ausrollen. Wirklich dünn!
-4.  **Schneiden:** Das obere Papier abziehen. Mit einem Pizzaroller oder Messer in Rauten/Vierecke schneiden (nicht auseinanderziehen, nur ritzen). Mit grobem Salz bestreuen.
-5.  **Backen:** Bei **180 °C Umluft** für ca. 15–20 Minuten. Sie müssen leicht bräunen.
-6.  **Abkühlen:** Auf dem Blech auskühlen lassen, dann brechen sie an den Schnittkanten auseinander.
-
-===== START FILE: rezepte/zitronenkuchen.md =====
----
-title: Saftiger Zitronenkuchen
-weight: 130
----
-
-# Saftiger Zitronenkuchen
-
-*Frisch, säuerlich und dank Sauerteig extrem saftig. Ein einfacher Rührkuchen für jeden Tag.*
-
-## Zutaten
-* **Sauerteig-Reste:** 150 g
-* **Mehl:** 200 g (Weizen 550)
-* **Zucker:** 150 g
-* **Öl:** 100 ml (geschmacksneutral, z.B. Raps)
-* **Joghurt:** 100 g (Natur)
-* **Eier:** 3 Stück
-* **Zitrone:**
-    * *Frisch:* Abrieb von 2 Bio-Zitronen + Saft von 1 Zitrone.
-    * *Flasche:* **40–50 ml Zitronensaft** (Bio-Direktsaft aus der Glasflasche) + 1 Pck. Zitronenabrieb.
-* **Backpulver:** 1 Päckchen
-* **Salz:** 1 Prise
-
-## Guss (Optional)
-* Puderzucker + Zitronensaft
-
-## Zubereitung
-1.  **Feucht:** Eier und Zucker schaumig schlagen. Öl, Joghurt, Sauerteig, Zitronensaft und Abrieb unterrühren.
-2.  **Trocken:** Mehl, Backpulver und Salz mischen.
-3.  **Verbinden:** Trockene Zutaten kurz unter die feuchten rühren (nicht totrühren, sonst wird er zäh).
-4.  **Backen:** In einer gefetteten Kastenform bei **180 °C (Ober-/Unterhitze)** für ca. **45–55 Minuten**. Stäbchenprobe machen!
-5.  **Finish:** Wenn er noch warm ist, mit dem Guss bepinseln oder Löcher einstechen und noch mehr Saft darüber träufeln.
-
-===== START FILE: rezepte/apfelkuchen.md =====
----
-title: Schneller Apfelkuchen
-weight: 140
----
-
-# Schneller Apfel-Sauerteigkuchen
-
-*Ratzfatz gemacht, innen weich, oben knusprig. Der perfekte "Oma-Kuchen", nur cooler.*
-
-## Zutaten
-* **Sauerteig-Reste:** 200 g (Discard)
-* **Äpfel:** 3–4 Stück (säuerlich, z.B. Boskop oder Elstar)
-* **Mehl:** 250 g (Dinkel 630 oder Weizen 550)
-* **Butter:** 150 g (weich!)
-* **Zucker:** 150 g (brauner Zucker gibt tolles Karamell-Aroma)
-* **Eier:** 3 Stück
-* **Backpulver:** 1 Päckchen
-* **Zimt:** 1–2 TL (Pflicht!)
-* **Vanille:** 1 Pck. Vanillezucker oder Aroma
-
-## Zubereitung
-1.  **Äpfel:** Schälen, entkernen und in Würfel oder Spalten schneiden.
-2.  **Teig:** Butter und Zucker schaumig schlagen. Eier einzeln dazu. Dann den Sauerteig unterrühren.
-3.  **Mehl:** Mehl, Backpulver, Zimt und Vanille mischen und kurz unter den Teig rühren. Er ist recht fest – das muss so.
-4.  **Mischen:** 2/3 der Äpfel direkt unter den Teig heben.
-5.  **Form:** In eine gefettete Springform (rund, 26cm) oder kleine Auflaufform geben.
-6.  **Top:** Die restlichen Äpfel oben drauf drücken. Wer mag: Noch etwas Zucker & Zimt drüberstreuen.
-7.  **Backen:** Bei **180 °C (Ober-/Unterhitze)** für ca. **50–60 Minuten**.
-
-*Tipp:* Schmeckt lauwarm mit Schlagsahne am besten.

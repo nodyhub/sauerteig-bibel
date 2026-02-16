@@ -8,12 +8,15 @@ weight: 100
 *Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer", aber mit Hamburger Tiefgang.*
 
 ## Zutaten (für 4 Pizzen)
-* **Mehl:** 500 g (Am besten Tipo 00 oder Weizen 550)
-* **Wasser:** 325 ml (lauwarm)
-* **Sauerteig:** 50 g (für das Aroma)
-* **Hefe:** 2 g Frischhefe (erbsengroß) – für den Trieb
-* **Salz:** 12 g
-* **Olivenöl:** 1 EL
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Mehl** (Tipo 00 / 550) | 500 g |
+| **Wasser** (lauwarm) | 325 ml |
+| **Sauerteig** (fürs Aroma) | 50 g |
+| **Hefe** (Frischhefe) | 2 g |
+| **Salz** | 12 g |
+| **Olivenöl** | 1 EL |
 
 ## Der Ablauf
 1.  **Mischen:** Hefe und Sauerteig im Wasser auflösen. Mehl dazu. Kurz mischen. 15 Min warten.

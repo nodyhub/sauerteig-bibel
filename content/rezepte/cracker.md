@@ -8,11 +8,14 @@ weight: 120
 *Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig.*
 
 ## Zutaten
-* **Sauerteig-Reste:** 200 g (Discard)
-* **Mehl:** 100 g (Weizen oder Dinkel)
-* **Butter:** 50 g (weich/geschmolzen) oder Olivenöl
-* **Kräuter:** Rosmarin, Thymian oder "Italienische Kräuter" (getrocknet)
-* **Salz:** Nach Belieben oben drauf
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (Discard) | 200 g |
+| **Mehl** (Weizen/Dinkel) | 100 g |
+| **Butter** (weich) / Öl | 50 g |
+| **Kräuter** (getrocknet) | 1–2 TL |
+| **Salz** (grob) | Zum Bestreuen |
 
 ## Zubereitung
 1.  **Teig:** Sauerteig, Mehl, Fett und Kräuter zu einer glatten Kugel verkneten.
