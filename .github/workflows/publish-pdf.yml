@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
     paths: ['content_dump.txt']
+  # NEU: Manueller Trigger hinzugefügt
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,22 +32,40 @@ jobs:
 
       - name: Convert HTML to PDF (Chrome)
         run: |
-          # Ein winziges Inline-Script zum Drucken
           python -c "
           from playwright.sync_api import sync_playwright
+          import os
           with sync_playwright() as p:
               browser = p.chromium.launch()
               page = browser.new_page()
-              page.goto('file://${{ github.workspace }}/sauerteig_bibel.html')
-              page.pdf(path='Sauerteig-Bibel.pdf', format='A4', print_background=True)
+              # Pfad zum generierten HTML
+              path = 'file://' + os.getcwd() + '/sauerteig_bibel.html'
+              page.goto(path)
+              # PDF Drucken mit Hintergrundfarben (für das Cover)
+              page.pdf(
+                  path='Sauerteig-Bibel.pdf', 
+                  format='A4', 
+                  print_background=True,
+                  margin={'top': '0px', 'right': '0px', 'bottom': '0px', 'left': '0px'}
+              )
               browser.close()
           "
 
+      # Optional: PDF als Artifact speichern (zum direkten Download in der Action)
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Sauerteig-Bibel-PDF
+          path: Sauerteig-Bibel.pdf
+
       - name: Create Release
+        # Nur einen Release erstellen, wenn wir auf dem main branch sind (nicht bei Tests)
+        if: github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v${{ steps.prep.outputs.VERSION }}
           name: "Sauerteig-Bibel v${{ steps.prep.outputs.VERSION }}"
           files: Sauerteig-Bibel.pdf
+          body: "Manuell oder automatisch generierte PDF-Version ${{ steps.prep.outputs.VERSION }}."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
