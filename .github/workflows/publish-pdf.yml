@@ -29,18 +29,18 @@ jobs:
         run: python build_book.py
 
       - name: Download Eisvogel Template
-        # Wir nehmen wieder v2.0.0, da der Link stabil ist
         run: |
           wget https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/v2.0.0/eisvogel.tex
 
       - name: Convert to PDF
-        # Wir nehmen 'edge', das ist das dickste Image mit allen Paketen
+        # WICHTIG: Wir nutzen 'extra:edge' (enthält polyglossia) UND xelatex (versteht Farben)
         uses: docker://pandoc/extra:edge
         with:
           args: >-
             --output=Sauerteig-Bibel.pdf
             --template=eisvogel.tex
-            --pdf-engine=pdflatex
+            --listings
+            --pdf-engine=xelatex
             --variable geometry:margin=2.5cm
             --variable fontsize=11pt
             --variable titlepage=true

@@ -9,6 +9,7 @@ OUTPUT_FILE = 'sauerteig_book.md'
 # Farben & Style (Brot-Theme)
 # primary: Ein warmes Dunkelgrau für Texte
 # accent: Ein schönes "Krusten-Orange/Braun" für Überschriften/Cover
+# Farben & Style (Brot-Theme)
 HEADER_TEMPLATE = """---
 title: "Die Hamburger Sauerteig-Bibel"
 author: "Jan Harrie"
@@ -18,7 +19,7 @@ titlepage: true
 titlepage-text-color: "FFFFFF"
 titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 2
-titlepage-background: "5D4037" 
+titlepage-background: "#5D4037"
 toc: true
 toc-own-page: true
 book: true
