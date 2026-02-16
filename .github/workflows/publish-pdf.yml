@@ -1,0 +1,85 @@
+name: PDF Build & Release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content_dump.txt'
+      - 'build_book.py'
+      - '.github/workflows/publish-pdf.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Extract Version & Build Markdown
+        id: prep
+        run: python build_book.py
+
+      - name: Convert to PDF
+        uses: docker://pandoc/latex:3.1
+        with:
+          args: >-
+            --output=Sauerteig-Bibel.pdf
+            --toc
+            --toc-depth=2
+            --variable geometry:margin=2cm
+            --variable fontsize=11pt
+            --pdf-engine=xelatex
+            sauerteig_book.md
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ steps.prep.outputs.VERSION }}
+          name: "Sauerteig-Bibel v${{ steps.prep.outputs.VERSION }}"
+          body: "Automatisch generiertes PDF aus der Version ${{ steps.prep.outputs.VERSION }}."
+          files: Sauerteig-Bibel.pdf
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Link in Content Dump
+        run: |
+          VERSION="${{ steps.prep.outputs.VERSION }}"
+          REPO="${{ github.repository }}"
+          FILE="content_dump.txt"
+          
+          # Der Link, der eingefügt werden soll
+          DOWNLOAD_LINK="> **[📥 Download PDF (v$VERSION)](https://github.com/$REPO/releases/download/v$VERSION/Sauerteig-Bibel.pdf)**"
+          
+          # Prüfen, ob genau dieser Link schon drin ist
+          if grep -Fq "$DOWNLOAD_LINK" "$FILE"; then
+            echo "Link ist bereits aktuell."
+          else
+            echo "Aktualisiere Link auf v$VERSION..."
+            
+            # Entferne alte Links (alles was mit "> **[📥 Download PDF" anfängt)
+            sed -i '/^> \*\*\[📥 Download PDF/d' "$FILE"
+            
+            # Füge neuen Link nach der Zeile mit "Version X.X." ein
+            # Wir suchen nach dem Muster "Version X.X.*" und fügen danach eine neue Zeile ein
+            sed -i "/Version $VERSION.*/a \\\n$DOWNLOAD_LINK" "$FILE"
+            
+            # Git Config
+            git config --global user.name "Sauerteig-Bot"
+            git config --global user.email "bot@nodyhub.de"
+            
+            # Commit & Push
+            git add "$FILE"
+            git commit -m "docs: Update PDF Link to v$VERSION [skip ci]"
+            git push
+          fi
