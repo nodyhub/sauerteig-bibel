@@ -53,7 +53,7 @@ Nicht jedes Mehl trinkt gleich viel. Diese Tabelle bewahrt dich davor, aus Verse
 | **Weizen 1050** | **ca. 70–75 %** | **Der Gutmütige.** Bringt mehr Geschmack als das 550er und verzeiht Fehler eher als Dinkel. |
 | **Dinkel 1050** | **ca. 65–70 %** | **Der Stabilisator.** Dunkler und griffiger. Braucht oft etwas Säure (Essig/Sauerteig), um die Form zu halten. |
 | **Roggen 1150** | **ca. 75–80 %** | **Der Lehm.** Roggen bildet kein Klebergerüst (Gluten). Er ist immer klebrig. Hier gibt es keinen "Fenstertest", nur eine pampige Masse. |
-| **Vollkorn** | **ca. 80–90 %+** | **Der Durstige.** Die Schalenteile saugen Wasser wie ein Schwamm – aber langsam! Deshalb ist die *Autolyse* (Quellzeit) hier Pflicht. |
+| **Vollkorn** | **ca. 80–90 %+** | **Der Durstige.** Die Schalenteile saugen Wasser wie ein Schwamm – aber langsam! Deshalb ist die *Fermentolyse (Quellphase)* hier Pflicht. |
 
 ## Warum machen wir das alles?
 
@@ -124,7 +124,7 @@ weight: 20
 Wir erfinden das Rad nicht jeden Tag neu. Das ist der Rhythmus für fast alle **Kastenbrote** hier.
 
 > **TL;DR (Zusammenfassung):**
-> Wir starten mit dem Mischen von Mehl und Wasser (Autolyse), damit das Mehl quellen kann. Dann kommt Salz dazu und wir kneten den Hauptteig. Über 3–4 Stunden geben wir dem Teig durch Falten Struktur (Stockgare). Geformt wandert er im Kasten über Nacht in den Kühlschrank (Gare) und wird morgens direkt kalt und heiß gebacken.
+> Wir starten mit dem Mischen von Mehl und Wasser (Fermentolyse (Quellphase)), damit das Mehl quellen kann. Dann kommt Salz dazu und wir kneten den Hauptteig. Über 3–4 Stunden geben wir dem Teig durch Falten Struktur (Stockgare). Geformt wandert er im Kasten über Nacht in den Kühlschrank (Gare) und wird morgens direkt kalt und heiß gebacken.
 
 ---
 
@@ -133,7 +133,7 @@ Manche Rezepte (wie das Saftkorn) benötigen ein **Kochstück** oder **Brühstü
 * Das wird *vor* allem anderen gemacht und muss **abkühlen**, bevor es zum Teig kommt.
 * *Details stehen dann im jeweiligen Rezept.*
 
-## Die Autolyse (Mischen)
+## Die Fermentolyse (Quellphase) (Mischen)
 Wir mischen fast alles – **außer das Salz!** Salz entzieht Wasser und hemmt die Entwicklung.
 
 * **Tun:** Wasser, Sauerteig, Honig/Apfelmark und alle Mehle (und ggf. das kalte Kochstück) in die Schüssel.
@@ -211,7 +211,7 @@ weight: 10
 | **Essig** | - | optional (1 TL) | optional (1 EL) |
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
+1.  **Phase: Fermentolyse (Quellphase)**
     * Standard: 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Weizen mag Struktur. Knete zügig (Stufe 2) für **6–8 Minuten**.
@@ -243,7 +243,7 @@ weight: 20
 **Wichtig:** Da hier kein Weizen klebt, brauchen Dinkel und Roggen die Säure vom Essig zur Stabilisierung. Nicht weglassen!
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
+1.  **Phase: Fermentolyse (Quellphase)**
     * Standard: 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal **4–5 Minuten**. Sobald der Teig glatt ist: Stopp.
@@ -258,7 +258,7 @@ weight: 30
 
 # Vollkorn-Kraftpaket
 
-*Dunkel, gesund, kernig. Hier ist die Quellzeit (Autolyse) besonders wichtig, damit es nicht trocken wird.*
+*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse (Quellphase)) besonders wichtig, damit es nicht trocken wird.*
 
 ## Zutaten
 
@@ -274,7 +274,7 @@ weight: 30
 | **Essig** | - | 1 EL | 1,5 EL |
 
 ## Der Ablauf
-1.  **Phase: Autolyse (Verlängert!)**
+1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
     * Vollkornschalen saugen langsam. Lass Mehl und Wasser **mindestens 45 bis 60 Minuten** stehen, bevor Salz dazu kommt.
 2.  **Phase: Kneten**
     * Vorsichtig. Stufe 1, maximal **5 Minuten**.
@@ -302,17 +302,20 @@ weight: 40
 | **Sauerteig** | *20 %* | **100 g** | **150 g** |
 | **Salz** | *1,8 %* | **9 g** | **13 g** |
 | **Honig** | - | 1 EL | 1 EL |
+| **Essig** | - | **1,5 EL (Pflicht!)** | **2 EL (Pflicht!)** |
 | **Tipp** | - | Sonnenblumenkerne | Sonnenblumenkerne |
 
+> **Profi-Tipp zur Feuchtigkeit:** Roggen schwankt extrem in der Wasseraufnahme. Wenn dein Brot nach dem Backen innen zu feucht/klitschig ist, reduziere das Wasser beim nächsten Mal auf 75 % (375 ml für Standard / 560 ml für XL).
+
 ## Der Ablauf
-1.  **Phase: Autolyse**
-    * Standard: 30 Minuten.
-2.  **Phase: Kneten (Mischen)**
-    * Roggen hat kein Glutengerüst, das man kneten müsste. Mische alles auf kleinster Stufe, bis es eine homogene Masse ist.
-3.  **Phase: Stockgare (Ohne Falten!)**
-    * Lass den Teig 3 Stunden ruhen. **Nicht falten.** Bringt bei Roggen nichts außer klebrige Finger.
-4.  **Weiter:**
-    * Ab Phase 4 (Formen) dem [Basis-Ablauf](../../basis-ablauf/) folgen.
+1.  **Phase: Mischen (Nicht kneten!)**
+    * Roggen hat kein Klebergerüst, das man aufbauen muss. Alle Zutaten in die Schüssel geben und auf Stufe 1 (oder mit einem kräftigen Löffel) gut durchmischen, bis eine klebrige, mörtelartige Masse entsteht. Es gibt hier keine Fermentolyse (Quellphase).
+2.  **Phase: Formen (Ab in den Kasten)**
+    * Den Teig direkt in die gut gefettete Kastenform geben.
+    * Mit **nassen Händen** (oder einem nassen Löffel) die Oberfläche glattstreichen.
+3.  **Phase: Gare & Backen**
+    * Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden und er deutlich an Volumen gewonnen hat (ca. 2–3 Stunden, je nach Temperatur).
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) für das Backen. Denk daran: Roggenbrot muss mindestens 24 Stunden ruhen, bevor du es anschneidest!
 
 ===== START FILE: rezepte/dinkel-seele.md =====
 ---
@@ -322,26 +325,38 @@ weight: 50
 
 # Die Dinkel-Seele
 
-*100 % Dinkel Vollkorn. Nussig und fein. Wirkt trocken entgegen mit extra viel Wasser und Flohsamenschalen.*
+*100 % Dinkel Vollkorn. Nussig und fein. Wirkt der Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
 
-## Zutaten
+## 1. Das Kochstück (Vorbereitung)
+*Das Kochstück bindet extrem viel Wasser und macht das Brot tagelang haltbar.*
 
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Dinkel VK* | *100 %* | *500 g* | *750 g* |
-| **Wasser** | *75 %* | **375 ml** | **560 ml** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Salz** | *1,8 %* | **9 g** | **13 g** |
-| **Essig** | - | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
-| **Honig** | - | 1 EL | 1 EL |
-| **Flohsamenschalen** | - | 1 TL | 1,5 TL |
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Haferflocken** (kernig o. zart) | **50 g** | **75 g** |
+| **Wasser** | **150 ml** | **225 ml** |
+
+**So geht's:** Die Haferflocken in einer Pfanne (ohne Fett) goldbraun anrösten, bis sie duften. Das Wasser dazugießen und unter Rühren kurz aufkochen, bis ein fester Brei (Porridge) entsteht. **Komplett abkühlen lassen!** (Mindestens raumtemperiert, gerne auch schon am Vorabend machen und in den Kühlschrank stellen).
+
+## 2. Der Hauptteig
+
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Dinkel VK Mehl** | **500 g** | **750 g** |
+| **Wasser** (für den Hauptteig) | **250 ml** | **375 ml** |
+| **Sauerteig** | **100 g** | **150 g** |
+| **Abgekühltes Kochstück** | **komplett (ca. 200 g)** | **komplett (ca. 300 g)** |
+| **Salz** | **9 g** | **13 g** |
+| **Essig** | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
+| **Honig** | 1 EL | 1 EL |
+| **Flohsamenschalen** | 1 TL | 1,5 TL |
 
 ## Der Ablauf
-1.  **Phase: Autolyse (Verlängert!)**
-    * **45 bis 60 Minuten**. Mische die Flohsamenschalen hier schon direkt mit dem Mehl und Wasser.
+1.  **Phase: Fermentolyse (Quellphase) (Alles vermischen)**
+    * Dinkelmehl, Wasser, Sauerteig, das **kalte Kochstück** und die Flohsamenschalen grob vermischen. 
+    * 30 Minuten quellen lassen. Die Flohsamen und das Kochstück saugen sich jetzt richtig voll.
 2.  **Phase: Kneten**
-    * Sanft. Stufe 1, maximal **4–5 Minuten**.
+    * Salz, Essig und Honig dazu.
+    * **Vorsicht beim Dinkel:** Nur auf Stufe 1 (langsam) für maximal **4–5 Minuten** kneten, bis der Teig eine glatte Kugel bildet. Dinkel überknetet sehr schnell und wird dann flüssig!
 3.  **Weiter:**
     * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
 
@@ -381,7 +396,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (
 **Wichtig:** Nutze **eiskaltes** Wasser im Hauptteig. Die Kälte schützt den empfindlichen Dinkel vor dem Überkneten.
 
 ## Der Ablauf
-1.  **Phase: Autolyse (Mischen)**
+1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
     * Gib das **kalte** Kochstück direkt mit dem Wasser, Sauerteig und Mehl in die Schüssel. 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Kurz und langsam (Stufe 1, 4 Min).
@@ -398,7 +413,7 @@ weight: 70
 
 *100 % Weizen Vollkorn. Fluffig statt bitter.*
 
-**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher.
+**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher und sorgt für eine wattige Krume.
 
 ## Zutaten
 
@@ -413,11 +428,11 @@ weight: 70
 | **Honig** | - | 1 EL | 1 EL |
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
-    * Standard (30 Min).
+1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
+    * Mehl, Wasser und Sauerteig mischen. Lass den Teig **45 bis 60 Minuten** quellen. So werden die harten Vollkornschalen weich und zerschneiden dir beim Kneten nicht das Teiggerüst.
 2.  **Phase: Kneten**
-    * Kräftig! **8–10 Minuten** auf Stufe 2.
-    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist.
+    * Salz und Honig dazu. Kräftig! **8–10 Minuten** auf Stufe 2, bis der Teig sich vom Rand löst.
+    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist. Nur noch solange kneten, bis das Fett komplett aufgenommen wurde.
 3.  **Weiter:**
     * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
 
@@ -431,23 +446,35 @@ weight: 80
 
 *Für Faule. Zeit statt Muskelkraft.*
 
-**Hinweis:** Dies ist eines der wenigen Rezepte hier für den **Gusseisernen Topf** (rund), nicht für den Kasten.
+**Hinweis:** Dies ist keines unserer üblichen Kastenbrote. Es wird frei im **gusseisernen Topf** gebacken. Ein Standard-Topf (ca. 4 Liter) fasst meist die 500g-Menge, für die XL-Menge brauchst du einen großen Bräter (ca. 6 Liter oder oval).
 
 ## Zutaten
 
-| Zutat | Menge |
-| :--- | :--- |
-| **Weizen 550** | 400 g |
-| **Roggen 1150** | 100 g |
-| **Wasser** | 360 ml |
-| **Salz** | 10 g |
-| **Sauerteig** | 80 g |
+| Zutat | Bäcker-% | Standard (1 Topf) | XL (Großer Bräter) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *80 %* | *400 g* | *600 g* |
+| *...Roggen 1150* | *20 %* | *100 g* | *150 g* |
+| **Wasser** | *72 %* | **360 ml** | **540 ml** |
+| **Sauerteig** | *16 %* | **80 g** | **120 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+
+*Tipp: Die reduzierte Menge Sauerteig (16 % statt 20 %) ist Absicht. So kann der Teig 12 Stunden bei Raumtemperatur stehen, ohne zu übersäuern.*
 
 ## Der Ablauf
-1.  **Mischen:** Abends alle Zutaten einfach nur verrühren. Schüssel abdecken.
-2.  **Gare:** 12 Stunden bei Raumtemperatur stehen lassen.
-3.  **Formen:** Teig auf Mehl kippen, wie einen Briefumschlag falten, rund wirken. 1 Stunde im Gärkorb gehen lassen.
-4.  **Backen:** Im heißen Gusseisen-Topf (250 °C): 30 Minuten **mit Deckel**, dann 15 Minuten **ohne Deckel**.
+1.  **Phase: Mischen (Keine Fermentolyse nötig!)**
+    * Da wir den Teig ohnehin 12 Stunden stehen lassen, baut sich das Glutengerüst von ganz alleine auf. Mische abends einfach alle Zutaten in einer großen Schüssel grob zusammen, bis kein trockenes Mehl mehr zu sehen ist. Nicht kneten! Schüssel luftdicht abdecken.
+2.  **Phase: Die lange Gare (Stockgare)**
+    * Lass den Teig für ca. **12 Stunden bei Raumtemperatur** stehen (über Nacht). Er wird Blasen werfen und sich verdoppeln. *(Achtung: Im Hochsommer bei über 25°C in der Küche wird das zu warm, dann lieber etwas kühler stellen).*
+3.  **Phase: Formen & Stückgare**
+    * Kipp den weichen Teig auf eine gut bemehlte Arbeitsfläche.
+    * Ziehe ihn leicht auseinander und falte ihn wie einen Briefumschlag von allen Seiten zur Mitte. Umdrehen und zu einer runden Kugel formen (Rundwirken).
+    * Mit dem Schluss nach oben in einen gut bemehlten Gärkorb (oder eine Schüssel mit bemehltem Tuch) legen und **1 Stunde** bei Raumtemperatur gehen lassen.
+4.  **Phase: Backen (Im Gusseisentopf)**
+    * Heize in der Zwischenzeit den Ofen **samt Gusseisentopf (und Deckel!)** auf **250 °C** vor (mindestens 45 Minuten).
+    * Teig vorsichtig aus dem Gärkorb auf ein Stück Backpapier stürzen, oben mit einer Rasierklinge einschneiden und am Papier in den heißen Topf heben. **Vorsicht, extrem heiß!**
+    * **30 Minuten mit Deckel** backen (der eigene Dampf des Brotes hält die Kruste weich und sorgt für Ofentrieb).
+    * Deckel abnehmen, Temperatur auf **220 °C** reduzieren und weitere **15 Minuten** knusprig braun ausbacken.
 
 ===== START FILE: rezepte/schokokuchen.md =====
 ---
@@ -457,29 +484,55 @@ weight: 90
 
 # Sauerteig-Schokokuchen
 
-*Die perfekte Reste-Verwertung ("Discard"). Super saftig.*
+*Die perfekte Reste-Verwertung ("Discard"). Super saftig, tiefschokoladig und extrem fluffig.*
 
-## Zutaten
+**Keine Panik:** Der Teig ist am Ende flüssig wie eine dicke Suppe. Das muss so sein! Das kochende Wasser ist der Geheimtrick: Es löst die Kakao-Aromen und macht den Kuchen unverschämt saftig.
 
-| Zutat | Menge |
-| :--- | :--- |
-| **Sauerteig-Reste** (inaktiv ok) | 200 g |
-| **Mehl** (550 oder Dinkel) | 250 g |
-| **Zucker** | 200 g |
-| **Kakao** | 100 g |
-| **Natron** | 1 TL |
-| **Backpulver** | 1 TL |
-| **Salz** | 1 Prise |
-| **Eier** | 2 Stk. |
-| **Öl** (oder weiche Butter) | 120 ml |
-| **Milch** | 250 ml |
-| **Kochendes Wasser** | 150 ml |
+## Zutaten (Teig)
 
-## Zubereitung
-1.  Alles (außer das Wasser) verrühren.
-2.  Das kochende Wasser ganz am Ende zügig unterrühren.
-3.  In eine gefettete Form gießen.
-4.  Bei **180 °C für 45–55 Minuten** backen.
+| Zutat | Standard (1 Springform 24cm / Kasten) | XL (Für ein tiefes Backblech) |
+| :--- | :--- | :--- |
+| **Sauerteig-Reste** (inaktiv ist völlig ok) | **200 g** | **300 g** |
+| **Weizenmehl 550** (oder Dinkel 630) | **250 g** | **375 g** |
+| **Zucker** | **200 g** | **300 g** |
+| **Backkakao** (ungesüßt) | **100 g** | **150 g** |
+| **Natron** | 1 TL | 1,5 TL |
+| **Backpulver** | 1 TL | 1,5 TL |
+| **Salz** | 1 kräftige Prise | 2 Prisen |
+| **Eier** (Größe M) | **2 Stück** | **3 Stück** |
+| **Öl** (Raps- oder Sonnenblumenöl) | **120 ml** | **180 ml** |
+| **Milch** | **250 ml** | **375 ml** |
+| **Kochendes Wasser** (Pflicht!) | **150 ml** | **225 ml** |
+
+## Der "Speicherstadt"-Schoko-Turbo (Das Ganache-Finish)
+*Für alle, denen "schokoladig" noch nicht genug ist.*
+
+| Zutat | Standard | XL |
+| :--- | :--- | :--- |
+| **Zartbitterschokolade** (min. 70%) | **100 g** | **150 g** |
+| **Schlagsahne** | **100 ml** | **150 ml** |
+| **Flockensalz** (Meersalz) | 1 Prise | 2 Prisen |
+
+## Der Ablauf
+1.  **Phase: Die trockenen Zutaten**
+    * Mehl, Zucker, Kakao, Natron, Backpulver und Salz in einer großen Schüssel gut mit einem Schneebesen vermischen, damit keine Kakao-Klümpchen bleiben.
+2.  **Phase: Die nassen Zutaten**
+    * In einer zweiten Schüssel die Sauerteig-Reste, Eier, Öl und Milch glattrühren.
+    * Die nasse Mischung zu den trockenen Zutaten geben und kurz verrühren, bis ein dicker Teig entsteht.
+3.  **Phase: Die Kakao-Explosion**
+    * Jetzt das **kochende Wasser** in einem Rutsch dazugießen und mit dem Schneebesen zügig unterrühren. Der Teig wird jetzt sehr flüssig – das ist exakt richtig!
+4.  **Phase: Backen**
+    * Den flüssigen Teig sofort in eine gut gefettete (oder mit Backpapier ausgelegte) Form gießen.
+    * Im vorgeheizten Ofen bei **180 °C (Ober-/Unterhitze)** backen. 
+    * *Standard-Form:* ca. **45–55 Minuten**.
+    * *XL-Blech:* ca. **35–40 Minuten**.
+    * *Stäbchenprobe machen:* Es darf noch feucht sein, aber kein flüssiger Teig mehr am Holzstäbchen kleben. Komplett in der Form auskühlen lassen (er ist warm sehr zerbrechlich!).
+5.  **Phase: Das "Speicherstadt"-Finish (optional)**
+    * Die Zartbitterschokolade fein hacken und in eine hitzefeste Schüssel geben.
+    * Die Sahne in einem kleinen Topf kurz aufkochen und direkt über die gehackte Schokolade gießen.
+    * **2 Minuten in Ruhe stehen lassen** (nicht rühren, sonst kühlt es zu schnell ab!).
+    * Dann mit einem Löffel (von der Mitte aus) zu einer glänzenden, dunklen Creme verrühren.
+    * Über den **komplett abgekühlten** Kuchen gießen, glattstreichen und zum Schluss etwas flockiges Meersalz darüberstreuen. Fest werden lassen.
 
 ===== START FILE: rezepte/pizza-hybrid.md =====
 ---
@@ -640,6 +693,198 @@ weight: 140
 
 *Tipp:* Schmeckt lauwarm mit Schlagsahne am besten.
 
+===== START FILE: rezepte/kartoffel-walnuss.md =====
+---
+title: Kartoffel-Walnuss-Wunder
+weight: 75
+---
+
+# Das Kartoffel-Walnuss-Wunder
+
+*Ein absoluter Banger. Durch die gekochten Kartoffeln wird die Krume wattig-weich und hält tagelang frisch. Die gerösteten Walnüsse sorgen für den Biss.*
+
+## Vorbereitung
+1.  **Kartoffeln:** 150 g (Standard) bzw. 225 g (XL) mehligkochende Kartoffeln weich kochen, pellen und **fein zerstampfen**. Komplett auskühlen lassen!
+2.  **Nüsse:** Walnüsse grob hacken und in einer Pfanne ohne Fett kurz anrösten, bis sie duften. Abkühlen lassen.
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *80 %* | *400 g* | *600 g* |
+| *...Roggen 1150* | *20 %* | *100 g* | *150 g* |
+| **Wasser** | *60 %* | **300 ml** | **450 ml** |
+| **Kartoffeln (gekocht)** | *30 %* | **150 g** | **225 g** |
+| **Walnüsse** | *20 %* | **100 g** | **150 g** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+| **Hefe** (optional) | - | 1 g (für den Boost) | 2 g |
+| **Muskat** | - | 1 Prise (Geheimtipp!) | 1 Prise |
+
+**Achtung beim Wasser:** Kartoffeln bringen Feuchtigkeit mit. Fang mit etwas weniger Wasser an und schütte nur nach, wenn der Teig zu fest ist.
+
+## Der Ablauf
+1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
+    * Mehl, Wasser, Sauerteig und die **kalten Stampfkartoffeln** mischen. 30 Minuten quellen lassen.
+2.  **Phase: Kneten**
+    * Salz und die Prise Muskat dazu. Knete den Teig gut aus (Stufe 2, ca. 8 Min), bis er sich vom Schüsselrand löst.
+    * **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen (oder von Hand unterheben).
+3.  **Weiter:**
+    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+    * *Tipp:* Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach. Wenn er sich verdoppelt hat, ab in den Kasten!
+
+===== START FILE: rezepte/hanse-brioche.md =====
+---
+title: Hanse-Brioche
+weight: 85
+---
+
+# Das Hanse-Brioche
+
+*Wolkig, buttrig, sündhaft. Der Endgegner für das Sonntagsfrühstück oder als Basis für French Toast.*
+
+**Warnung:** Dies ist kein Diät-Brot. Hier arbeiten Butter und Eier für den Geschmack.
+
+
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
+| **Milch** (kalt) | *45 %* | **225 ml** | **340 ml** |
+| **Eier** (M) | *20 %* | **2 Stück** (ca. 100g) | **3 Stück** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Zucker** | *12 %* | **60 g** | **90 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+| **Butter** (kalt!) | *... Read more
+
+===== START FILE: rezepte/ciabatta-style.md =====
+---
+title: Die Luftnummer (Ciabatta-Style)
+weight: 88
+---
+
+# Die Luftnummer (Ciabatta-Style)
+
+*Große Löcher, knusprige Kruste, weicher Kern. Eigentlich unmöglich in der Form, aber wir tricksen die Physik aus.*
+
+**Wichtig:** Dies ist ein **High-Hydration-Teig** (sehr weich). Er fühlt sich an wie Wackelpudding. Keine Panik, das muss so!
+
+
+
+## Die Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
+| **Wasser (Gesamt)** | *80 %* | **400 ml** | **600 ml** |
+| *...Start-Wasser* | | *350 ml* | *525 ml* |
+| *...Schluckweise* | | *50 ml* | *75 ml* |
+| **Olivenöl** | *6 %* | **30 g** | **45 g** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *2,2 %* | **11 g** | **16 g** |
+| **Hefe** | - | 2 g (Optional für den Turbo) | 3 g |
+
+*Profi-Tipp:* Wenn du hast, nimm **Tipo 00 Mehl** oder spezielles **Manitoba-Mehl**. Das kann das viele Wasser besser halten als normales 550er. Geht aber auch mit 550er, wenn du gut knetest.
+
+## Der Ablauf (Bassinage-Technik)
+
+Wir geben das Wasser nicht auf einmal rein, sonst kriegst du nur Suppe. Wir nutzen die **Bassinage** (das schluckweise Nachgießen).
+
+1.  **Phase: Fermentolyse (Quellphase) (fest)**
+    * Mehl mit dem **Start-Wasser** (350ml) und dem Sauerteig mischen.
+    * Es entsteht ein ruppiger Teig. 30–45 Minuten stehen lassen.
+
+2.  **Phase: Kneten & Trinken lassen**
+    * Salz dazu. Maschine an (Stufe 2).
+    * Jetzt das restliche Wasser (**50ml**) esslöffelweise dazugeben. Immer warten, bis der Teig das Wasser "getrunken" hat, bevor der nächste Löffel kommt.
+    * Das dauert! Knete insgesamt **10–12 Minuten**. Der Teig muss sich komplett vom Rand lösen und fast durchsichtig dehnbar sein ("Fenstertest").
+
+3.  **Phase: Das Öl**
+    * Ganz am Ende das Olivenöl langsam einlaufen lassen und nur noch kurz unterkneten (Stufe 1), bis der Teig wieder glänzt.
+
+4.  **Phase: Stockgare & Coil Folds (Pflicht!)**
+    * Gib den Teig in eine geölte Wanne/Schüssel.
+    * **Falten ist hier alles:** Dehne und falte den Teig ("Coil Fold") alle 30 Minuten für die ersten 2 Stunden (insgesamt 4x). Das baut das Gerüst auf, das die Luft hält.
+    * Danach noch 1–2 Stunden ruhen lassen, bis er sich **verdoppelt** hat und Blasen wirft.
+
+5.  **Phase: Ab in den Kasten (Vorsicht!)**
+    * Kastenform gut mit Olivenöl fetten und mit Grieß/Mehl ausstreuen.
+    * Den Teig **ganz vorsichtig** aus der Wanne in den Kasten gleiten lassen. **Nicht drücken! Nicht kneten!** Wir wollen keine einzige Luftblase zerstören.
+    * Wenn er ungleichmäßig liegt: Einfach warten. Die Schwerkraft regelt das in 10 Minuten.
+
+6.  **Phase: Backen**
+    * Ofen auf **250 °C** vorheizen (mit viel Dampf!).
+    * Kasten rein. 10 Minuten bei 250 °C.
+    * Runter auf **220 °C** und weitere **35–40 Minuten** backen. Er muss dunkelbraun und knusprig sein.
+    * Aus der Form stürzen und auf dem Rost auskühlen lassen (das ist schwer, weil es so gut riecht, aber er muss stabil werden).
+
+===== START FILE: rezepte/zupfbrot.md =====
+---
+title: Das Zupfbrot (Knoblauch & Kräuter)
+weight: 95
+---
+
+# Das Zupfbrot (Pull-Apart Bread)
+
+*Der ultimative Eisbrecher für Gäste. Luftige Teigbällchen, getränkt in Knoblauchbutter und Kräutern. Jeder reißt sich ein Stück ab.*
+
+**Perfekt zu:** Pasta, Grillabenden oder Wein.
+
+## Zutaten (Teig)
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Mehl** (Weizen 550) | 450 g |
+| **Sauerteig-Reste** (Discard) | 100 g |
+| **Milch** (lauwarm) | 150 ml |
+| **Wasser** (lauwarm) | 100 ml |
+| **Hefe** (Frisch) | 5 g (für die Fluffigkeit) |
+| **Zucker/Honig** | 1 TL |
+| **Salz** | 8 g |
+| **Olivenöl** | 30 ml |
+
+## Die "Magie" (Zum Tauchen)
+* **Butter:** 80 g (geschmolzen)
+* **Knoblauch:** 2–3 Zehen (gepresst)
+* **Kräuter:** 1 Handvoll Petersilie oder Rosmarin (gehackt)
+* **Parmesan:** 30 g (optional, gerieben)
+* **Salz:** 1 Prise (grob)
+
+## Der Ablauf
+
+1.  **Der Teig:**
+    * Löse Hefe und Sauerteig in der Milch-Wasser-Mischung auf.
+    * Gib Mehl, Zucker, Salz und Öl dazu.
+    * Knete ca. **5–8 Minuten**, bis der Teig weich, glatt und elastisch ist. Er darf leicht kleben, soll sich aber von der Schüssel lösen.
+    * **Ruhe:** Abgedeckt 60 Minuten an einem warmen Ort gehen lassen (Volumen verdoppeln).
+
+2.  **Die Bällchen:**
+    * Mische die geschmolzene Butter mit Knoblauch, Kräutern und Salz in einer kleinen Schale.
+    * Kipp den Teig auf die Arbeitsfläche. Teile ihn in ca. **20–25 kleine Stücke** (Größe einer Walnuss/Tischtennisball).
+    * Forme grobe Kugeln (muss nicht perfekt rund sein).
+
+3.  **Das Tauchen & Stapeln:**
+    * Fette deine Kastenform.
+    * Jetzt kommt der Spaß: Tunke jede Teigkugel in die Knoblauchbutter, wälze sie kurz (oder pinsle sie ein) und wirf sie in die Kastenform.
+    * Staple sie einfach wild übereinander ("Chaos-Prinzip").
+    * Wenn noch Butter oder Kräuter übrig sind: Einfach oben drüber gießen. Parmesan drüber streuen.
+
+4.  **Zweite Ruhe (Wichtig!):**
+    * Lass den Kasten nochmal **30–45 Minuten** stehen, bis die Bällchen fluffig aufgegangen sind und die Lücken füllen.
+
+5.  **Backen:**
+    * Bei **190 °C (Ober-/Unterhitze)** für ca. **30–35 Minuten**.
+    * Wenn es oben zu dunkel wird (Knoblauch verbrennt schnell bitter!), decke es nach 20 Min. mit Alufolie ab.
+
+6.  **Servieren:**
+    * Kurz (5 Min) in der Form abkühlen lassen, dann warm stürzen. Sofort servieren.
+
+
 ===== START FILE: wissen/_index.md =====
 ---
 title: Wissenswertes & Tipps
@@ -699,7 +944,7 @@ weight: 10
 | **Weizen 1050** | ca. 70–75 % | Robust und griffig. |
 | **Dinkel 1050** | ca. 65–70 % | Braucht oft Säure zur Stabilität. |
 | **Roggen 1150** | ca. 75–80 % | Klebt immer. Kein Glutengerüst. |
-| **Vollkorn** | ca. 80–90 % | Braucht lange Autolyse (Quellzeit). |
+| **Vollkorn** | ca. 80–90 % | Braucht lange Fermentolyse (Quellphase). |
 
 ===== START FILE: wissen/werkzeuge.md =====
 ---
