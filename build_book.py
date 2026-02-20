@@ -38,28 +38,111 @@ ORDER = [
 ]
 
 # 2. Das CSS (inkl. @page Margins für Playwright!)
+# 2. Das Kochbuch-CSS (Kompakt & Edel)
 CSS = """
 <style>
+    /* Basis-Schriftart: Kompakter für den Druck */
     body { 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-        line-height: 1.6; 
-        color: #333; 
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        font-size: 11pt; 
+        line-height: 1.4; 
+        color: #2c3e50; 
     }
-    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
-    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-    th { background-color: #f2f2f2; }
-    blockquote { border-left: 4px solid #ccc; margin: 1.5em 10px; padding: 0.5em 10px; font-style: italic; background-color: #f9f9f9; }
     
+    /* Kochbuch-Optik: Edle Überschriften (Serifen) */
+    h1, h2, h3 { 
+        font-family: Georgia, "Times New Roman", serif; 
+        font-weight: normal;
+        color: #1a252f;
+        margin-top: 1.2em;
+        margin-bottom: 0.4em;
+    }
+    
+    h1 { 
+        font-size: 18pt; 
+        border-bottom: 1px solid #eee; 
+        padding-bottom: 5px; 
+    }
+    
+    /* Eine dezente "Rost/Krusten"-Farbe für die Zwischenüberschriften */
+    h2 { 
+        font-size: 14pt; 
+        color: #b35900; 
+    }
+    h3 { 
+        font-size: 12pt; 
+    }
+
+    /* Kursiver Text (die kleinen Einleitungen) etwas dezenter */
+    em { 
+        color: #555; 
+        font-size: 10.5pt; 
+    }
+
+    /* Cleane, platzsparende Zutaten-Tabellen */
+    table { 
+        border-collapse: collapse; 
+        width: 100%; 
+        margin-top: 10px;
+        margin-bottom: 15px; 
+        font-size: 10pt; /* Tabellen-Text noch einen Tick kleiner */
+    }
+    th, td { 
+        border: none;
+        border-bottom: 1px solid #ecf0f1; 
+        padding: 5px 8px; /* Weniger Padding = mehr Platz */
+        text-align: left; 
+    }
+    th { 
+        background-color: transparent; 
+        font-weight: bold;
+        color: #7f8c8d;
+        text-transform: uppercase;
+        font-size: 8.5pt;
+        letter-spacing: 0.5px;
+        border-bottom: 2px solid #bdc3c7;
+    }
+    /* Die erste Spalte (Zutaten-Namen) leicht hervorheben */
+    td:first-child { 
+        font-weight: bold; 
+        color: #2c3e50; 
+    }
+
+    /* Wichtige Tipps und Zitate (Blockquotes) */
+    blockquote { 
+        border-left: 3px solid #b35900; 
+        margin: 1.2em 0; 
+        padding: 6px 12px; 
+        font-style: italic; 
+        background-color: #fdfbf7; /* Sehr sanfter Papierton */
+        font-size: 10pt;
+    }
+
+    /* Kompaktere Listen für den Ablauf */
+    ol, ul { 
+        padding-left: 20px; 
+        margin-bottom: 15px; 
+    }
+    li { 
+        margin-bottom: 4px; /* Spart extrem viel Platz in der Höhe */
+    }
+
     /* Druck-Einstellungen für Playwright */
     @page {
-        margin: 20mm; /* WICHTIG: Setzt den Seitenrand für das PDF */
+        margin: 15mm 20mm; /* Etwas weniger Rand oben/unten gibt dem Rezept mehr Platz */
     }
     
     @media print {
+        body { background: transparent; }
+        
+        /* Regel 1: Jedes Rezept fängt auf einer NEUEN Seite an */
         h1 { page-break-before: always; margin-top: 0; }
+        
+        /* Schutz davor, dass Dinge am Seitenende zerschnitten werden */
         h1, h2, h3 { page-break-after: avoid; }
-        table, tr, td { page-break-inside: avoid; }
-        a { text-decoration: none; color: black; }
+        table, tr, td, li, blockquote { page-break-inside: avoid; }
+        
+        a { text-decoration: none; color: inherit; }
     }
 </style>
 """
