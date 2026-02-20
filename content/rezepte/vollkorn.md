@@ -5,7 +5,7 @@ weight: 30
 
 # Vollkorn-Kraftpaket
 
-*Dunkel, gesund, kernig. Hier ist die Quellzeit (Autolyse) besonders wichtig, damit es nicht trocken wird.*
+*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse (Quellphase)) besonders wichtig, damit es nicht trocken wird.*
 
 ## Zutaten
 
@@ -21,7 +21,7 @@ weight: 30
 | **Essig** | - | 1 EL | 1,5 EL |
 
 ## Der Ablauf
-1.  **Phase: Autolyse (Verlängert!)**
+1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
     * Vollkornschalen saugen langsam. Lass Mehl und Wasser **mindestens 45 bis 60 Minuten** stehen, bevor Salz dazu kommt.
 2.  **Phase: Kneten**
     * Vorsichtig. Stufe 1, maximal **5 Minuten**.

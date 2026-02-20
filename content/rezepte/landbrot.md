@@ -22,7 +22,7 @@ weight: 10
 | **Essig** | - | optional (1 TL) | optional (1 EL) |
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
+1.  **Phase: Fermentolyse (Quellphase)**
     * Standard: 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Weizen mag Struktur. Knete zügig (Stufe 2) für **6–8 Minuten**.

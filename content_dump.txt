@@ -6,7 +6,7 @@ type: docs
 
 # Die Hamburger Sauerteig-Bibel
 
-*Dein persönliches Handbuch für ehrliches Brot. Version 4.2.*
+*Dein persönliches Handbuch für ehrliches Brot. Version 4.3.*
 
 > **[📥 Hier klicken: Die Bibel als PDF herunterladen](https://github.com/nodyhub/sauerteig-bibel/releases/latest/download/Sauerteig-Bibel.pdf)**
 > *(Immer die aktuellste Version, frisch aus dem Ofen)*
@@ -16,19 +16,15 @@ Moin.
 Dies ist keine Hochglanz-Broschüre und kein Chemie-Lehrbuch. Es ist meine persönliche Sammlung für den echten Hamburger Alltag – zwischen Job, Kind und dem Wunsch, vernünftiges Brot auf dem Tisch zu haben, ohne dafür nachts um drei aufzustehen.
 
 **Wichtig vorab:**
-Dieses Buch konzentriert sich fast ausschließlich auf das Backen in der **Kastenform**.
+Dieses Buch konzentriert sich fast ausschließlich auf das Backen in der **Kastenform** (Ausnahmen wie Pizza oder Topfbrot bestätigen die Regel).
 Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen sauber hält und am Ende Scheiben liefert, die perfekt in die Brotdose passen.
 
 ## Der Fahrplan
 
 * **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
-* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Kneten, Falten, Backen).
-* **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten).
-* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
-
----
-
-*Viel Spaß beim Backen. Es wird gut.*
+* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Mischen, Falten, Backen).
+* **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten) und süße Snacks für die Resteverwertung.
+* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-S
 
 ===== START FILE: wissen/philosophie.md =====
 ---
@@ -142,9 +138,8 @@ Wir mischen fast alles – **außer das Salz!** Salz entzieht Wasser und hemmt d
 
 ## Der Hauptteig (Kneten)
 Jetzt kommt das Salz (und ggf. Essig) dazu.
-
-* **Weizen:** Mag Power. Stufe 2, ca. 6–8 Minuten.
-* **Dinkel/Roggen:** Sanft! Stufe 1, max. 4–5 Minuten. Sobald der Teig glatt ist: Stopp.
+* **Mit der Maschine:** Weizen mag Power (Stufe 2, ca. 6–8 Min). Dinkel/Roggen sanft (Stufe 1, max. 4–5 Min).
+* **Von Hand (Der Teigkarten-Trick):** Vergiss bemehlte Arbeitsplatten und klebrige Finger! Lass den Teig in der Schüssel, nimm eine nasse Teigkarte und falte/drücke den Teig damit immer wieder von außen nach innen, bis er glatt ist. *(Details siehe [Teigbearbeitung](../wissen/teigbearbeitung))*
 
 ## Stockgare & Falten
 Der Teig ruht ca. **3 bis 4 Stunden** warm (22–24 °C).
@@ -162,10 +157,10 @@ Der Teig ruht ca. **3 bis 4 Stunden** warm (22–24 °C).
 2.  Abgedeckt in den **Kühlschrank** für 8 bis 16 Stunden.
 
 ## Das Backen
-1.  **Vorheizen:** 250 °C mit Wasserschale (Dampf).
-2.  **Schnitt:** Kalten Teig der Länge nach einschneiden (1 cm tief).
-3.  **Anbacken:** 15 Minuten bei 250 °C.
-4.  **Durchbacken:** Dampf ablassen, runter auf 200–210 °C. Ca. 40–45 Minuten backen.
+1.  **Vorheizen:** 250 °C. *Wichtig: Stell eine leere Schale für den Dampf mit auf den Ofenboden (siehe [Backmethoden](../wissen/backmethoden)).*
+2.  **Schnitt & Optik:** Kalten Teig einschneiden (z. B. den klassischen Längsschnitt oder Muster, siehe [Optik & Toppings](../wissen/optik-finish)).
+3.  **Anbacken (mit Dampf):** Kasten in den Ofen, Wasser in die heiße Schale gießen, Tür sofort zu. 15 Minuten bei 250 °C backen.
+4.  **Durchbacken:** Tür kurz weit öffnen (Dampf ablassen!), Temperatur runter auf 200–210 °C. Ca. 40–45 Minuten backen.
 5.  **Krusten-Finale:** Brot ohne Kasten auf dem Rost 10–15 Minuten fertig backen (Kochlöffel in die Tür klemmen).
 
 ===== START FILE: rezepte/_index.md =====
@@ -406,7 +401,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (
 ===== START FILE: rezepte/reformer.md =====
 ---
 title: Der Reformer
-weight: 70
+weight: 80
 ---
 
 # Der Reformer
@@ -439,7 +434,7 @@ weight: 70
 ===== START FILE: rezepte/no-knead.md =====
 ---
 title: No-Knead Topfbrot
-weight: 80
+weight: 90
 ---
 
 # No-Knead Topfbrot ("Lazy Sunday")
@@ -479,7 +474,7 @@ weight: 80
 ===== START FILE: rezepte/schokokuchen.md =====
 ---
 title: Sauerteig-Schokokuchen
-weight: 90
+weight: 180
 ---
 
 # Sauerteig-Schokokuchen
@@ -537,7 +532,7 @@ weight: 90
 ===== START FILE: rezepte/pizza-hybrid.md =====
 ---
 title: Die Hybrid-Pizza
-weight: 100
+weight: 120
 ---
 
 # Die Hybrid-Pizza (Sauerteig + Hefe)
@@ -567,7 +562,7 @@ weight: 100
 ===== START FILE: rezepte/pancakes.md =====
 ---
 title: Sauerteig-Pancakes
-weight: 110
+weight: 140
 ---
 
 # Sauerteig-Pancakes (Fluffig & Dick)
@@ -598,7 +593,7 @@ weight: 110
 ===== START FILE: rezepte/cracker.md =====
 ---
 title: Discard-Cracker
-weight: 120
+weight: 150
 ---
 
 # Discard-Cracker (Der Knabber-Spaß)
@@ -626,7 +621,7 @@ weight: 120
 ===== START FILE: rezepte/zitronenkuchen.md =====
 ---
 title: Saftiger Zitronenkuchen
-weight: 130
+weight: 160
 ---
 
 # Saftiger Zitronenkuchen
@@ -661,7 +656,7 @@ weight: 130
 ===== START FILE: rezepte/apfelkuchen.md =====
 ---
 title: Schneller Apfelkuchen
-weight: 140
+weight: 170
 ---
 
 # Schneller Apfel-Sauerteigkuchen
@@ -696,7 +691,7 @@ weight: 140
 ===== START FILE: rezepte/kartoffel-walnuss.md =====
 ---
 title: Kartoffel-Walnuss-Wunder
-weight: 75
+weight: 70
 ---
 
 # Das Kartoffel-Walnuss-Wunder
@@ -737,7 +732,7 @@ weight: 75
 ===== START FILE: rezepte/hanse-brioche.md =====
 ---
 title: Hanse-Brioche
-weight: 85
+weight: 130
 ---
 
 # Das Hanse-Brioche
@@ -745,8 +740,6 @@ weight: 85
 *Wolkig, buttrig, sündhaft. Der Endgegner für das Sonntagsfrühstück oder als Basis für French Toast.*
 
 **Warnung:** Dies ist kein Diät-Brot. Hier arbeiten Butter und Eier für den Geschmack.
-
-
 
 ## Zutaten
 
@@ -759,12 +752,33 @@ weight: 85
 | **Sauerteig** | *20 %* | **100 g** | **150 g** |
 | **Zucker** | *12 %* | **60 g** | **90 g** |
 | **Salz** | *2 %* | **10 g** | **15 g** |
-| **Butter** (kalt!) | *... Read more
+| **Butter** (kalt!) | *20 %* | **100 g** | **150 g** |
+| **Hefe** (Frisch) | - | 3 g (für den Trieb) | 5 g |
+
+## Der besondere Ablauf (Fett kommt später!)
+
+Brioche-Teige sind "Diven". Das Fett verhindert die Glutenbildung, deshalb muss es **zum Schluss** rein. Es gibt hier keine Fermentolyse.
+
+1.  **Phase: Mischen (Ohne Butter!)**
+    * Mehl, Milch, Sauerteig, Hefe, Zucker und Eier in die Schüssel.
+    * Knete auf Stufe 1 für 2–3 Minuten, bis alles vermischt ist. Lass den Teig 20 Minuten ruhen.
+2.  **Phase: Kneten (Der Struktur-Aufbau)**
+    * Salz dazu. Jetzt auf Stufe 2–3 (mittelschnell) kneten. Der Teig muss sich komplett vom Schüsselrand lösen (ca. 8–10 Minuten).
+3.  **Phase: Die Butter-Injektion**
+    * Schneide die kalte Butter in kleine Würfel. Schalte die Maschine auf Stufe 2 und wirf Stück für Stück die Butter hinein.
+    * Wenn alle Butter drin ist: Weiterkneten, bis der Teig seidig glänzt und "schmatzt".
+4.  **Phase: Stockgare (Kühl)**
+    * Lass den Teig 2 Stunden bei Raumtemperatur anspringen (einmal falten nach 1 Stunde).
+    * **Dann ab in den Kühlschrank!** Lass ihn mindestens 2 Stunden kühlen, damit die Butter fest wird und er sich formen lässt.
+5.  **Phase: Formen & Backen**
+    * Teile den kalten Teig in 4 (Standard) oder 6 (XL) gleich große Stücke, forme Kugeln und setze sie nebeneinander in die gefettete Kastenform.
+    * Ca. 2–3 Stunden warm gehen lassen. Mit Ei bestreichen.
+    * Bei **190 °C (Ober-/Unterhitze)** für ca. 35–40 Minuten backen.
 
 ===== START FILE: rezepte/ciabatta-style.md =====
 ---
 title: Die Luftnummer (Ciabatta-Style)
-weight: 88
+weight: 100
 ---
 
 # Die Luftnummer (Ciabatta-Style)
@@ -826,7 +840,7 @@ Wir geben das Wasser nicht auf einmal rein, sonst kriegst du nur Suppe. Wir nutz
 ===== START FILE: rezepte/zupfbrot.md =====
 ---
 title: Das Zupfbrot (Knoblauch & Kräuter)
-weight: 95
+weight: 110
 ---
 
 # Das Zupfbrot (Pull-Apart Bread)
@@ -901,14 +915,22 @@ title: Teigbearbeitung & Falten
 weight: 5
 ---
 
-# Teigbearbeitung: Warum und Wie?
+# Teigbearbeitung: Kneten & Falten
 
-Im Basis-Ablauf steht "Falten". Aber was heißt das?
+## Kneten ohne Maschine (Der Teigkarten-Trick)
+Klebende Hände sind der Hauptgrund, warum Leute das Brotbacken aufgeben. Vergiss das klassische Kneten auf der bemehlten Arbeitsplatte! Wir machen das "In-Bowl-Kneading".
 
-## Warum Falten?
+1. Lass den Teig einfach in der Rührschüssel.
+2. Nimm eine **flexible Kunststoff-Teigkarte** und mach sie unter dem Wasserhahn nass.
+3. Fahr mit der nassen Karte am inneren Schüsselrand nach unten unter den Teig.
+4. Heb den Teig mit der Karte an, zieh ihn in die Länge und klapp ihn über sich selbst in die Mitte. Drücke ihn mit der Karte fest.
+5. Drehe die Schüssel ein Stück und wiederhole das Ganze.
+6. Du "knetest" den Teig also, indem du ihn mit der Karte immer wieder faltest und zusammenpresst. Das machst du ca. 5 Minuten lang. Der Teig baut super Spannung auf, **ohne dass du ihn auch nur einmal mit den Händen berührt hast!**
+
+## Warum Falten bei der Stockgare?
 Der Teig entspannt sich mit der Zeit. Er läuft in die Breite wie ein nasser Sack. Durch das Falten straffen wir das Glutengerüst wieder. Das Brot bekommt "Stand" und geht nach oben auf statt in die Breite.
 
-## Methoden
+## Methoden für die Stockgare
 
 ### Coil Fold (Die sanfte Methode)
 Ideal für die Kastenbrot-Teige direkt in der Schüssel.
@@ -921,9 +943,6 @@ Ideal für die Kastenbrot-Teige direkt in der Schüssel.
 ### Stretch & Fold (Der Klassiker)
 * Teig am Rand greifen, langziehen und zur Mitte umschlagen.
 * Einmal im Kreis herum arbeiten.
-
-### Laminieren (Für Freaks)
-* Teig auf den nassen Tisch kippen, extrem dünn ausziehen wie einen Strudelteig und wieder zusammenfalten. (Meist unnötig für einfache Kastenbrote).
 
 *Tipp:* Suche auf YouTube nach "Coil Fold Sourdough" für ein Video. Das ist leichter zu sehen als zu lesen.
 
@@ -975,28 +994,62 @@ Zu viel Wasser?
 
 ===== START FILE: wissen/backmethoden.md =====
 ---
-title: Backmethoden
+title: Backmethoden & Dampf
 weight: 30
 ---
 
-# Backmethoden (Topf, Blech oder Stein?)
+# Backmethoden & Dampf
 
 Je nachdem, was dein Küchenschrank hergibt, gibt es verschiedene Wege zum Ziel.
 
-## Das Backblech (Basic)
-Der Teig wird direkt auf das heiße Blech (oder auf Backpapier darauf) geschoben.
-* *Vorteil:* Hat jeder.
-* *Nachteil:* Hält die Hitze nicht so gut, Brot läuft breiter.
+## ⚠️ Das Dampf-Dilemma (Sicherung raus?)
+Brot braucht in den ersten 15 Minuten Dampf ("Schwaden"), damit die Kruste weich bleibt und das Brot aufgehen kann. 
+**ABER:** Wenn du Wasser einfach wild auf den heißen Ofenboden kippst, spritzt es unkontrolliert herum. Zieht dieser Wasserdampf in die ungeschützte Ofenlampe oder an elektrische Kontakte/Lüftungsschlitze, gibt es einen Kurzschluss und die Sicherung (FI-Schalter) fliegt raus! 
 
-## Der Pizzastein (Fortgeschritten)
-Der Stein speichert Hitze und gibt sie schlagartig an den Teigboden ab. Das sorgt für tollen Ofentrieb.
-* *Setup:* Stein im Ofen mind. 30–45 Min vorheizen.
-* *Backen:* 240 °C anbacken, dann runter auf 210 °C.
+**Die sichere Methode (ohne Stromausfall):**
+1. Stell eine alte, unbeschichtete Auflaufform oder ein schmales Backblech ganz unten auf den Ofenboden, wenn du den Ofen vorheizt.
+2. *Profi-Hack:* Fülle diese Schale mit rostfreien Edelstahlschrauben oder Lavasteinen. Die speichern Hitze wie verrückt.
+3. Wenn das Brot in den Ofen kommt, gieße ca. 50–100 ml Wasser **direkt in diese heiße Schale** (Vorsicht, heißer Dampf!) und schließe die Tür sofort. So verdampft das Wasser kontrolliert, ohne an die Elektrik zu spritzen.
 
 ## Der Gusseiserne Topf (Profi-Hack)
-Der Topf simuliert einen professionellen Dampfbackofen. Die Eigenfeuchte des Brotes bleibt im Topf gefangen.
+Wer keine Lust auf Dampf-Schalen hat, backt im Topf. Der Topf simuliert einen professionellen Dampfbackofen. Die Eigenfeuchte des Brotes bleibt im Topf gefangen.
 * *Ablauf:* Topf (mit Deckel) im Ofen leer vorheizen (heiß!). Teig hineinplumpsen lassen.
-* **Backen:** Die ersten 15–20 Minuten **mit Deckel** (ersetzt die Wasserschale im Ofen). Danach Deckel abnehmen für die Kruste.
+* **Backen:** Die ersten 15–20 Minuten **mit Deckel** (das ersetzt das Wasser im Ofen). Danach Deckel abnehmen für die Kruste.
+
+## Das Backblech vs. Pizzastein
+* **Backblech (Basic):** Der Teig wird direkt auf das heiße Blech geschoben. Hat jeder, aber der Teig läuft etwas breiter.
+* **Pizzastein (Fortgeschritten):** Der Stein speichert Hitze und gibt sie schlagartig an den Teigboden ab. Das sorgt für tollen Ofentrieb nach oben. Mindestens 45 Minuten vorheizen!
+
+===== START FILE: wissen/optik-finish.md =====
+---
+title: Optik, Toppings & Schnittmuster
+weight: 35
+---
+
+# Optik, Toppings & Schnittmuster
+
+Das Auge isst mit. Ein Brot schmeckt gleich doppelt so gut, wenn es richtig rustikal aufreißt oder eine schöne Kruste aus Saaten hat. Hier sind die besten Handgriffe für das Finish.
+
+## 1. Toppings (Körner, Flocken & Saaten)
+Das Problem: Du streust Haferflocken auf das Brot, backst es, und beim Anschneiden rieselt alles auf den Küchenboden.
+* **Der Roll-Trick (Für Kastenbrote):** Mach ein sauberes Küchentuch nass und leg es flach hin. Daneben streust du eine dicke Schicht deiner Kerne (Sesam, Mohn, Haferflocken) auf die Arbeitsplatte. Wenn du den Teigling geformt hast, rollst du ihn erst sanft über das nasse Tuch und danach direkt durch die Kerne. Erst dann kommt er in die Kastenform! So kleben sie bombenfest.
+* **Der Sprüh-Trick:** Wenn der Teig schon im Kasten liegt, sprüh ihn großzügig mit einer Blumenspritze (Wasser) ein. Streu die Saaten darauf und drücke sie mit der flachen Hand ganz sanft an.
+
+## 2. Das Einschneiden (Scoring)
+*Warum machen wir das überhaupt?* Der Teig dehnt sich im heißen Ofen schlagartig aus ("Ofentrieb"). Wenn wir ihm keinen Weg vorgeben, reißt er wild an der Seite oder am Boden auf. Mit dem Schnitt sagen wir dem Brot: "Genau hier darfst du wachsen!"
+* **Wichtig:** Kalter Teig (direkt aus dem Kühlschrank) lässt sich tausendmal besser schneiden als warmer, wabbeliger Teig. Schneide tief (ca. 1–1,5 cm) und zügig.
+
+### Muster für Kastenbrote
+* **Der Drachenrücken (Der Scheren-Trick):**
+  Nimm eine saubere Küchenschere, setze sie in der Mitte des Brotes an und schneide im 45-Grad-Winkel tiefe Zacken in den Teig (der Länge nach von oben nach unten). Das gibt eine fantastische, stachelige Kruste. Perfekt für rustikale Dinkel- oder Roggenbrote!
+* **Der Klassiker (Das "Ohr"):**
+  Nimm eine Rasierklinge (Bäckermesser). Halte sie nicht gerade nach unten, sondern leicht schräg (wie ein fliegendes Flugzeug im 45°-Winkel). Ziehe einen einzigen, schnellen und mutigen Schnitt der Länge nach durchs Brot. Durch den Winkel klappt die Kruste beim Backen hoch und bildet das begehrte "Ohr" (Ausbund).
+* **Die Korn-Ähre (Für helle Weizenbrote):**
+  Zieh einen geraden Hauptschnitt in der Mitte. Mach dann links und rechts davon viele kleine, schräge Schnitte (wie Äste an einem Baumstamm). Beim Aufbacken sieht das Brot dann aus wie eine riesige Weizenähre.
+* **Das Rautenmuster / Karo:**
+  Zieh 3–4 diagonale Linien in die eine Richtung und 3–4 Linien in die entgegengesetzte Richtung. Perfekt für sehr flache Brote oder das Topfbrot.
+
+*Tipp für Roggen:* Reine Roggenbrote (wie der Hanseat) haben keinen starken Ofentrieb. Man sticht sie eher mit einem Holzstäbchen (Schaschlikspieß) ein paar Mal ein, damit Blasen entweichen können, oder lässt sie ganz wild von alleine aufreißen ("wilde Gare").
 
 ===== START FILE: wissen/baby-spezial.md =====
 ---

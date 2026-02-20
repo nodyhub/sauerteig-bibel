@@ -14,4 +14,4 @@ weight: 10
 | **Weizen 1050** | ca. 70–75 % | Robust und griffig. |
 | **Dinkel 1050** | ca. 65–70 % | Braucht oft Säure zur Stabilität. |
 | **Roggen 1150** | ca. 75–80 % | Klebt immer. Kein Glutengerüst. |
-| **Vollkorn** | ca. 80–90 % | Braucht lange Autolyse (Quellzeit). |
+| **Vollkorn** | ca. 80–90 % | Braucht lange Fermentolyse (Quellphase). |

@@ -1,6 +1,6 @@
 ---
 title: Die Hybrid-Pizza
-weight: 100
+weight: 120
 ---
 
 # Die Hybrid-Pizza (Sauerteig + Hefe)

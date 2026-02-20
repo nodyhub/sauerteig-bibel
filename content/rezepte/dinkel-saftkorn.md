@@ -33,7 +33,7 @@ Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (
 **Wichtig:** Nutze **eiskaltes** Wasser im Hauptteig. Die Kälte schützt den empfindlichen Dinkel vor dem Überkneten.
 
 ## Der Ablauf
-1.  **Phase: Autolyse (Mischen)**
+1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
     * Gib das **kalte** Kochstück direkt mit dem Wasser, Sauerteig und Mehl in die Schüssel. 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Kurz und langsam (Stufe 1, 4 Min).

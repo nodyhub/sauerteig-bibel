@@ -1,13 +1,13 @@
 ---
 title: Der Reformer
-weight: 70
+weight: 80
 ---
 
 # Der Reformer
 
 *100 % Weizen Vollkorn. Fluffig statt bitter.*
 
-**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher.
+**Der Trick:** Etwas Fett (Butter oder Öl) macht die raue Schale des Vollkorns weicher und sorgt für eine wattige Krume.
 
 ## Zutaten
 
@@ -22,10 +22,10 @@ weight: 70
 | **Honig** | - | 1 EL | 1 EL |
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
-    * Standard (30 Min).
+1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
+    * Mehl, Wasser und Sauerteig mischen. Lass den Teig **45 bis 60 Minuten** quellen. So werden die harten Vollkornschalen weich und zerschneiden dir beim Kneten nicht das Teiggerüst.
 2.  **Phase: Kneten**
-    * Kräftig! **8–10 Minuten** auf Stufe 2.
-    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist.
+    * Salz und Honig dazu. Kräftig! **8–10 Minuten** auf Stufe 2, bis der Teig sich vom Rand löst.
+    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist. Nur noch solange kneten, bis das Fett komplett aufgenommen wurde.
 3.  **Weiter:**
     * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).

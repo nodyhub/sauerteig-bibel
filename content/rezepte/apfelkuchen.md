@@ -1,6 +1,6 @@
 ---
 title: Schneller Apfelkuchen
-weight: 140
+weight: 170
 ---
 
 # Schneller Apfel-Sauerteigkuchen

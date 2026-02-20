@@ -1,6 +1,6 @@
 ---
 title: Sauerteig-Pancakes
-weight: 110
+weight: 140
 ---
 
 # Sauerteig-Pancakes (Fluffig & Dick)

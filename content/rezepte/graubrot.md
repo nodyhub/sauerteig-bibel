@@ -22,7 +22,7 @@ weight: 20
 **Wichtig:** Da hier kein Weizen klebt, brauchen Dinkel und Roggen die Säure vom Essig zur Stabilisierung. Nicht weglassen!
 
 ## Der Ablauf
-1.  **Phase: Autolyse**
+1.  **Phase: Fermentolyse (Quellphase)**
     * Standard: 30 Minuten quellen lassen.
 2.  **Phase: Kneten**
     * Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal **4–5 Minuten**. Sobald der Teig glatt ist: Stopp.
