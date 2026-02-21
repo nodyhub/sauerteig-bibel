@@ -21,6 +21,12 @@ weight: 5
 | **Honig** (für die Kruste) | - | 1 TL | 1,5 TL |
 | **Topping** (Haferflocken o. Sesam)| - | 1 Handvoll | 1 Handvoll |
 
+> **❄️ Winter-Hack (Für kühle Küchen um 20 °C oder kälter):**
+> Sauerteig mag es muckelig. Ist deine Küche nachts eher ein Kühlschrank? 
+> 1. Nimm abends zum Anmischen **handwarmes Wasser** (ca. 30–35 °C). Das gibt dem Teig eine eingebaute Heizung für den Start.
+> 2. Alternativ: Nimm einfach **80 g statt 50 g Sauerteig**. Mehr Arbeiter = schnellere Arbeit bei Kälte.
+> 3. Wenn der Teig morgens nach 12 Stunden noch nicht von kleinen Bläschen durchzogen ist und nicht gewachsen ist: Gib ihm einfach noch 2–4 Stunden extra. **Der Teig bestimmt die Uhrzeit, nicht dein Wecker!**
+
 ## Der "Idiotensichere" Ablauf
 
 1.  **Phase: Mischen (Abends, z. B. 20:00 Uhr)**
