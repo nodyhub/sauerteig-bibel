@@ -9,6 +9,7 @@ ORDER = [
     "sauerteig/_index.md",
     "basis-ablauf.md",
     "rezepte/_index.md",
+    "rezepte/anfaenger.md",
     "rezepte/landbrot.md",
     "rezepte/graubrot.md",
     "rezepte/vollkorn.md",
