@@ -109,59 +109,85 @@ Früher gab es keine Kühlschränke. Wie haben Oma und Opa den Sauerteig konserv
 Ganz pragmatisch: Der krümelige Rest vom Backtrog wurde in einen sauberen Leinenstrumpf gesteckt und auf dem Dachboden aufgehängt. Dort trocknete er durch. Beim nächsten Backtag wurde der "Strumpf-Inhalt" einfach mit warmem Wasser zerbröselt und mit Mehl gefüttert. Zack – lebendig.
 (Wir nehmen heute aber lieber das saubere Schraubglas im Kühlschrank.)
 
-===== START FILE: basis-ablauf.md =====
+===== START FILE: technik/_index.md =====
 ---
-title: Der Basis-Ablauf
+title: Die Techniken & Abläufe
 weight: 20
 ---
 
-# Der Basis-Ablauf
+# Die Techniken & Abläufe
 
-Wir erfinden das Rad nicht jeden Tag neu. Das ist der Rhythmus für fast alle **Kastenbrote** hier.
+Das wichtigste Geheimnis beim Sauerteig: **Zutaten und Ablauf sind zwei verschiedene Dinge.** Du hast ein Rezept aus der Bibliothek ausgesucht? Super. Jetzt entscheidest du, *wie* du es backen willst, je nachdem, wie viel Zeit du hast. Hier sind die zwei Standard-Wege, die für fast jedes Kastenbrot in diesem Buch funktionieren:
 
-> **TL;DR (Zusammenfassung):**
-> Wir starten mit dem Mischen von Mehl und Wasser (Fermentolyse (Quellphase)), damit das Mehl quellen kann. Dann kommt Salz dazu und wir kneten den Hauptteig. Über 3–4 Stunden geben wir dem Teig durch Falten Struktur (Stockgare). Geformt wandert er im Kasten über Nacht in den Kühlschrank (Gare) und wird morgens direkt kalt und heiß gebacken.
+1. **[Der Standard-Ablauf (Kühlschrank)](standard/)**: Für die beste Kruste, den tiefsten Geschmack und eine einfache Teigverarbeitung am Backtag. (Erfordert Kneten/Falten).
+2. **[Die Faule Nacht (Anfänger)](lazy/)**: Für den absoluten Minimal-Aufwand. Kein Kneten, keine klebrigen Hände. Die Zeit macht die Arbeit.
 
+===== START FILE: technik/standard.md =====
+---
+title: Der Standard-Ablauf (Kühlschrank)
+weight: 21
 ---
 
-## Vorbereitung (Optional)
-Manche Rezepte (wie das Saftkorn) benötigen ein **Kochstück** oder **Brühstück**.
-* Das wird *vor* allem anderen gemacht und muss **abkühlen**, bevor es zum Teig kommt.
-* *Details stehen dann im jeweiligen Rezept.*
+# Der Standard-Ablauf (Kühlschrank)
 
-## Die Fermentolyse (Quellphase) (Mischen)
+*Für fast alle normalen Rezepte mit **20 % Sauerteig**. Der Teig übernachtet im Kühlschrank.*
+
+## 1. Die Fermentolyse (Quellphase)
 Wir mischen fast alles – **außer das Salz!** Salz entzieht Wasser und hemmt die Entwicklung.
-
-* **Tun:** Wasser, Sauerteig, Honig/Apfelmark und alle Mehle (und ggf. das kalte Kochstück) in die Schüssel.
+* **Tun:** Wasser, Sauerteig und alle Mehle (und ggf. das kalte Kochstück) in die Schüssel.
 * **Mischen:** Nur kurz, bis kein trockenes Mehl mehr zu sehen ist.
 * **Warten:** 20 bis 30 Minuten (bei Vollkorn 45–60 Minuten).
 
-## Der Hauptteig (Kneten)
+## 2. Der Hauptteig (Kneten)
 Jetzt kommt das Salz (und ggf. Essig) dazu.
-* **Mit der Maschine:** Weizen mag Power (Stufe 2, ca. 6–8 Min). Dinkel/Roggen sanft (Stufe 1, max. 4–5 Min).
-* **Von Hand (Der Teigkarten-Trick):** Vergiss bemehlte Arbeitsplatten und klebrige Finger! Lass den Teig in der Schüssel, nimm eine nasse Teigkarte und falte/drücke den Teig damit immer wieder von außen nach innen, bis er glatt ist. *(Details siehe [Teigbearbeitung](../wissen/teigbearbeitung))*
+* **Von Hand (Der Teigkarten-Trick):** Lass den Teig in der Schüssel, nimm eine nasse Teigkarte und falte/drücke den Teig damit ca. 5 Minuten von außen nach innen, bis er glatt ist.
+* **Mit der Maschine:** Weizen mag Power (Stufe 2, 6–8 Min). Dinkel/Roggen sanft (Stufe 1, max. 4–5 Min).
 
-## Stockgare & Falten
-Der Teig ruht ca. **3 bis 4 Stunden** warm (22–24 °C).
+## 3. Stockgare & Falten
+Der Teig ruht ca. **3 bis 4 Stunden** warm (22–24 °C) in der Schüssel.
+* **Falten:** Nach 45 Min und 90 Min dehnst du den Teig einmal, damit er Spannung aufbaut ("Coil Fold").
 
-* **Falten:** Nach **45 Min** und **90 Min** geben wir Struktur.
-* *Wie das geht?* Siehe [Kapitel Teigbearbeitung](../wissen/teigbearbeitung).
+## 4. Formgebung & Kühlschrank (Gare)
+* Kastenform fetten (Butter!). Den Teig hineingeben und mit einem nassen Löffel glattstreichen.
+* Im Kasten noch 30 Minuten "anspringen" lassen.
+* Abgedeckt in den **Kühlschrank** für 8 bis 16 Stunden.
 
-## Formgebung
-1.  Kastenform fetten (Butter!).
-2.  Teig hineingeben.
-3.  Mit nassem Löffel glattstreichen.
+## 5. Das Backen
+* **Vorheizen:** 250 °C (Dampf-Schale auf den Ofenboden).
+* **Schnitt:** Kalten Teig aus dem Kühlschrank der Länge nach einschneiden.
+* **Anbacken:** Kasten in den Ofen, ca. 50 ml Wasser in die heiße Schale gießen, Tür zu. 15 Minuten bei 250 °C backen.
+* **Durchbacken:** Tür kurz weit öffnen (Dampf ablassen), Temperatur auf 200–210 °C. Ca. 40–45 Minuten backen.
+* **Krusten-Finale:** Brot ohne Kasten auf dem Rost 10–15 Minuten fertig backen.
 
-## Die Gare (Übernacht)
-1.  Teig im Kasten 30 Minuten anspringen lassen.
-2.  Abgedeckt in den **Kühlschrank** für 8 bis 16 Stunden.
+===== START FILE: technik/lazy.md =====
+---
+title: Die Faule Nacht (Ohne Kneten)
+weight: 22
+---
 
-## Das Backen
-1.  **Vorheizen:** 250 °C. *Wichtig: Stell eine leere Schale für den Dampf mit auf den Ofenboden (siehe [Backmethoden](../wissen/backmethoden)).*
-2.  **Schnitt & Optik:** Kalten Teig einschneiden (z. B. den klassischen Längsschnitt oder Muster, siehe [Optik & Toppings](../wissen/optik-finish)).
-3.  **Anbacken (mit Dampf):** Kasten in den Ofen, Wasser in die heiße Schale gießen, Tür sofort zu. 15 Minuten bei 250 °C backen.
-4.  **Durchbacken:** Tür kurz weit öffnen (Dampf ablassen!), Temperatur runter auf 200–210 °C. Ca. 40–45 Minuten backen.
-5.  **Krusten-Finale:** Brot ohne Kasten auf dem Rost 10–15 Minuten fertig backen (Kochlöffel in die Tür klemmen).
+# Die Faule Nacht (Ohne Kneten)
+
+*Der "No-Knead" Ansatz. **WICHTIG:** Funktioniert nur, wenn das Rezept auf **10 % Sauerteig** (oder weniger) reduziert ist, sonst übersäuert der Teig!*
+
+## 1. Mischen (Abends)
+* Gib Wasser, Sauerteig (max. 10 %!) und Salz in eine Schüssel und rühre um.
+* Mehl dazu. Nimm einen sehr stabilen Löffel und rühre kräftig, bis kein trockenes Mehl mehr zu sehen ist. Es entsteht ein klebriger Klumpen.
+* Deckel drauf. Keine Fermentolyse, kein Kneten.
+
+## 2. Die Nachtschicht (Stockgare)
+* Lass die Schüssel für **10 bis 12 Stunden** bei Raumtemperatur stehen. 
+* *Winter-Hack:* Ist die Küche kälter als 22 °C, nimm abends warmes Wasser (30 °C).
+
+## 3. Ab in den Kasten (Morgens)
+* Fette eine Kastenform sehr gut mit Butter.
+* Kratz den wabbeligen, blubbernden Teig mit einem **nassen Löffel** direkt in die Form. (Nicht auf den Tisch, nicht mit den Händen anfassen!).
+* Mit dem nassen Löffelrücken glattstreichen.
+
+## 4. Warten & Backen
+* (Optional) Haferflocken oder Saaten drüberstreuen und sanft andrücken.
+* Den Kasten noch **1 Stunde** ruhen lassen. In der Zeit den Ofen auf **230 °C** vorheizen (Dampf-Schale auf den Boden!).
+* Kasten rein, Wasser in die Schale, Tür zu. **15 Minuten** mit Dampf backen.
+* Dampf ablassen, auf **200 °C** runterdrehen und weitere **40–45 Minuten** backen.
 
 ===== START FILE: rezepte/_index.md =====
 ---
