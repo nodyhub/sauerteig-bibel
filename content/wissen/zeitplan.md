@@ -1,6 +1,6 @@
 ---
 title: Der Zeitplan-Spickzettel
-weight: 80
+weight: 60
 ---
 
 # Der Zeitplan-Spickzettel (Alltags-Hacks)

@@ -2,14 +2,17 @@ import os
 import re
 import markdown
 
-# 1. Die logische Reihenfolge (inklusive Zeitplan, Erste Hilfe & Empfehlungen)
+# Die logische Reihenfolge exakt nach der Struktur deiner Markdown-Dateien
 ORDER = [
     "_index.md",
     "wissen/philosophie.md",
     "sauerteig/_index.md",
-    "basis-ablauf.md",
+    "technik/_index.md",
+    "technik/standard.md",
+    "technik/lazy.md",
     "rezepte/_index.md",
     "rezepte/anfaenger.md",
+    "rezepte/anfaenger-mix.md",
     "rezepte/landbrot.md",
     "rezepte/graubrot.md",
     "rezepte/vollkorn.md",
@@ -18,6 +21,7 @@ ORDER = [
     "rezepte/dinkel-saftkorn.md",
     "rezepte/kartoffel-walnuss.md",
     "rezepte/reformer.md",
+    "rezepte/no-knead.md",
     "rezepte/ciabatta-style.md",
     "rezepte/zupfbrot.md",
     "rezepte/pizza-hybrid.md",

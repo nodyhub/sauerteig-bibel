@@ -972,7 +972,7 @@ Hier findest du das theoretische Fundament, Werkzeug-Tipps und das Baby-Spezial.
 ===== START FILE: wissen/teigbearbeitung.md =====
 ---
 title: Teigbearbeitung & Falten
-weight: 5
+weight: 10
 ---
 
 # Teigbearbeitung: Kneten & Falten
@@ -1009,7 +1009,7 @@ Ideal für die Kastenbrot-Teige direkt in der Schüssel.
 ===== START FILE: wissen/grundlagen.md =====
 ---
 title: Grundlagen & Mehlkunde
-weight: 10
+weight: 20
 ---
 
 # Grundlagen & Mehlkunde
@@ -1032,7 +1032,7 @@ Nicht jedes Mehl trinkt gleich viel. Diese Tabelle bewahrt dich davor, aus Verse
 ===== START FILE: wissen/werkzeuge.md =====
 ---
 title: Werkzeuge & Tricks
-weight: 20
+weight: 30
 ---
 
 # Werkzeuge & Tricks
@@ -1059,7 +1059,7 @@ Zu viel Wasser?
 ===== START FILE: wissen/backmethoden.md =====
 ---
 title: Backmethoden & Dampf
-weight: 30
+weight: 40
 ---
 
 # Backmethoden & Dampf
@@ -1087,7 +1087,7 @@ Wer keine Lust auf Dampf-Schalen hat, backt im Topf. Der Topf simuliert einen pr
 ===== START FILE: wissen/optik-finish.md =====
 ---
 title: Optik, Toppings & Schnittmuster
-weight: 35
+weight: 50
 ---
 
 # Optik, Toppings & Schnittmuster
@@ -1118,7 +1118,7 @@ Das Problem: Du streust Haferflocken auf das Brot, backst es, und beim Anschneid
 ===== START FILE: wissen/baby-spezial.md =====
 ---
 title: Baby-Spezial
-weight: 40
+weight: 80
 ---
 
 # Baby-Spezial (Salzarm Backen)
@@ -1145,7 +1145,7 @@ Sauerteigkruste kann sehr hart sein. Für Backanfänger (Babys):
 ===== START FILE: wissen/empfehlungen.md =====
 ---
 title: Empfehlungen & Inspiration
-weight: 60
+weight: 90
 ---
 
 # Empfehlungen & Inspiration
@@ -1207,12 +1207,13 @@ weight: 70
 
 ## Die goldene Regel bei Fehlversuchen
 Wirf ein misslungenes Brot niemals sofort weg! 
-* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** * Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
+* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** 
+* Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
 
 ===== START FILE: wissen/zeitplan.md =====
 ---
 title: Der Zeitplan-Spickzettel
-weight: 80
+weight: 60
 ---
 
 # Der Zeitplan-Spickzettel (Alltags-Hacks)

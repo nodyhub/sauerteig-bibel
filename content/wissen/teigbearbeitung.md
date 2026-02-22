@@ -1,6 +1,6 @@
 ---
 title: Teigbearbeitung & Falten
-weight: 5
+weight: 10
 ---
 
 # Teigbearbeitung: Kneten & Falten

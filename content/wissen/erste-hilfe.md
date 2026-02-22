@@ -20,4 +20,5 @@ weight: 70
 
 ## Die goldene Regel bei Fehlversuchen
 Wirf ein misslungenes Brot niemals sofort weg! 
-* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** * Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
+* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** 
+* Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!

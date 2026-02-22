@@ -1,6 +1,6 @@
 ---
 title: Baby-Spezial
-weight: 40
+weight: 80
 ---
 
 # Baby-Spezial (Salzarm Backen)

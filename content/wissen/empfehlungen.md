@@ -1,6 +1,6 @@
 ---
 title: Empfehlungen & Inspiration
-weight: 60
+weight: 90
 ---
 
 # Empfehlungen & Inspiration

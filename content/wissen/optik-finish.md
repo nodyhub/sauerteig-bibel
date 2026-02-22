@@ -1,6 +1,6 @@
 ---
 title: Optik, Toppings & Schnittmuster
-weight: 35
+weight: 50
 ---
 
 # Optik, Toppings & Schnittmuster

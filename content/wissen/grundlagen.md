@@ -1,6 +1,6 @@
 ---
 title: Grundlagen & Mehlkunde
-weight: 10
+weight: 20
 ---
 
 # Grundlagen & Mehlkunde
