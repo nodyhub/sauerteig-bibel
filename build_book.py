@@ -2,7 +2,7 @@ import os
 import re
 import markdown
 
-# 1. Die logische Reihenfolge (ohne das alte No-Knead)
+# 1. Die logische Reihenfolge (inklusive Zeitplan, Erste Hilfe & Empfehlungen)
 ORDER = [
     "_index.md",
     "wissen/philosophie.md",
@@ -33,7 +33,10 @@ ORDER = [
     "wissen/werkzeuge.md",
     "wissen/backmethoden.md",
     "wissen/optik-finish.md",
+    "wissen/zeitplan.md",
+    "wissen/erste-hilfe.md",
     "wissen/baby-spezial.md",
+    "wissen/empfehlungen.md",
     "impressum.md"
 ]
 
