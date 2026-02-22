@@ -21,14 +21,12 @@ weight: 40
 | **Essig** | - | **1,5 EL (Pflicht!)** | **2 EL (Pflicht!)** |
 | **Tipp** | - | Sonnenblumenkerne | Sonnenblumenkerne |
 
-> **Profi-Tipp zur Feuchtigkeit:** Roggen schwankt extrem in der Wasseraufnahme. Wenn dein Brot nach dem Backen innen zu feucht/klitschig ist, reduziere das Wasser beim nächsten Mal auf 75 % (375 ml für Standard / 560 ml für XL).
+> **Profi-Tipp zur Feuchtigkeit:** Roggen schwankt extrem in der Wasseraufnahme. Wenn dein Brot nach dem Backen innen zu feucht/klitschig ist, reduziere das Wasser beim nächsten Mal auf 75 %.
 
-## Der Ablauf
-1.  **Phase: Mischen (Nicht kneten!)**
-    * Roggen hat kein Klebergerüst, das man aufbauen muss. Alle Zutaten in die Schüssel geben und auf Stufe 1 (oder mit einem kräftigen Löffel) gut durchmischen, bis eine klebrige, mörtelartige Masse entsteht. Es gibt hier keine Fermentolyse (Quellphase).
-2.  **Phase: Formen (Ab in den Kasten)**
-    * Den Teig direkt in die gut gefettete Kastenform geben.
-    * Mit **nassen Händen** (oder einem nassen Löffel) die Oberfläche glattstreichen.
-3.  **Phase: Gare & Backen**
-    * Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden und er deutlich an Volumen gewonnen hat (ca. 2–3 Stunden, je nach Temperatur).
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) für das Backen. Denk daran: Roggenbrot muss mindestens 24 Stunden ruhen, bevor du es anschneidest!
+## Der Ablauf (Sonderweg!)
+*Roggen hat kein Klebergerüst. Techniken wie "Standard" (Falten) oder "Lazy" (langes Warten auf das Glutengerüst) greifen hier nicht.*
+
+1.  **Mischen (Nicht kneten!):** Alle Zutaten in die Schüssel geben und mit einem Löffel durchmischen, bis eine klebrige, mörtelartige Masse entsteht. 
+2.  **Formen:** Den Teig direkt in die gut gefettete Kastenform geben und mit nassen Händen glattstreichen.
+3.  **Gare:** Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden (ca. 2–3 Stunden).
+4.  **Backen:** Folge dem Back-Abschnitt aus dem **[Standard-Ablauf](../../technik/standard/)**. Denk daran: Roggenbrot muss mind. 24 Stunden ruhen, bevor du es anschneidest!

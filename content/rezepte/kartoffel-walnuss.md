@@ -29,11 +29,9 @@ weight: 70
 **Achtung beim Wasser:** Kartoffeln bringen Feuchtigkeit mit. Fang mit etwas weniger Wasser an und schütte nur nach, wenn der Teig zu fest ist.
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
-    * Mehl, Wasser, Sauerteig und die **kalten Stampfkartoffeln** mischen. 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Salz und die Prise Muskat dazu. Knete den Teig gut aus (Stufe 2, ca. 8 Min), bis er sich vom Schüsselrand löst.
-    * **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen (oder von Hand unterheben).
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
-    * *Tipp:* Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach. Wenn er sich verdoppelt hat, ab in den Kasten!
+
+Folge für dieses Spezialbrot dem **[Standard-Ablauf](../../technik/standard/)**. *(Die Faule Nacht funktioniert hier nicht gut, da die Kartoffeln und die optionale Hefe den Teig zu schnell gären lassen).*
+
+* **Besonderheiten beim Kneten:** Gib die Prise Muskat direkt zum Salz. Knete den Teig gut aus (Stufe 2, ca. 8 Min).
+* **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen.
+* **Wichtig:** Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach!

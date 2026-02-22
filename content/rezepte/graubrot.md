@@ -22,9 +22,10 @@ weight: 20
 **Wichtig:** Da hier kein Weizen klebt, brauchen Dinkel und Roggen die Säure vom Essig zur Stabilisierung. Nicht weglassen!
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase)**
-    * Standard: 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal **4–5 Minuten**. Sobald der Teig glatt ist: Stopp.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheit beim Kneten:* Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal 4–5 Minuten. 
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.

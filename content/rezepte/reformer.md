@@ -22,10 +22,10 @@ weight: 80
 | **Honig** | - | 1 EL | 1 EL |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
-    * Mehl, Wasser und Sauerteig mischen. Lass den Teig **45 bis 60 Minuten** quellen. So werden die harten Vollkornschalen weich und zerschneiden dir beim Kneten nicht das Teiggerüst.
-2.  **Phase: Kneten**
-    * Salz und Honig dazu. Kräftig! **8–10 Minuten** auf Stufe 2, bis der Teig sich vom Rand löst.
-    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist. Nur noch solange kneten, bis das Fett komplett aufgenommen wurde.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept. *Besonderheiten:* Lass Mehl und Wasser mind. 45–60 Minuten quellen. Das Fett (Butter) erst **ganz am Ende** des Knetvorgangs unterkneten.
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    **Reduziere den Sauerteig auf 10 %** (50 g / 75 g). Nimm weiche/geschmolzene Butter, rühre alles abends einfach mit dem Löffel zusammen und lass den Teig über Nacht stehen.

@@ -7,8 +7,6 @@ weight: 5
 
 *Der einfachste Weg zu echtem Sauerteigbrot. Kein Kneten, keine klebrigen Hände, kein Stress. Nur ein Löffel, eine Schüssel und Zeit. Perfekt für den allerersten Versuch!*
 
-**Das Prinzip:** Wir ersetzen Muskelkraft durch Zeit. Weil wir extra wenig Sauerteig nehmen, kann der Teig ganz entspannt über Nacht stehen, ohne zu übersäuern.
-
 ## Zutaten
 
 | Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
@@ -19,36 +17,13 @@ weight: 5
 | **Sauerteig** | *10 %* | **50 g** | **75 g** |
 | **Salz** | *2 %* | **10 g** | **15 g** |
 | **Honig** (für die Kruste) | - | 1 TL | 1,5 TL |
-| **Topping** (Haferflocken o. Sesam)| - | 1 Handvoll | 1 Handvoll |
+| **Topping** (Haferflocken)| - | 1 Handvoll | 1 Handvoll |
 
-> **❄️ Winter-Hack (Für kühle Küchen um 20 °C oder kälter):**
-> Sauerteig mag es muckelig. Ist deine Küche nachts eher ein Kühlschrank? 
-> 1. Nimm abends zum Anmischen **handwarmes Wasser** (ca. 30–35 °C). Das gibt dem Teig eine eingebaute Heizung für den Start.
-> 2. Alternativ: Nimm einfach **80 g statt 50 g Sauerteig**. Mehr Arbeiter = schnellere Arbeit bei Kälte.
-> 3. Wenn der Teig morgens nach 12 Stunden noch nicht von kleinen Bläschen durchzogen ist und nicht gewachsen ist: Gib ihm einfach noch 2–4 Stunden extra. **Der Teig bestimmt die Uhrzeit, nicht dein Wecker!**
+## Der Ablauf
 
-## Der "Idiotensichere" Ablauf
+Du hast zwei Möglichkeiten:
 
-1.  **Phase: Mischen (Abends, z. B. 20:00 Uhr)**
-    * Gib Wasser, Sauerteig, Honig und Salz in eine große Schüssel und rühre kurz um.
-    * Kipp das Mehl dazu. Nimm einen sehr stabilen Esslöffel (oder Kochlöffel) und rühre alles kräftig durch, bis kein trockenes Mehl mehr zu sehen ist. Es entsteht ein klebriger, unordentlicher Klumpen. Das ist genau richtig!
-    * Deckel auf die Schüssel (oder Teller drauflegen). Das war deine ganze Arbeit für heute.
-
-2.  **Phase: Die Nachtschicht (Gare)**
-    * Lass die Schüssel einfach bei Raumtemperatur in der Küche stehen und geh schlafen. 
-    * Über die nächsten **10 bis 12 Stunden** baut sich das Glutengerüst von ganz alleine auf und der Teig wirft Blasen.
-
-3.  **Phase: Ab in den Kasten (Morgens)**
-    * Fette eine Kastenform sehr gut mit Butter ein.
-    * Mach deinen Löffel unter dem Wasserhahn nass. Kratz den Teig (der jetzt viel größer und wabbelig ist) direkt aus der Schüssel in die Kastenform. **Tipp: Nicht auf den Tisch kippen, nicht mit den Händen anfassen!**
-    * Mach den Löffel nochmal nass und streiche die Teig-Oberfläche im Kasten grob glatt.
-
-4.  **Phase: Das Optik-Topping & Warten**
-    * Streue großzügig Haferflocken oder Sesam über den Teig und drücke sie mit der flachen (nassen) Hand ganz sanft an. Das sieht toll aus, verdeckt alle Unebenheiten und wir sparen uns das Einschneiden!
-    * Lass die Kastenform noch **1 Stunde** auf der Arbeitsplatte ruhen. Heize in der Zwischenzeit den Ofen auf **230 °C (Ober-/Unterhitze)** vor und stell eine leere Schale für den Dampf auf den Ofenboden.
-
-5.  **Phase: Backen**
-    * Kasten in den Ofen schieben, etwas Wasser (ca. 50 ml) in die heiße Dampf-Schale gießen und die Tür sofort schließen.
-    * **15 Minuten** mit Dampf backen. 
-    * Dann die Ofentür kurz weit öffnen (Dampf ablassen), Temperatur auf **200 °C** runterdrehen und weitere **40–45 Minuten** backen. 
-    * Aus dem Kasten stürzen und auf einem Rost komplett abkühlen lassen (es muss hohl klingen, wenn man unten draufklopft).
+* **Option A: [Die Faule Nacht (No-Knead)](../../technik/lazy/) (Empfohlen für Anfänger!)**
+    Genau nach diesem Rezept mit 10 % Sauerteig. Einfach abends zusammenrühren, nachts stehen lassen, morgens backen.
+* **Option B: [Der Standard-Ablauf](../../technik/standard/) (Kühlschrank)**
+    Möchtest du den Teig richtig kneten und falten? Dann erhöhe den Sauerteig auf **20 %** (100 g für Standard / 150 g für XL) und folge der klassischen Methode.

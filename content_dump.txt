@@ -22,9 +22,9 @@ Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen saube
 ## Der Fahrplan
 
 * **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
-* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Mischen, Falten, Backen).
+* **[Die Techniken](technik/)** – Der Standard-Weg oder die Faule Nacht (No-Knead).
 * **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten) und süße Snacks für die Resteverwertung.
-* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-S
+* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
 
 ===== START FILE: wissen/philosophie.md =====
 ---
@@ -37,19 +37,6 @@ weight: 10
 Brotbacken ist Handwerk, aber vor allem ist es Gefühl. Das wichtigste Gesetz lautet: **Mehl ist ein Naturprodukt.** Es verhält sich jeden Tag ein bisschen anders, je nach Luftfeuchtigkeit in Hamburg oder der Temperatur in deiner Küche.
 
 Bevor du blind Wasser in die Schüssel kippst, schau dir an, wen du vor dir hast.
-
-## Die Mehl-Charaktere
-
-Nicht jedes Mehl trinkt gleich viel. Diese Tabelle bewahrt dich davor, aus Versehen Suppe zu produzieren.
-
-| Der Kandidat | Wasserbedarf (Hydratation) | Charakter & Umgang |
-| :--- | :--- | :--- |
-| **Weizen 550** | **ca. 60–65 %** | **Der Motor.** Bringt Fluffigkeit. Er ist gutmütig, schluckt Wasser schnell und lässt sich wunderbar auskneten. |
-| **Dinkel 630** | **ca. 60–63 %** | **Die Diva.** Wird bei zu viel Wasser schlagartig flüssig. Behandle ihn sanft, knete ihn kurz. Lieber 10 ml Wasser zurückhalten! |
-| **Weizen 1050** | **ca. 70–75 %** | **Der Gutmütige.** Bringt mehr Geschmack als das 550er und verzeiht Fehler eher als Dinkel. |
-| **Dinkel 1050** | **ca. 65–70 %** | **Der Stabilisator.** Dunkler und griffiger. Braucht oft etwas Säure (Essig/Sauerteig), um die Form zu halten. |
-| **Roggen 1150** | **ca. 75–80 %** | **Der Lehm.** Roggen bildet kein Klebergerüst (Gluten). Er ist immer klebrig. Hier gibt es keinen "Fenstertest", nur eine pampige Masse. |
-| **Vollkorn** | **ca. 80–90 %+** | **Der Durstige.** Die Schalenteile saugen Wasser wie ein Schwamm – aber langsam! Deshalb ist die *Fermentolyse (Quellphase)* hier Pflicht. |
 
 ## Warum machen wir das alles?
 
@@ -203,7 +190,7 @@ Hier sind deine Bausteine für den Alltag.
 * **XL:** Berechnet für die große 1,5-fache Form (ca. 1,5 kg Teig).
 * **%:** Die Bäckerprozente (Mehl ist immer 100 %).
 
-> **Hinweis:** Alle Rezepte folgen dem [Basis-Ablauf](../basis-ablauf/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
+> **Hinweis:** Alle normalen Kastenbrote folgen den [Techniken](../technik/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
 >
 > **Baby-Check:** Backst du für Kleinkinder? Dann schau dir vor dem Wiegen das [Baby-Spezial](../wissen/baby-spezial/) an (Salz & Honig anpassen).
 
@@ -217,8 +204,6 @@ weight: 5
 
 *Der einfachste Weg zu echtem Sauerteigbrot. Kein Kneten, keine klebrigen Hände, kein Stress. Nur ein Löffel, eine Schüssel und Zeit. Perfekt für den allerersten Versuch!*
 
-**Das Prinzip:** Wir ersetzen Muskelkraft durch Zeit. Weil wir extra wenig Sauerteig nehmen, kann der Teig ganz entspannt über Nacht stehen, ohne zu übersäuern.
-
 ## Zutaten
 
 | Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
@@ -229,39 +214,47 @@ weight: 5
 | **Sauerteig** | *10 %* | **50 g** | **75 g** |
 | **Salz** | *2 %* | **10 g** | **15 g** |
 | **Honig** (für die Kruste) | - | 1 TL | 1,5 TL |
-| **Topping** (Haferflocken o. Sesam)| - | 1 Handvoll | 1 Handvoll |
+| **Topping** (Haferflocken)| - | 1 Handvoll | 1 Handvoll |
 
-> **❄️ Winter-Hack (Für kühle Küchen um 20 °C oder kälter):**
-> Sauerteig mag es muckelig. Ist deine Küche nachts eher ein Kühlschrank? 
-> 1. Nimm abends zum Anmischen **handwarmes Wasser** (ca. 30–35 °C). Das gibt dem Teig eine eingebaute Heizung für den Start.
-> 2. Alternativ: Nimm einfach **80 g statt 50 g Sauerteig**. Mehr Arbeiter = schnellere Arbeit bei Kälte.
-> 3. Wenn der Teig morgens nach 12 Stunden noch nicht von kleinen Bläschen durchzogen ist und nicht gewachsen ist: Gib ihm einfach noch 2–4 Stunden extra. **Der Teig bestimmt die Uhrzeit, nicht dein Wecker!**
+## Der Ablauf
 
-## Der "Idiotensichere" Ablauf
+Du hast zwei Möglichkeiten:
 
-1.  **Phase: Mischen (Abends, z. B. 20:00 Uhr)**
-    * Gib Wasser, Sauerteig, Honig und Salz in eine große Schüssel und rühre kurz um.
-    * Kipp das Mehl dazu. Nimm einen sehr stabilen Esslöffel (oder Kochlöffel) und rühre alles kräftig durch, bis kein trockenes Mehl mehr zu sehen ist. Es entsteht ein klebriger, unordentlicher Klumpen. Das ist genau richtig!
-    * Deckel auf die Schüssel (oder Teller drauflegen). Das war deine ganze Arbeit für heute.
+* **Option A: [Die Faule Nacht (No-Knead)](../../technik/lazy/) (Empfohlen für Anfänger!)**
+    Genau nach diesem Rezept mit 10 % Sauerteig. Einfach abends zusammenrühren, nachts stehen lassen, morgens backen.
+* **Option B: [Der Standard-Ablauf](../../technik/standard/) (Kühlschrank)**
+    Möchtest du den Teig richtig kneten und falten? Dann erhöhe den Sauerteig auf **20 %** (100 g für Standard / 150 g für XL) und folge der klassischen Methode.
 
-2.  **Phase: Die Nachtschicht (Gare)**
-    * Lass die Schüssel einfach bei Raumtemperatur in der Küche stehen und geh schlafen. 
-    * Über die nächsten **10 bis 12 Stunden** baut sich das Glutengerüst von ganz alleine auf und der Teig wirft Blasen.
+===== START FILE: rezepte/anfaenger-mix.md =====
+---
+title: Das Halb & Halb Anfängerbrot
+weight: 6
+---
 
-3.  **Phase: Ab in den Kasten (Morgens)**
-    * Fette eine Kastenform sehr gut mit Butter ein.
-    * Mach deinen Löffel unter dem Wasserhahn nass. Kratz den Teig (der jetzt viel größer und wabbelig ist) direkt aus der Schüssel in die Kastenform. **Tipp: Nicht auf den Tisch kippen, nicht mit den Händen anfassen!**
-    * Mach den Löffel nochmal nass und streiche die Teig-Oberfläche im Kasten grob glatt.
+# Das Halb & Halb Anfängerbrot (Die Goldene Mitte)
 
-4.  **Phase: Das Optik-Topping & Warten**
-    * Streue großzügig Haferflocken oder Sesam über den Teig und drücke sie mit der flachen (nassen) Hand ganz sanft an. Das sieht toll aus, verdeckt alle Unebenheiten und wir sparen uns das Einschneiden!
-    * Lass die Kastenform noch **1 Stunde** auf der Arbeitsplatte ruhen. Heize in der Zwischenzeit den Ofen auf **230 °C (Ober-/Unterhitze)** vor und stell eine leere Schale für den Dampf auf den Ofenboden.
+*Der perfekte Kompromiss: Fluffig wie ein Toast, aber mit dem rustikalen Geschmack eines Landbrots.*
 
-5.  **Phase: Backen**
-    * Kasten in den Ofen schieben, etwas Wasser (ca. 50 ml) in die heiße Dampf-Schale gießen und die Tür sofort schließen.
-    * **15 Minuten** mit Dampf backen. 
-    * Dann die Ofentür kurz weit öffnen (Dampf ablassen), Temperatur auf **200 °C** runterdrehen und weitere **40–45 Minuten** backen. 
-    * Aus dem Kasten stürzen und auf einem Rost komplett abkühlen lassen (es muss hohl klingen, wenn man unten draufklopft).
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 405 (oder Tipo 00)* | *50 %* | *250 g* | *375 g* |
+| *...Weizen 1050* | *50 %* | *250 g* | *375 g* |
+| **Wasser** | *68 %* | **340 ml** | **510 ml** |
+| **Sauerteig** | *10 %* | **50 g** | **75 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+| **Honig** (für die Kruste) | - | 1 TL | 1,5 TL |
+
+## Der Ablauf
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Die Faule Nacht (No-Knead)](../../technik/lazy/) (Empfohlen für Anfänger!)**
+    Genau nach diesem Rezept mit 10 % Sauerteig. Einfach abends zusammenrühren, nachts stehen lassen, morgens backen.
+* **Option B: [Der Standard-Ablauf](../../technik/standard/) (Kühlschrank)**
+    Möchtest du den Teig richtig kneten und falten? Dann erhöhe den Sauerteig auf **20 %** (100 g für Standard / 150 g für XL) und folge der klassischen Methode.
 
 ===== START FILE: rezepte/landbrot.md =====
 ---
@@ -288,63 +281,13 @@ weight: 10
 | **Essig** | - | optional (1 TL) | optional (1 EL) |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase)**
-    * Standard: 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Weizen mag Struktur. Knete zügig (Stufe 2) für **6–8 Minuten**.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) (Phase 3: Stockgare).
 
-===== START FILE: rezepte/anfaenger-mix.md =====
----
-title: Das Halb & Halb Anfängerbrot
-weight: 6
----
+Du hast zwei Möglichkeiten:
 
-# Das Halb & Halb Anfängerbrot (Die Goldene Mitte)
-
-*Der perfekte Kompromiss: Fluffig wie ein Toast, aber mit dem rustikalen Geschmack eines Landbrots. Kein Kneten, keine klebrigen Hände. Nur ein Löffel und Zeit.*
-
-## Zutaten
-
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Weizen 405 (oder Tipo 00)* | *50 %* | *250 g* | *375 g* |
-| *...Weizen 1050* | *50 %* | *250 g* | *375 g* |
-| **Wasser** | *68 %* | **340 ml** | **510 ml** |
-| **Sauerteig** | *10 %* | **50 g** | **75 g** |
-| **Salz** | *2 %* | **10 g** | **15 g** |
-| **Honig** (für die Krustenfarbe) | - | 1 TL | 1,5 TL |
-
-> **❄️ Winter-Hack (Für kühle Küchen um 20 °C oder kälter):**
-> Sauerteig mag es muckelig. Ist deine Küche nachts eher ein Kühlschrank? 
-> Nimm abends zum Anmischen **handwarmes Wasser** (ca. 30–35 °C). Das gibt dem Teig eine eingebaute Heizung für den Start. Wenn der Teig morgens noch sehr klein ist: Gib ihm einfach noch 2–4 Stunden extra. 
-
-## Der "Idiotensichere" Ablauf
-
-1.  **Phase: Mischen (Abends, z. B. 20:00 Uhr)**
-    * Gib Wasser, Sauerteig, Honig und Salz in eine große Schüssel und rühre kurz um.
-    * Kipp beide Mehlsorten dazu. Nimm einen sehr stabilen Esslöffel (oder Kochlöffel) und rühre alles kräftig durch, bis kein trockenes Mehl mehr zu sehen ist. Es entsteht ein klebriger Klumpen. 
-    * Deckel auf die Schüssel (oder Teller drauflegen). Feierabend!
-
-2.  **Phase: Die Nachtschicht (Gare)**
-    * Lass die Schüssel für **10 bis 12 Stunden** bei Raumtemperatur stehen und geh schlafen. Die Zeit und der Sauerteig bauen jetzt das Teiggerüst für dich auf.
-
-3.  **Phase: Ab in den Kasten (Morgens)**
-    * Fette eine Kastenform sehr gut mit Butter ein.
-    * Mach deinen Löffel unter dem Wasserhahn nass. Kratz den Teig (der jetzt viel weicher ist und Blasen hat) direkt aus der Schüssel in die Kastenform. **Nicht auf den Tisch kippen, nicht mit den Händen anfassen!**
-    * Mach den Löffel nochmal nass und streiche die Teig-Oberfläche im Kasten grob glatt.
-
-4.  **Phase: Das Optik-Topping & Warten**
-    * Streue großzügig etwas Mehl oder Sesam über den Teig und drücke es mit der flachen (nassen) Hand ganz sanft an.
-    * Lass die Kastenform noch **1 Stunde** auf der Arbeitsplatte ruhen. Heize in der Zwischenzeit den Ofen auf **230 °C (Ober-/Unterhitze)** vor und stell eine leere, alte Auflaufform für den Dampf auf den Ofenboden.
-
-5.  **Phase: Backen**
-    * Kasten in den Ofen schieben, ca. 50 ml Wasser in die heiße Dampf-Schale gießen und die Tür sofort schließen.
-    * **15 Minuten** mit Dampf backen. 
-    * Dann die Ofentür kurz weit öffnen (Dampf ablassen!), Temperatur auf **200 °C** runterdrehen und weitere **40 Minuten** backen. 
-    * Aus dem Kasten stürzen und auf einem Rost komplett abkühlen lassen.
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheit beim Kneten:* Weizen mag Struktur. Knete zügig für 6–8 Minuten.
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
 
 ===== START FILE: rezepte/graubrot.md =====
 ---
@@ -371,12 +314,13 @@ weight: 20
 **Wichtig:** Da hier kein Weizen klebt, brauchen Dinkel und Roggen die Säure vom Essig zur Stabilisierung. Nicht weglassen!
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase)**
-    * Standard: 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal **4–5 Minuten**. Sobald der Teig glatt ist: Stopp.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheit beim Kneten:* Sanft! Dinkel nicht stressen. Stufe 1 (langsam), maximal 4–5 Minuten. 
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
 
 ===== START FILE: rezepte/vollkorn.md =====
 ---
@@ -386,7 +330,7 @@ weight: 30
 
 # Vollkorn-Kraftpaket
 
-*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse (Quellphase)) besonders wichtig, damit es nicht trocken wird.*
+*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse) besonders wichtig, damit es nicht trocken wird.*
 
 ## Zutaten
 
@@ -402,12 +346,13 @@ weight: 30
 | **Essig** | - | 1 EL | 1,5 EL |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
-    * Vollkornschalen saugen langsam. Lass Mehl und Wasser **mindestens 45 bis 60 Minuten** stehen, bevor Salz dazu kommt.
-2.  **Phase: Kneten**
-    * Vorsichtig. Stufe 1, maximal **5 Minuten**.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheiten:* Lass Mehl und Wasser mind. 45–60 Minuten quellen (Fermentolyse). Knete vorsichtig (max. 5 Minuten).
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen (die lange Zeit ersetzt hier das lange Quellen).
 
 ===== START FILE: rezepte/hanseat.md =====
 ---
@@ -433,17 +378,15 @@ weight: 40
 | **Essig** | - | **1,5 EL (Pflicht!)** | **2 EL (Pflicht!)** |
 | **Tipp** | - | Sonnenblumenkerne | Sonnenblumenkerne |
 
-> **Profi-Tipp zur Feuchtigkeit:** Roggen schwankt extrem in der Wasseraufnahme. Wenn dein Brot nach dem Backen innen zu feucht/klitschig ist, reduziere das Wasser beim nächsten Mal auf 75 % (375 ml für Standard / 560 ml für XL).
+> **Profi-Tipp zur Feuchtigkeit:** Roggen schwankt extrem in der Wasseraufnahme. Wenn dein Brot nach dem Backen innen zu feucht/klitschig ist, reduziere das Wasser beim nächsten Mal auf 75 %.
 
-## Der Ablauf
-1.  **Phase: Mischen (Nicht kneten!)**
-    * Roggen hat kein Klebergerüst, das man aufbauen muss. Alle Zutaten in die Schüssel geben und auf Stufe 1 (oder mit einem kräftigen Löffel) gut durchmischen, bis eine klebrige, mörtelartige Masse entsteht. Es gibt hier keine Fermentolyse (Quellphase).
-2.  **Phase: Formen (Ab in den Kasten)**
-    * Den Teig direkt in die gut gefettete Kastenform geben.
-    * Mit **nassen Händen** (oder einem nassen Löffel) die Oberfläche glattstreichen.
-3.  **Phase: Gare & Backen**
-    * Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden und er deutlich an Volumen gewonnen hat (ca. 2–3 Stunden, je nach Temperatur).
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) für das Backen. Denk daran: Roggenbrot muss mindestens 24 Stunden ruhen, bevor du es anschneidest!
+## Der Ablauf (Sonderweg!)
+*Roggen hat kein Klebergerüst. Techniken wie "Standard" (Falten) oder "Lazy" (langes Warten auf das Glutengerüst) greifen hier nicht.*
+
+1.  **Mischen (Nicht kneten!):** Alle Zutaten in die Schüssel geben und mit einem Löffel durchmischen, bis eine klebrige, mörtelartige Masse entsteht. 
+2.  **Formen:** Den Teig direkt in die gut gefettete Kastenform geben und mit nassen Händen glattstreichen.
+3.  **Gare:** Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden (ca. 2–3 Stunden).
+4.  **Backen:** Folge dem Back-Abschnitt aus dem **[Standard-Ablauf](../../technik/standard/)**. Denk daran: Roggenbrot muss mind. 24 Stunden ruhen, bevor du es anschneidest!
 
 ===== START FILE: rezepte/dinkel-seele.md =====
 ---
@@ -460,33 +403,29 @@ weight: 50
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
-| **Haferflocken** (kernig o. zart) | **50 g** | **75 g** |
+| **Haferflocken** | **50 g** | **75 g** |
 | **Wasser** | **150 ml** | **225 ml** |
 
-**So geht's:** Die Haferflocken in einer Pfanne (ohne Fett) goldbraun anrösten, bis sie duften. Das Wasser dazugießen und unter Rühren kurz aufkochen, bis ein fester Brei (Porridge) entsteht. **Komplett abkühlen lassen!** (Mindestens raumtemperiert, gerne auch schon am Vorabend machen und in den Kühlschrank stellen).
-
-## 2. Der Hauptteig
+**So geht's:** Die Haferflocken anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
 | **Dinkel VK Mehl** | **500 g** | **750 g** |
-| **Wasser** (für den Hauptteig) | **250 ml** | **375 ml** |
+| **Wasser** (Hauptteig)| **250 ml** | **375 ml** |
 | **Sauerteig** | **100 g** | **150 g** |
-| **Abgekühltes Kochstück** | **komplett (ca. 200 g)** | **komplett (ca. 300 g)** |
+| **Kaltes Kochstück** | **komplett** | **komplett** |
 | **Salz** | **9 g** | **13 g** |
 | **Essig** | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
-| **Honig** | 1 EL | 1 EL |
-| **Flohsamenschalen** | 1 TL | 1,5 TL |
+| **Honig** & **Flohsamen** | je 1 EL / 1 TL | je 1 EL / 1,5 TL |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Alles vermischen)**
-    * Dinkelmehl, Wasser, Sauerteig, das **kalte Kochstück** und die Flohsamenschalen grob vermischen. 
-    * 30 Minuten quellen lassen. Die Flohsamen und das Kochstück saugen sich jetzt richtig voll.
-2.  **Phase: Kneten**
-    * Salz, Essig und Honig dazu.
-    * **Vorsicht beim Dinkel:** Nur auf Stufe 1 (langsam) für maximal **4–5 Minuten** kneten, bis der Teig eine glatte Kugel bildet. Dinkel überknetet sehr schnell und wird dann flüssig!
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Nutze das kalte Kochstück direkt in Phase 1 mit. *Besonderheit beim Kneten:* Nur auf Stufe 1 für maximal 4–5 Minuten kneten (Dinkel überknetet schnell!).
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das kalte Kochstück und alle anderen Zutaten nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
 
 ===== START FILE: rezepte/dinkel-saftkorn.md =====
 ---
@@ -499,37 +438,29 @@ weight: 60
 *Das Besondere mit Kochstück (Mehlpudding). Bindet extrem viel Wasser, das Brot bleibt tagelang saftig.*
 
 ## Phase: Vorbereitung (Kochstück)
-Verrühre Mehl und Wasser kalt, koche es unter Rühren auf, bis es Pudding ist (wie eine Mehlschwitze). **Komplett abkühlen lassen!**
-
-| Zutat | Standard | XL |
-| :--- | :--- | :--- |
-| Mehl (für Kochstück) | 30 g | 45 g |
-| Wasser (für Kochstück) | 150 ml | 225 ml |
+Verrühre 30 g Mehl und 150 ml Wasser kalt, koche es auf, bis es Pudding ist. **Komplett abkühlen lassen!**
 
 ## Der Hauptteig
 
 | Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- | :--- |
 | **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...im Kochstück* | *6 %* | *30 g* | *45 g* |
 | *...Dinkel 630* | *64 %* | *320 g* | *480 g* |
 | *...Dinkel VK* | *30 %* | *150 g* | *225 g* |
 | **Gesamtwasser** | *76 %* | **380 ml** | **570 ml** |
-| *...im Kochstück* | | *150 ml* | *225 ml* |
 | *...im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
 | **Sauerteig** | *20 %* | **100 g** | **150 g** |
 | **Salz** | *1,8 %* | **9 g** | **13 g** |
 | **Essig** | - | 1 EL | 1,5 EL |
 
-**Wichtig:** Nutze **eiskaltes** Wasser im Hauptteig. Die Kälte schützt den empfindlichen Dinkel vor dem Überkneten.
-
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
-    * Gib das **kalte** Kochstück direkt mit dem Wasser, Sauerteig und Mehl in die Schüssel. 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Kurz und langsam (Stufe 1, 4 Min).
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, 4 Min).
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
 
 ===== START FILE: rezepte/reformer.md =====
 ---
@@ -556,13 +487,13 @@ weight: 80
 | **Honig** | - | 1 EL | 1 EL |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
-    * Mehl, Wasser und Sauerteig mischen. Lass den Teig **45 bis 60 Minuten** quellen. So werden die harten Vollkornschalen weich und zerschneiden dir beim Kneten nicht das Teiggerüst.
-2.  **Phase: Kneten**
-    * Salz und Honig dazu. Kräftig! **8–10 Minuten** auf Stufe 2, bis der Teig sich vom Rand löst.
-    * **Wichtig:** Das Fett (Butter/Öl) erst **ganz am Ende** unterkneten, wenn der Teig schon gut entwickelt ist. Nur noch solange kneten, bis das Fett komplett aufgenommen wurde.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept. *Besonderheiten:* Lass Mehl und Wasser mind. 45–60 Minuten quellen. Das Fett (Butter) erst **ganz am Ende** des Knetvorgangs unterkneten.
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    **Reduziere den Sauerteig auf 10 %** (50 g / 75 g). Nimm weiche/geschmolzene Butter, rühre alles abends einfach mit dem Löffel zusammen und lass den Teig über Nacht stehen.
 
 ===== START FILE: rezepte/no-knead.md =====
 ---
@@ -853,14 +784,12 @@ weight: 70
 **Achtung beim Wasser:** Kartoffeln bringen Feuchtigkeit mit. Fang mit etwas weniger Wasser an und schütte nur nach, wenn der Teig zu fest ist.
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Mischen)**
-    * Mehl, Wasser, Sauerteig und die **kalten Stampfkartoffeln** mischen. 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Salz und die Prise Muskat dazu. Knete den Teig gut aus (Stufe 2, ca. 8 Min), bis er sich vom Schüsselrand löst.
-    * **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen (oder von Hand unterheben).
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
-    * *Tipp:* Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach. Wenn er sich verdoppelt hat, ab in den Kasten!
+
+Folge für dieses Spezialbrot dem **[Standard-Ablauf](../../technik/standard/)**. *(Die Faule Nacht funktioniert hier nicht gut, da die Kartoffeln und die optionale Hefe den Teig zu schnell gären lassen).*
+
+* **Besonderheiten beim Kneten:** Gib die Prise Muskat direkt zum Salz. Knete den Teig gut aus (Stufe 2, ca. 8 Min).
+* **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen.
+* **Wichtig:** Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach!
 
 ===== START FILE: rezepte/hanse-brioche.md =====
 ---
@@ -919,8 +848,6 @@ weight: 100
 *Große Löcher, knusprige Kruste, weicher Kern. Eigentlich unmöglich in der Form, aber wir tricksen die Physik aus.*
 
 **Wichtig:** Dies ist ein **High-Hydration-Teig** (sehr weich). Er fühlt sich an wie Wackelpudding. Keine Panik, das muss so!
-
-
 
 ## Die Zutaten
 
@@ -1233,4 +1160,3 @@ Othmarscher Kirchenweg 8a
 E-Mail: mail@sauerteig-bibel.de
 
 *Haftungsausschluss: Backen auf eigene Gefahr. Bitte Allergene prüfen.*
-

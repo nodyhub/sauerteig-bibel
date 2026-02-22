@@ -9,8 +9,6 @@ weight: 100
 
 **Wichtig:** Dies ist ein **High-Hydration-Teig** (sehr weich). Er fühlt sich an wie Wackelpudding. Keine Panik, das muss so!
 
-
-
 ## Die Zutaten
 
 | Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |

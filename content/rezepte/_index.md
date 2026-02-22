@@ -11,6 +11,6 @@ Hier sind deine Bausteine für den Alltag.
 * **XL:** Berechnet für die große 1,5-fache Form (ca. 1,5 kg Teig).
 * **%:** Die Bäckerprozente (Mehl ist immer 100 %).
 
-> **Hinweis:** Alle Rezepte folgen dem [Basis-Ablauf](../basis-ablauf/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
+> **Hinweis:** Alle normalen Kastenbrote folgen den [Techniken](../technik/). Spezifische Abweichungen (z. B. Knetzeit bei Dinkel) stehen direkt im Rezept.
 >
 > **Baby-Check:** Backst du für Kleinkinder? Dann schau dir vor dem Wiegen das [Baby-Spezial](../wissen/baby-spezial/) an (Salz & Honig anpassen).

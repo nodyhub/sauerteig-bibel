@@ -21,6 +21,6 @@ Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen saube
 ## Der Fahrplan
 
 * **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
-* **[Der Basis-Ablauf](basis-ablauf/)** – Das System (Mischen, Falten, Backen).
+* **[Die Techniken](technik/)** – Der Standard-Weg oder die Faule Nacht (No-Knead).
 * **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten) und süße Snacks für die Resteverwertung.
-* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-S
+* **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.

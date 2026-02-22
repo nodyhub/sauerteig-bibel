@@ -5,7 +5,7 @@ weight: 30
 
 # Vollkorn-Kraftpaket
 
-*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse (Quellphase)) besonders wichtig, damit es nicht trocken wird.*
+*Dunkel, gesund, kernig. Hier ist die Quellzeit (Fermentolyse) besonders wichtig, damit es nicht trocken wird.*
 
 ## Zutaten
 
@@ -21,9 +21,10 @@ weight: 30
 | **Essig** | - | 1 EL | 1,5 EL |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase) (Verlängert!)**
-    * Vollkornschalen saugen langsam. Lass Mehl und Wasser **mindestens 45 bis 60 Minuten** stehen, bevor Salz dazu kommt.
-2.  **Phase: Kneten**
-    * Vorsichtig. Stufe 1, maximal **5 Minuten**.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheiten:* Lass Mehl und Wasser mind. 45–60 Minuten quellen (Fermentolyse). Knete vorsichtig (max. 5 Minuten).
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen (die lange Zeit ersetzt hier das lange Quellen).

@@ -22,9 +22,10 @@ weight: 10
 | **Essig** | - | optional (1 TL) | optional (1 EL) |
 
 ## Der Ablauf
-1.  **Phase: Fermentolyse (Quellphase)**
-    * Standard: 30 Minuten quellen lassen.
-2.  **Phase: Kneten**
-    * Weizen mag Struktur. Knete zügig (Stufe 2) für **6–8 Minuten**.
-3.  **Weiter:**
-    * Folge ab hier dem [Basis-Ablauf](../../basis-ablauf/) (Phase 3: Stockgare).
+
+Du hast zwei Möglichkeiten:
+
+* **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
+    Genau nach Rezept (20 % Sauerteig). *Besonderheit beim Kneten:* Weizen mag Struktur. Knete zügig für 6–8 Minuten.
+* **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische alles nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
