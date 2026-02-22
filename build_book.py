@@ -2,7 +2,7 @@ import os
 import re
 import markdown
 
-# 1. Die logische Reihenfolge
+# 1. Die logische Reihenfolge (ohne das alte No-Knead)
 ORDER = [
     "_index.md",
     "wissen/philosophie.md",
@@ -18,7 +18,6 @@ ORDER = [
     "rezepte/dinkel-saftkorn.md",
     "rezepte/kartoffel-walnuss.md",
     "rezepte/reformer.md",
-    "rezepte/no-knead.md",
     "rezepte/ciabatta-style.md",
     "rezepte/zupfbrot.md",
     "rezepte/pizza-hybrid.md",
@@ -38,7 +37,6 @@ ORDER = [
     "impressum.md"
 ]
 
-# 2. Das CSS (inkl. @page Margins für Playwright!)
 # 2. Das Kochbuch-CSS (Kompakt & Edel)
 CSS = """
 <style>
