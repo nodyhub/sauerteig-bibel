@@ -1,0 +1,88 @@
+/* ===== 1. SCHRIFTARTEN IMPORTIEREN ===== */
+/* 'Merriweather' ist eine klassische, edle Serifen-Schrift für die Überschriften */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ===== 2. FARB-PALETTE (Die "Brot"-Farben) ===== */
+:root {
+  /* Warme Krusten-Töne statt dem Standard-Blau */
+  --color-primary: #b35900; 
+  --color-link: #d35400;
+  --color-visited-link: #a04000;
+  
+  /* Sehr sanfter Papierton für den Hintergrund (nimmt das harte Weiß) */
+  --body-background: #fcfbf8; 
+  
+  /* Etwas weicheres Dunkelgrau für den Text (liest sich angenehmer) */
+  --color-text: #2c3e50; 
+}
+
+/* ===== 3. ÜBERSCHRIFTEN (Kochbuch-Feeling) ===== */
+.markdown h1, 
+.markdown h2, 
+.markdown h3,
+.book-menu nav { /* Macht auch das Menü links etwas edler */
+  font-family: 'Merriweather', Georgia, serif;
+}
+
+.markdown h1 {
+  color: #1a252f;
+  border-bottom: 1px solid #e2dcd0;
+  padding-bottom: 0.3em;
+}
+
+.markdown h2 {
+  color: var(--color-primary); /* Zwischenüberschriften im warmen Krustenton */
+  margin-top: 1.5em;
+}
+
+/* ===== 4. TABELLEN (Zutaten clean und übersichtlich) ===== */
+.markdown table {
+  box-shadow: none !important; /* Entfernt den klobigen Schatten vom Theme */
+  border-radius: 0;
+  border-bottom: 2px solid #e2dcd0;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.markdown table th {
+  background: transparent;
+  color: #7f8c8d;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid var(--color-primary); /* Dünne farbige Linie unter dem Kopf */
+}
+
+.markdown table td, 
+.markdown table th {
+  border: none;
+  border-bottom: 1px solid #f0eee8; /* Nur noch feine Linien zwischen den Zeilen */
+  padding: 0.75rem 1rem;
+}
+
+/* Die erste Spalte (Zutat) automatisch fett drucken */
+.markdown table tr td:first-child {
+  font-weight: 600;
+  color: #1a252f;
+}
+
+/* ===== 5. TIPPS & ZITATE (Für deine Hacks) ===== */
+.markdown blockquote {
+  border-left: 4px solid var(--color-primary);
+  background-color: #f4f1ea; /* Leicht abgesetzter Hintergrund */
+  border-radius: 0 4px 4px 0;
+  padding: 1rem 1.5rem;
+  color: #4a5568;
+  font-style: italic;
+  margin: 1.5rem 0;
+}
+
+/* ===== 6. LISTEN (Ablauf kompakter) ===== */
+.markdown ul, 
+.markdown ol {
+  padding-left: 1.5rem;
+}
+
+.markdown li {
+  margin-bottom: 0.5rem;
+}
