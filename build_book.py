@@ -2,7 +2,7 @@ import os
 import re
 import markdown
 
-# Die logische Reihenfolge exakt nach der Struktur deiner Markdown-Dateien
+# 1. Die logische Reihenfolge exakt nach der Struktur deiner Markdown-Dateien
 ORDER = [
     "_index.md",
     "wissen/philosophie.md",
@@ -28,6 +28,7 @@ ORDER = [
     "rezepte/hanse-brioche.md",
     "rezepte/pancakes.md",
     "rezepte/cracker.md",
+    "rezepte/schoko-cracker.md",
     "rezepte/zitronenkuchen.md",
     "rezepte/apfelkuchen.md",
     "rezepte/schokokuchen.md",
@@ -37,14 +38,14 @@ ORDER = [
     "wissen/werkzeuge.md",
     "wissen/backmethoden.md",
     "wissen/optik-finish.md",
-    "wissen/zeitplan.md",
-    "wissen/erste-hilfe.md",
     "wissen/baby-spezial.md",
     "wissen/empfehlungen.md",
+    "wissen/erste-hilfe.md",
+    "wissen/zeitplan.md",
     "impressum.md"
 ]
 
-# 2. Das Kochbuch-CSS (Echte Buch-Optik)
+# 2. Das Kochbuch-CSS (Echte Buch-Optik für das PDF)
 CSS = """
 <style>
     /* Basis-Buch-Design (Serifen für den Fließtext!) */
@@ -127,6 +128,25 @@ CSS = """
         padding-left: 20px; 
         margin-bottom: 15px; 
     }
+    li { 
+        margin-bottom: 6px; 
+    }
+
+    /* Echte Buch-Seitenränder (A4) */
+    @page {
+        size: A4;
+        /* Ränder: Oben 25mm, Rechts 20mm, Unten 25mm, Links 25mm (Platz zum Abheften/Binden!) */
+        margin: 25mm 20mm 25mm 25mm; 
+    }
+    
+    @media print {
+        body { background: transparent; }
+        /* Bilder (falls du mal welche einbaust) nicht zerschneiden */
+        img, table, tr, td, li, blockquote { page-break-inside: avoid; }
+        a { text-decoration: none; color: inherit; }
+    }
+</style>
+"""
 
 def build():
     # 1. Den content_dump.txt einlesen und zerteilen
@@ -171,12 +191,13 @@ def build():
         # Frontmatter (--- ... ---) entfernen
         content = re.sub(r'^---[\s\S]*?^---\n', '', content, flags=re.MULTILINE)
         
-        # Inhalt aneinanderreihen (ohne manuelles div, da CSS das regelt)
+        # Inhalt aneinanderreihen (CSS regelt den Seitenumbruch bei h1)
         combined_md += content + "\n\n"
 
     # 3. HTML generieren
     html_content = markdown.markdown(combined_md, extensions=['tables'])
     
+    # 4. Finales HTML-Dokument zusammenbauen
     final_html = f"""<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -190,12 +211,12 @@ def build():
 </html>
 """
 
-    # 4. Als sauerteig_bibel.html speichern (damit der Workflow es findet)
+    # 5. Als sauerteig_bibel.html speichern (damit der Workflow es findet)
     with open('sauerteig_bibel.html', 'w', encoding='utf-8') as f:
         f.write(final_html)
         print("Erfolgreich gespeichert: sauerteig_bibel.html")
 
-    # 5. Version an GitHub Actions übergeben (für den Release-Tag)
+    # 6. Version an GitHub Actions übergeben (für den Release-Tag)
     if "GITHUB_OUTPUT" in os.environ:
         with open(os.environ["GITHUB_OUTPUT"], "a") as env_file:
             env_file.write(f"VERSION={version}\n")
