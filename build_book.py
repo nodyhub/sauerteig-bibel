@@ -44,114 +44,89 @@ ORDER = [
     "impressum.md"
 ]
 
-# 2. Das Kochbuch-CSS (Kompakt & Edel)
+# 2. Das Kochbuch-CSS (Echte Buch-Optik)
 CSS = """
 <style>
-    /* Basis-Schriftart: Kompakter für den Druck */
+    /* Basis-Buch-Design (Serifen für den Fließtext!) */
     body { 
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-        font-size: 11pt; 
-        line-height: 1.4; 
-        color: #2c3e50; 
+        font-family: 'Georgia', 'Times New Roman', serif; 
+        font-size: 10pt; /* Echte Buchgröße, nicht mehr riesig */
+        line-height: 1.5; 
+        color: #111; 
+        text-align: justify; /* Blocksatz für den Buch-Look */
+        hyphens: auto; /* Automatische Silbentrennung */
     }
     
-    /* Kochbuch-Optik: Edle Überschriften (Serifen) */
+    /* Überschriften modern und sans-serif als knackiger Kontrast */
     h1, h2, h3 { 
-        font-family: Georgia, "Times New Roman", serif; 
-        font-weight: normal;
-        color: #1a252f;
-        margin-top: 1.2em;
-        margin-bottom: 0.4em;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+        font-weight: bold;
+        color: #2c3e50;
     }
     
     h1 { 
-        font-size: 18pt; 
-        border-bottom: 1px solid #eee; 
+        font-size: 16pt; 
+        border-bottom: 2px solid #b35900; 
         padding-bottom: 5px; 
+        margin-top: 0;
+        page-break-before: always; /* Jedes Rezept/Kapitel startet auf einer neuen Seite */
     }
     
-    /* Eine dezente "Rost/Krusten"-Farbe für die Zwischenüberschriften */
     h2 { 
-        font-size: 14pt; 
+        font-size: 13pt; 
         color: #b35900; 
+        margin-top: 2em;
+        margin-bottom: 0.5em;
+        page-break-after: avoid; /* Keine Überschrift ganz unten auf der Seite! */
     }
+    
     h3 { 
-        font-size: 12pt; 
-    }
-
-    /* Kursiver Text (die kleinen Einleitungen) etwas dezenter */
-    em { 
-        color: #555; 
-        font-size: 10.5pt; 
+        font-size: 11pt; 
+        page-break-after: avoid;
     }
 
     /* Cleane, platzsparende Zutaten-Tabellen */
     table { 
         border-collapse: collapse; 
         width: 100%; 
-        margin-top: 10px;
-        margin-bottom: 15px; 
-        font-size: 10pt; /* Tabellen-Text noch einen Tick kleiner */
+        margin-top: 15px;
+        margin-bottom: 20px; 
+        font-size: 9.5pt; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Tabellen der Lesbarkeit halber serifenlos */
     }
     th, td { 
         border: none;
         border-bottom: 1px solid #ecf0f1; 
-        padding: 5px 8px; /* Weniger Padding = mehr Platz */
+        padding: 6px 8px; 
         text-align: left; 
     }
     th { 
-        background-color: transparent; 
         font-weight: bold;
         color: #7f8c8d;
         text-transform: uppercase;
-        font-size: 8.5pt;
+        font-size: 8pt;
         letter-spacing: 0.5px;
         border-bottom: 2px solid #bdc3c7;
     }
-    /* Die erste Spalte (Zutaten-Namen) leicht hervorheben */
     td:first-child { 
         font-weight: bold; 
         color: #2c3e50; 
     }
 
-    /* Wichtige Tipps und Zitate (Blockquotes) */
+    /* Zitate und Tipps */
     blockquote { 
         border-left: 3px solid #b35900; 
-        margin: 1.2em 0; 
-        padding: 6px 12px; 
+        margin: 1.5em 0; 
+        padding: 8px 15px; 
         font-style: italic; 
-        background-color: #fdfbf7; /* Sehr sanfter Papierton */
-        font-size: 10pt;
+        background-color: #fdfbf7; 
+        font-size: 9.5pt;
     }
 
-    /* Kompaktere Listen für den Ablauf */
     ol, ul { 
         padding-left: 20px; 
         margin-bottom: 15px; 
     }
-    li { 
-        margin-bottom: 4px; /* Spart extrem viel Platz in der Höhe */
-    }
-
-    /* Druck-Einstellungen für Playwright */
-    @page {
-        margin: 15mm 20mm; /* Etwas weniger Rand oben/unten gibt dem Rezept mehr Platz */
-    }
-    
-    @media print {
-        body { background: transparent; }
-        
-        /* Regel 1: Jedes Rezept fängt auf einer NEUEN Seite an */
-        h1 { page-break-before: always; margin-top: 0; }
-        
-        /* Schutz davor, dass Dinge am Seitenende zerschnitten werden */
-        h1, h2, h3 { page-break-after: avoid; }
-        table, tr, td, li, blockquote { page-break-inside: avoid; }
-        
-        a { text-decoration: none; color: inherit; }
-    }
-</style>
-"""
 
 def build():
     # 1. Den content_dump.txt einlesen und zerteilen
@@ -196,8 +171,8 @@ def build():
         # Frontmatter (--- ... ---) entfernen
         content = re.sub(r'^---[\s\S]*?^---\n', '', content, flags=re.MULTILINE)
         
-        # Inhalt + Manueller Seitenumbruch
-        combined_md += content + "\n\n<div style='page-break-after: always;'></div>\n\n"
+        # Inhalt aneinanderreihen (ohne manuelles div, da CSS das regelt)
+        combined_md += content + "\n\n"
 
     # 3. HTML generieren
     html_content = markdown.markdown(combined_md, extensions=['tables'])

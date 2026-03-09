@@ -5,7 +5,7 @@ type: docs
 
 # Die Hamburger Sauerteig-Bibel
 
-*Dein persönliches Handbuch für ehrliches Brot. Version 4.5.*
+*Dein persönliches Handbuch für ehrliches Brot. Version 5.0.*
 
 > **[📥 Hier klicken: Die Bibel als PDF herunterladen](https://github.com/nodyhub/sauerteig-bibel/releases/latest/download/Sauerteig-Bibel.pdf)**
 > *(Immer die aktuellste Version, frisch aus dem Ofen)*
