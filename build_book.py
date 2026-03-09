@@ -24,7 +24,7 @@ ORDER = [
     "rezepte/no-knead.md",
     "rezepte/ciabatta-style.md",
     "rezepte/zupfbrot.md",
-    "rezepte/pizza-hybrid.md",
+    "rezepte/kiez-pizza.md",
     "rezepte/hanse-brioche.md",
     "rezepte/pancakes.md",
     "rezepte/cracker.md",
