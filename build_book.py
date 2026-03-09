@@ -132,11 +132,11 @@ CSS = """
         margin-bottom: 6px; 
     }
 
-    /* Echte Buch-Seitenränder (A4) */
+    /* Halbierte Seitenränder für mehr Platz (A4) */
     @page {
         size: A4;
-        /* Ränder: Oben 25mm, Rechts 20mm, Unten 25mm, Links 25mm (Platz zum Abheften/Binden!) */
-        margin: 25mm 20mm 25mm 25mm; 
+        /* Ränder: Oben 12.5mm, Rechts 10mm, Unten 12.5mm, Links 12.5mm */
+        margin: 12.5mm 10mm 12.5mm 12.5mm; 
     }
     
     @media print {
