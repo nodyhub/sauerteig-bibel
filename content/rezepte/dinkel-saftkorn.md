@@ -15,7 +15,9 @@ weight: 50
 | **Haferflocken** | **50 g** | **75 g** |
 | **Wasser** | **150 ml** | **225 ml** |
 
-**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
+**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** 
+
+## 2. Der Hauptteig
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
