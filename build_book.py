@@ -27,6 +27,7 @@ ORDER = [
     "rezepte/kiez-pizza.md",
     "rezepte/hanse-brioche.md",
     "rezepte/pancakes.md",
+    "rezepte/weltmeister.md",
     "rezepte/cracker.md",
     "rezepte/schoko-cracker.md",
     "rezepte/zitronenkuchen.md",
