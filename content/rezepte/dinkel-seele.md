@@ -1,37 +1,39 @@
 ---
 title: Die Dinkel-Seele
-weight: 50
+weight: 60
 ---
 
 # Die Dinkel-Seele
 
-*100 % Dinkel Vollkorn. Nussig und fein. Wirkt der Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
+*Das pure, extrem softe Dinkelbrot mit Kochstück (Mehlpudding). Kommt völlig ohne Körner aus und bleibt durch den Pudding trotzdem tagelang saftig.*
 
 ## 1. Das Kochstück (Vorbereitung)
-*Das Kochstück bindet extrem viel Wasser und macht das Brot tagelang haltbar.*
+*Der sogenannte "Water Roux" (Mehlkochstück) schließt Feuchtigkeit ein.*
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
-| **Haferflocken** | **50 g** | **75 g** |
+| **Dinkelmehl** (630) | **30 g** | **45 g** |
 | **Wasser** | **150 ml** | **225 ml** |
 
-**So geht's:** Die Haferflocken anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
+**So geht's:** Mehl und Wasser kalt in einem Topf klümpchenfrei verrühren. Dann unter Rühren aufkochen, bis es eine feste, puddingartige Masse ist. **Komplett abkühlen lassen!**
+
+## 2. Der Hauptteig
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
-| **Dinkel VK Mehl** | **500 g** | **750 g** |
-| **Wasser** (Hauptteig)| **250 ml** | **375 ml** |
+| **Dinkelmehl 630** | **320 g** | **480 g** |
+| **Dinkel VK Mehl** | **150 g** | **225 g** |
+| **Wasser (Eiskalt!)** | **230 ml** | **345 ml** |
 | **Sauerteig** | **100 g** | **150 g** |
 | **Kaltes Kochstück** | **komplett** | **komplett** |
 | **Salz** | **9 g** | **13 g** |
-| **Essig** | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
-| **Honig** & **Flohsamen** | je 1 EL / 1 TL | je 1 EL / 1,5 TL |
+| **Essig** | **1 EL** | **1,5 EL** |
 
 ## Der Ablauf
 
 Du hast zwei Möglichkeiten:
 
 * **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
-    Nutze das kalte Kochstück direkt in Phase 1 mit. *Besonderheit beim Kneten:* Nur auf Stufe 1 für maximal 4–5 Minuten kneten (Dinkel überknetet schnell!).
+    Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, max. 4 Min).
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
-    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das kalte Kochstück und alle anderen Zutaten nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
+    **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.

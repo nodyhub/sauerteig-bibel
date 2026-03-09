@@ -1,33 +1,37 @@
 ---
 title: Dinkel-Saftkorn
-weight: 60
+weight: 50
 ---
 
-# Dinkel-Saftkorn
+# Das Dinkel-Saftkorn
 
-*Das Besondere mit Kochstück (Mehlpudding). Bindet extrem viel Wasser, das Brot bleibt tagelang saftig.*
+*100 % Dinkel Vollkorn. Nussig, kernig und fein. Wirkt der typischen Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
 
-## Phase: Vorbereitung (Kochstück)
-Verrühre 30 g Mehl und 150 ml Wasser kalt, koche es auf, bis es Pudding ist. **Komplett abkühlen lassen!**
+## 1. Das Kochstück (Vorbereitung)
+*Das Kochstück bindet extrem viel Wasser und macht das Brot tagelang haltbar.*
 
-## Der Hauptteig
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Haferflocken** | **50 g** | **75 g** |
+| **Wasser** | **150 ml** | **225 ml** |
 
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Dinkel 630* | *64 %* | *320 g* | *480 g* |
-| *...Dinkel VK* | *30 %* | *150 g* | *225 g* |
-| **Gesamtwasser** | *76 %* | **380 ml** | **570 ml** |
-| *...im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Salz** | *1,8 %* | **9 g** | **13 g** |
-| **Essig** | - | 1 EL | 1,5 EL |
+**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
+
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Dinkel VK Mehl** | **500 g** | **750 g** |
+| **Wasser** (Hauptteig)| **250 ml** | **375 ml** |
+| **Sauerteig** | **100 g** | **150 g** |
+| **Kaltes Kochstück** | **komplett** | **komplett** |
+| **Salz** | **9 g** | **13 g** |
+| **Essig** | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
+| **Honig** & **Flohsamen** | je 1 EL / 1 TL | je 1 EL / 1,5 TL |
 
 ## Der Ablauf
 
 Du hast zwei Möglichkeiten:
 
 * **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
-    Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, 4 Min).
+    Nutze das kalte Kochstück direkt in Phase 1 mit. *Besonderheit beim Kneten:* Nur auf Stufe 1 für maximal 4–5 Minuten kneten (Dinkel überknetet schnell!).
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
-    **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
+    Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das kalte Kochstück und alle anderen Zutaten nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.

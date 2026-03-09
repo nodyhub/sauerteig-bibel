@@ -424,15 +424,15 @@ weight: 40
 3.  **Gare:** Lass den Teig im Kasten an einem warmen Ort gehen, bis sich Risse an der Oberfläche bilden (ca. 2–3 Stunden).
 4.  **Backen:** Folge dem Back-Abschnitt aus dem **[Standard-Ablauf](../../technik/standard/)**. Denk daran: Roggenbrot muss mind. 24 Stunden ruhen, bevor du es anschneidest!
 
-===== START FILE: rezepte/dinkel-seele.md =====
+===== START FILE: rezepte/dinkel-saftkorn.md =====
 ---
-title: Die Dinkel-Seele
+title: Dinkel-Saftkorn
 weight: 50
 ---
 
-# Die Dinkel-Seele
+# Das Dinkel-Saftkorn
 
-*100 % Dinkel Vollkorn. Nussig und fein. Wirkt der Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
+*100 % Dinkel Vollkorn. Nussig, kernig und fein. Wirkt der typischen Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
 
 ## 1. Das Kochstück (Vorbereitung)
 *Das Kochstück bindet extrem viel Wasser und macht das Brot tagelang haltbar.*
@@ -442,7 +442,7 @@ weight: 50
 | **Haferflocken** | **50 g** | **75 g** |
 | **Wasser** | **150 ml** | **225 ml** |
 
-**So geht's:** Die Haferflocken anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
+**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
@@ -463,41 +463,47 @@ Du hast zwei Möglichkeiten:
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das kalte Kochstück und alle anderen Zutaten nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
 
-===== START FILE: rezepte/dinkel-saftkorn.md =====
+
+===== START FILE: rezepte/dinkel-seele.md =====
 ---
-title: Dinkel-Saftkorn
+title: Die Dinkel-Seele
 weight: 60
 ---
 
-# Dinkel-Saftkorn
+# Die Dinkel-Seele
 
-*Das Besondere mit Kochstück (Mehlpudding). Bindet extrem viel Wasser, das Brot bleibt tagelang saftig.*
+*Das pure, extrem softe Dinkelbrot mit Kochstück (Mehlpudding). Kommt völlig ohne Körner aus und bleibt durch den Pudding trotzdem tagelang saftig.*
 
-## Phase: Vorbereitung (Kochstück)
-Verrühre 30 g Mehl und 150 ml Wasser kalt, koche es auf, bis es Pudding ist. **Komplett abkühlen lassen!**
+## 1. Das Kochstück (Vorbereitung)
+*Der sogenannte "Water Roux" (Mehlkochstück) schließt Feuchtigkeit ein.*
 
-## Der Hauptteig
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Dinkelmehl** (630) | **30 g** | **45 g** |
+| **Wasser** | **150 ml** | **225 ml** |
 
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Dinkel 630* | *64 %* | *320 g* | *480 g* |
-| *...Dinkel VK* | *30 %* | *150 g* | *225 g* |
-| **Gesamtwasser** | *76 %* | **380 ml** | **570 ml** |
-| *...im Hauptteig* | | **230 ml (Eiskalt!)** | **345 ml** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Salz** | *1,8 %* | **9 g** | **13 g** |
-| **Essig** | - | 1 EL | 1,5 EL |
+**So geht's:** Mehl und Wasser kalt in einem Topf klümpchenfrei verrühren. Dann unter Rühren aufkochen, bis es eine feste, puddingartige Masse ist. **Komplett abkühlen lassen!**
+
+## 2. Der Hauptteig
+
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Dinkelmehl 630** | **320 g** | **480 g** |
+| **Dinkel VK Mehl** | **150 g** | **225 g** |
+| **Wasser (Eiskalt!)** | **230 ml** | **345 ml** |
+| **Sauerteig** | **100 g** | **150 g** |
+| **Kaltes Kochstück** | **komplett** | **komplett** |
+| **Salz** | **9 g** | **13 g** |
+| **Essig** | **1 EL** | **1,5 EL** |
 
 ## Der Ablauf
 
 Du hast zwei Möglichkeiten:
 
 * **Option A: [Der Standard-Ablauf](../../technik/standard/) (Empfohlen)**
-    Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, 4 Min).
+    Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, max. 4 Min).
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
-
 ===== START FILE: rezepte/reformer.md =====
 ---
 title: Der Reformer
