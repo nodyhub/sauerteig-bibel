@@ -3,7 +3,7 @@ name: HTML to PDF Publisher
 on:
   push:
     branches: [main]
-    paths: ['content_dump.txt']
+    paths: ['content_dump.txt', 'build_book.py']
   workflow_dispatch:
 
 permissions:
