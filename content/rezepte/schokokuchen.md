@@ -1,6 +1,6 @@
 ---
 title: Sauerteig-Schokokuchen
-weight: 180
+weight: 190
 ---
 
 # Sauerteig-Schokokuchen

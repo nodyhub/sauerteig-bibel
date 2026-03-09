@@ -1,6 +1,6 @@
 ---
 title: Discard-Cracker
-weight: 150
+weight: 160
 ---
 
 # Discard-Cracker (Der Knabber-Spaß)
