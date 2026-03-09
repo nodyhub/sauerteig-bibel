@@ -629,15 +629,15 @@ weight: 180
     * Dann mit einem Löffel (von der Mitte aus) zu einer glänzenden, dunklen Creme verrühren.
     * Über den **komplett abgekühlten** Kuchen gießen, glattstreichen und zum Schluss etwas flockiges Meersalz darüberstreuen. Fest werden lassen.
 
-===== START FILE: rezepte/elb-pizza.md =====
+===== START FILE: rezepte/kiez-pizza.md =====
 ---
-title: Die Elb-Pizza
+title: Die Kiez-Pizza
 weight: 120
 ---
 
-# Die Elb-Pizza (Sauerteig + Hefe)
+# Die Kiez-Pizza (Sauerteig + Hefe)
 
-*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von Hensslers "Schneller Nummer" (Hamburger Original!), aber mit extra Altonaer Tiefgang.*
+*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der berühmten "Schnellen Nummer" vom Hamburger Jung Steffen Henssler. Da Steffen ja ohnehin schon für lokalen Tiefgang sorgt, steuern wir mit dem Sauerteig einfach noch die extra Portion Aroma bei!*
 
 ## Zutaten (für 4 Pizzen)
 
@@ -661,17 +661,15 @@ weight: 120
 
 ---
 
-## Meal-Prep: Böden auf Vorrat (Vorbacken)
+## Der Meal-Prep Hack: Böden einfrieren
 
-Für die schnelle Küche unter der Woche lassen sich die Teiglinge nach der langen Ruhezeit im Kühlschrank (Schritt 5) perfekt vorbacken.
+*Die beste Waffe gegen den Lieferservice an stressigen Abenden: Mach dir deine eigenen Tiefkühl-Pizzen! Der Trick liegt im Vorbacken und dem richtigen Auftauen.*
 
-1. **Einstechen:** Den geformten, nackten Teigboden mehrfach mit einer Gabel einstechen. Das verhindert, dass er sich wie ein Ballon aufbläht. *Alternative:* Hauchdünn mit Tomatensoße bestreichen (beschwert den Teig ebenfalls).
-2. **Vorbacken:** Im extrem heißen Ofen (250 °C oder mehr) für **3 bis 5 Minuten** backen. Der Teig soll nur fest werden (abstocken) und blass bleiben – er darf **nicht** bräunen.
-3. **Auskühlen:** Den Boden sofort auf ein Kuchengitter legen und vollständig abkühlen lassen, damit er von unten nicht schwitzt und matschig wird.
-4. **Lagern:** * **Kühlschrank:** In Frischhaltefolie gewickelt für 3 bis 4 Tage.
-   * **Tiefkühler:** Mit Backpapier zwischen den Böden im Gefrierbeutel für bis zu 3 Monate.
-5. **Das Finale:** Den kalten (oder direkt tiefgefrorenen!) Boden nach Lust und Laune belegen und bei 250 °C für **5 bis 8 Minuten** knusprig fertigbacken.
-
+1. **Das Vorbacken (Par-Baking):** Zieh den Teig wie gewohnt aus. Damit er im Ofen nicht wie ein Luftballon aufpustet (weil der schwere Belag fehlt), stich ihn ein paar Mal mit einer Gabel ein oder verstreiche schon eine **hauchdünne** Schicht Tomatensoße darauf.
+2. **Ab in den Ofen:** Backe den leeren (oder leicht bestrichenen) Boden auf maximaler Hitze für **nur 3 bis 4 Minuten**. Er soll fest werden, aber noch komplett blass bleiben.
+3. **Das Auskühlen (WICHTIG!):** Hol den Boden raus und leg ihn **sofort auf einen Gitterrost**. Würdest du ihn auf dem Blech abkühlen lassen, bildet sich Schwitzwasser und der Teig wird labbrig. Lass ihn komplett eiskalt werden.
+4. **Einfrieren:** Wickel die kalten Böden straff in Frischhaltefolie ein oder nutze große Zip-Beutel. So kannst du sie wie Frisbees im Tiefkühler stapeln (halten sich locker 2–3 Monate).
+5. **Der Anti-Labbrig-Trick (Aufbacken):** Wenn du Pizza willst, heiz den Ofen auf Maximum vor. Hol den **steinhart gefrorenen** Boden aus dem Eis, belege ihn sofort (nicht auftauen lassen!) und schieb ihn gefroren in den heißen Ofen. Das Wasser verdampft schlagartig und der Boden wird ultra-knusprig!
 
 ===== START FILE: rezepte/pancakes.md =====
 ---
@@ -712,10 +710,11 @@ weight: 150
 
 # Discard-Cracker (Der Knabber-Spaß)
 
-*Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig.*
+*Nie wieder Sauerteig wegwerfen. Diese Cracker sind dünn, knusprig und machen süchtig. Hier in der herzhaften Klassiker-Version und als eskalierte Schoko-Variante.*
 
-## Zutaten
+## 1. Der herzhafte Klassiker
 
+### Zutaten
 | Zutat | Menge |
 | :--- | :--- |
 | **Sauerteig-Reste** (Discard) | 200 g |
@@ -724,13 +723,35 @@ weight: 150
 | **Kräuter** (getrocknet) | 1–2 TL |
 | **Salz** (grob) | Zum Bestreuen |
 
-## Zubereitung
+### Zubereitung
 1.  **Teig:** Sauerteig, Mehl, Fett und Kräuter zu einer glatten Kugel verkneten.
 2.  **Kühlen:** In Folie wickeln und 30 Min in den Kühlschrank (lässt sich besser rollen).
 3.  **Rollen:** Teig auf Backpapier legen. Zweites Backpapier oben drauf. Mit dem Nudelholz **hauchdünn** ausrollen. Wirklich dünn!
-4.  **Schneiden:** Das obere Papier abziehen. Mit einem Pizzaroller oder Messer in Rauten/Vierecke schneiden (nicht auseinanderziehen, nur ritzen). Mit grobem Salz bestreuen.
+4.  **Schneiden:** Das obere Papier abziehen. Mit einem Pizzaroller oder Messer in Rauten/Vierecke ritzen (nicht auseinanderziehen). Mit grobem Salz bestreuen.
 5.  **Backen:** Bei **180 °C Umluft** für ca. 15–20 Minuten. Sie müssen leicht bräunen.
 6.  **Abkühlen:** Auf dem Blech auskühlen lassen, dann brechen sie an den Schnittkanten auseinander.
+
+---
+
+## 2. Variante: Der "Schoko-Banger" (Brownie-Chips)
+
+*Die süße Schwester. Hauchdünn, extrem knusprig und durch den braunen Zucker mit einer leichten Karamell-Note.*
+
+### Zutaten
+| Zutat | Menge |
+| :--- | :--- |
+| **Sauerteig-Reste** (Discard) | 200 g |
+| **Mehl** (Weizen/Dinkel) | 70 g |
+| **Backkakao** (ungesüßt) | 30 g |
+| **Brauner Zucker** (für die Karamell-Note) | 60 g |
+| **Butter** (weich) | 50 g |
+| **Vanille** | 1 TL |
+| **Schokotröpfchen / Kakaonibs** | 50 g (für den extra Crunch) |
+| **Salz** | 1 kräftige Prise (plus grobes Meersalz zum Bestreuen!) |
+
+### Zubereitung (Die Schoko-Regeln)
+Der Ablauf ist exakt der gleiche wie beim herzhaften Klassiker (Kneten, Kühlen, Rollen, Ritzen). **Aber Achtung beim Backen:**
+Da der Teig durch den Kakao schon dunkel ist, siehst du im Ofen nicht so leicht, wenn die Cracker verbrennen. Bleib beim ersten Mal in der Nähe! Backe sie bei **180 °C (Umluft)** für ca. **12–15 Minuten**. Die Ränder müssen spürbar fest werden und der Teig darf nicht mehr feucht glänzen.
 
 ===== START FILE: rezepte/zitronenkuchen.md =====
 ---
