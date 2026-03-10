@@ -54,3 +54,15 @@ weight: 190
     * **2 Minuten in Ruhe stehen lassen** (nicht rühren, sonst kühlt es zu schnell ab!).
     * Dann mit einem Löffel (von der Mitte aus) zu einer glänzenden, dunklen Creme verrühren.
     * Über den **komplett abgekühlten** Kuchen gießen, glattstreichen und zum Schluss etwas flockiges Meersalz darüberstreuen. Fest werden lassen.
+
+## Der Vegan-Hack (Saftiger geht's nicht)
+
+*Schokokuchen lässt sich extrem leicht veganisieren. Das Geheimnis? Pflanzenöl macht den Teig sogar noch saftiger als Butter, und die Säure des Sauerteigs übernimmt zusammen mit dem Natron die Fluffigkeit, für die man sonst Eier braucht.*
+
+Tausche die klassischen Zutaten einfach so aus:
+
+* **Die Butter:** Ersetze sie durch neutrales Pflanzenöl (z. B. Rapsöl oder Sonnenblumenöl). Rechne hier ca. 80 g Öl für 100 g Butter. Alternativ kannst du 1:1 einen veganen Butter-Block nehmen.
+* **Die Milch:** Nimm einfach Hafermilch oder Sojamilch. 
+  *Der Profi-Tipp:* Gib einen Spritzer Apfelessig in die Sojamilch und lass sie 5 Minuten stehen. Sie flockt aus und wird zu veganer Buttermilch. Das macht die Krume unfassbar zart!
+* **Das Ei:** Brauchst du eigentlich gar nicht, wenn du 1/2 TL Natron im Teig hast, das mit dem Sauerteig reagiert. Wenn du auf Nummer sicher gehen willst, was die Bindung angeht, nimm **2 gehäufte Esslöffel Apfelmus** (schmeckt man im Schokokuchen null!) oder ein "Leinsamen-Ei" (1 EL geschrotete Leinsamen + 3 EL Wasser verrühren und 5 Minuten andicken lassen).
+* **Die Schokolade:** Achte bei den Schokotröpfchen oder dem Kakaopulver einfach darauf, dass es reine Zartbitterschokolade ohne zugesetztes Milchpulver ist (die meisten hochwertigen sind eh von Natur aus vegan).
