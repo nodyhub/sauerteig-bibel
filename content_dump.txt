@@ -26,32 +26,6 @@ Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen saube
 * **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten) und süße Snacks für die Resteverwertung.
 * **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
 
-===== START FILE: wissen/philosophie.md =====
----
-title: Philosophie & Grundlagen
-weight: 10
----
-
-# Philosophie & Grundlagen
-
-Brotbacken ist Handwerk, aber vor allem ist es Gefühl. Das wichtigste Gesetz lautet: **Mehl ist ein Naturprodukt.** Es verhält sich jeden Tag ein bisschen anders, je nach Luftfeuchtigkeit in Hamburg oder der Temperatur in deiner Küche.
-
-Bevor du blind Wasser in die Schüssel kippst, schau dir an, wen du vor dir hast.
-
-## Warum machen wir das alles?
-
-### Kneten
-Im Weizen und Dinkel steckt Gluten (Klebereiweiß). Stell dir das wie ein Netz vor. Durch das Kneten verknüpfen wir die Fäden zu einem stabilen Netz, das die Luftbläschen festhält.
-* **Weizen:** Mag es, kräftig geknetet zu werden.
-* **Dinkel:** Ist empfindlich. Zu viel Kneten zerreißt das Netz wieder (der Teig wird nass und glänzend).
-* **Roggen:** Hat kein solches Netz. Roggen wird nur gemischt.
-
-### Warten (Gare)
-Sauerteig ist wilde Biologie: Hefen und Milchsäurebakterien. Die brauchen Zeit, um den Zucker im Mehl zu futtern und dabei CO₂ zu produzieren (das macht die Löcher) und Säure zu bilden (das macht den Geschmack). Zeit ist die wichtigste Zutat.
-
-### Falten
-Wenn der Teig ruht, entspannt er sich und läuft breit. Durch das Dehnen und Falten ("Coil Fold") bringen wir wieder Spannung in das Paket, damit das Brot im Ofen nach oben aufgeht und nicht in die Breite fließt.
-
 ===== START FILE: sauerteig/_index.md =====
 ---
 title: Die Sauerteig-Schule
@@ -506,6 +480,45 @@ Du hast zwei Möglichkeiten:
     Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, max. 4 Min).
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
+===== START FILE: rezepte/kartoffel-walnuss.md =====
+---
+title: Kartoffel-Walnuss-Wunder
+weight: 70
+---
+
+# Das Kartoffel-Walnuss-Wunder
+
+*Ein absoluter Banger. Durch die gekochten Kartoffeln wird die Krume wattig-weich und hält tagelang frisch. Die gerösteten Walnüsse sorgen für den Biss.*
+
+## Vorbereitung
+1.  **Kartoffeln:** 150 g (Standard) bzw. 225 g (XL) mehligkochende Kartoffeln weich kochen, pellen und **fein zerstampfen**. Komplett auskühlen lassen!
+2.  **Nüsse:** Walnüsse grob hacken und in einer Pfanne ohne Fett kurz anrösten, bis sie duften. Abkühlen lassen.
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *80 %* | *400 g* | *600 g* |
+| *...Roggen 1150* | *20 %* | *100 g* | *150 g* |
+| **Wasser** | *60 %* | **300 ml** | **450 ml** |
+| **Kartoffeln (gekocht)** | *30 %* | **150 g** | **225 g** |
+| **Walnüsse** | *20 %* | **100 g** | **150 g** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+| **Hefe** (optional) | - | 1 g (für den Boost) | 2 g |
+| **Muskat** | - | 1 Prise (Geheimtipp!) | 1 Prise |
+
+**Achtung beim Wasser:** Kartoffeln bringen Feuchtigkeit mit. Fang mit etwas weniger Wasser an und schütte nur nach, wenn der Teig zu fest ist.
+
+## Der Ablauf
+
+Folge für dieses Spezialbrot dem **[Standard-Ablauf](../../technik/standard/)**. *(Die Faule Nacht funktioniert hier nicht gut, da die Kartoffeln und die optionale Hefe den Teig zu schnell gären lassen).*
+
+* **Besonderheiten beim Kneten:** Gib die Prise Muskat direkt zum Salz. Knete den Teig gut aus (Stufe 2, ca. 8 Min).
+* **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen.
+* **Wichtig:** Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach!
+
 ===== START FILE: rezepte/reformer.md =====
 ---
 title: Der Reformer
@@ -579,75 +592,127 @@ weight: 90
     * **30 Minuten mit Deckel** backen (der eigene Dampf des Brotes hält die Kruste weich und sorgt für Ofentrieb).
     * Deckel abnehmen, Temperatur auf **220 °C** reduzieren und weitere **15 Minuten** knusprig braun ausbacken.
 
-===== START FILE: rezepte/schokokuchen.md =====
+===== START FILE: rezepte/ciabatta-style.md =====
 ---
-title: Sauerteig-Schokokuchen
-weight: 190
+title: Die Luftnummer (Ciabatta-Style)
+weight: 100
 ---
 
-# Sauerteig-Schokokuchen
+# Die Luftnummer (Ciabatta-Style)
 
-*Die perfekte Reste-Verwertung ("Discard"). Super saftig, tiefschokoladig und extrem fluffig.*
+*Große Löcher, knusprige Kruste, weicher Kern. Eigentlich unmöglich in der Form, aber wir tricksen die Physik aus.*
 
-**Keine Panik:** Der Teig ist am Ende flüssig wie eine dicke Suppe. Das muss so sein! Das kochende Wasser ist der Geheimtrick: Es löst die Kakao-Aromen und macht den Kuchen unverschämt saftig.
+**Wichtig:** Dies ist ein **High-Hydration-Teig** (sehr weich). Er fühlt sich an wie Wackelpudding. Keine Panik, das muss so!
+
+## Die Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
+| **Wasser (Gesamt)** | *80 %* | **400 ml** | **600 ml** |
+| *...Start-Wasser* | | *350 ml* | *525 ml* |
+| *...Schluckweise* | | *50 ml* | *75 ml* |
+| **Olivenöl** | *6 %* | **30 g** | **45 g** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Salz** | *2,2 %* | **11 g** | **16 g** |
+| **Hefe** | - | 2 g (Optional für den Turbo) | 3 g |
+
+*Profi-Tipp:* Wenn du hast, nimm **Tipo 00 Mehl** oder spezielles **Manitoba-Mehl**. Das kann das viele Wasser besser halten als normales 550er. Geht aber auch mit 550er, wenn du gut knetest.
+
+## Der Ablauf (Bassinage-Technik)
+
+Wir geben das Wasser nicht auf einmal rein, sonst kriegst du nur Suppe. Wir nutzen die **Bassinage** (das schluckweise Nachgießen).
+
+1.  **Phase: Fermentolyse (Quellphase) (fest)**
+    * Mehl mit dem **Start-Wasser** (350ml) und dem Sauerteig mischen.
+    * Es entsteht ein ruppiger Teig. 30–45 Minuten stehen lassen.
+
+2.  **Phase: Kneten & Trinken lassen**
+    * Salz dazu. Maschine an (Stufe 2).
+    * Jetzt das restliche Wasser (**50ml**) esslöffelweise dazugeben. Immer warten, bis der Teig das Wasser "getrunken" hat, bevor der nächste Löffel kommt.
+    * Das dauert! Knete insgesamt **10–12 Minuten**. Der Teig muss sich komplett vom Rand lösen und fast durchsichtig dehnbar sein ("Fenstertest").
+
+3.  **Phase: Das Öl**
+    * Ganz am Ende das Olivenöl langsam einlaufen lassen und nur noch kurz unterkneten (Stufe 1), bis der Teig wieder glänzt.
+
+4.  **Phase: Stockgare & Coil Folds (Pflicht!)**
+    * Gib den Teig in eine geölte Wanne/Schüssel.
+    * **Falten ist hier alles:** Dehne und falte den Teig ("Coil Fold") alle 30 Minuten für die ersten 2 Stunden (insgesamt 4x). Das baut das Gerüst auf, das die Luft hält.
+    * Danach noch 1–2 Stunden ruhen lassen, bis er sich **verdoppelt** hat und Blasen wirft.
+
+5.  **Phase: Ab in den Kasten (Vorsicht!)**
+    * Kastenform gut mit Olivenöl fetten und mit Grieß/Mehl ausstreuen.
+    * Den Teig **ganz vorsichtig** aus der Wanne in den Kasten gleiten lassen. **Nicht drücken! Nicht kneten!** Wir wollen keine einzige Luftblase zerstören.
+    * Wenn er ungleichmäßig liegt: Einfach warten. Die Schwerkraft regelt das in 10 Minuten.
+
+6.  **Phase: Backen**
+    * Ofen auf **250 °C** vorheizen (mit viel Dampf!).
+    * Kasten rein. 10 Minuten bei 250 °C.
+    * Runter auf **220 °C** und weitere **35–40 Minuten** backen. Er muss dunkelbraun und knusprig sein.
+    * Aus der Form stürzen und auf dem Rost auskühlen lassen (das ist schwer, weil es so gut riecht, aber er muss stabil werden).
+
+===== START FILE: rezepte/zupfbrot.md =====
+---
+title: Das Zupfbrot (Knoblauch & Kräuter)
+weight: 110
+---
+
+# Das Zupfbrot (Pull-Apart Bread)
+
+*Der ultimative Eisbrecher für Gäste. Luftige Teigbällchen, getränkt in Knoblauchbutter und Kräutern. Jeder reißt sich ein Stück ab.*
+
+**Perfekt zu:** Pasta, Grillabenden oder Wein.
 
 ## Zutaten (Teig)
 
-| Zutat | Standard (1 Springform 24cm / Kasten) | XL (Für ein tiefes Backblech) |
-| :--- | :--- | :--- |
-| **Sauerteig-Reste** (inaktiv ist völlig ok) | **200 g** | **300 g** |
-| **Weizenmehl 550** (oder Dinkel 630) | **250 g** | **375 g** |
-| **Zucker** | **200 g** | **300 g** |
-| **Backkakao** (ungesüßt) | **100 g** | **150 g** |
-| **Natron** | 1 TL | 1,5 TL |
-| **Backpulver** | 1 TL | 1,5 TL |
-| **Salz** | 1 kräftige Prise | 2 Prisen |
-| **Eier** (Größe M) | **2 Stück** | **3 Stück** |
-| **Öl** (Raps- oder Sonnenblumenöl) | **120 ml** | **180 ml** |
-| **Milch** | **250 ml** | **375 ml** |
-| **Kochendes Wasser** (Pflicht!) | **150 ml** | **225 ml** |
+| Zutat | Menge |
+| :--- | :--- |
+| **Mehl** (Weizen 550) | 450 g |
+| **Sauerteig-Reste** (Discard) | 100 g |
+| **Milch** (lauwarm) | 150 ml |
+| **Wasser** (lauwarm) | 100 ml |
+| **Hefe** (Frisch) | 5 g (für die Fluffigkeit) |
+| **Zucker/Honig** | 1 TL |
+| **Salz** | 8 g |
+| **Olivenöl** | 30 ml |
 
-## Der "Speicherstadt"-Schoko-Turbo (Das Ganache-Finish)
-*Für alle, denen "schokoladig" noch nicht genug ist.*
-
-| Zutat | Standard | XL |
-| :--- | :--- | :--- |
-| **Zartbitterschokolade** (min. 70%) | **100 g** | **150 g** |
-| **Schlagsahne** | **100 ml** | **150 ml** |
-| **Flockensalz** (Meersalz) | 1 Prise | 2 Prisen |
+## Die "Magie" (Zum Tauchen)
+* **Butter:** 80 g (geschmolzen)
+* **Knoblauch:** 2–3 Zehen (gepresst)
+* **Kräuter:** 1 Handvoll Petersilie oder Rosmarin (gehackt)
+* **Parmesan:** 30 g (optional, gerieben)
+* **Salz:** 1 Prise (grob)
 
 ## Der Ablauf
-1.  **Phase: Die trockenen Zutaten**
-    * Mehl, Zucker, Kakao, Natron, Backpulver und Salz in einer großen Schüssel gut mit einem Schneebesen vermischen, damit keine Kakao-Klümpchen bleiben.
-2.  **Phase: Die nassen Zutaten**
-    * In einer zweiten Schüssel die Sauerteig-Reste, Eier, Öl und Milch glattrühren.
-    * Die nasse Mischung zu den trockenen Zutaten geben und kurz verrühren, bis ein dicker Teig entsteht.
-3.  **Phase: Die Kakao-Explosion**
-    * Jetzt das **kochende Wasser** in einem Rutsch dazugießen und mit dem Schneebesen zügig unterrühren. Der Teig wird jetzt sehr flüssig – das ist exakt richtig!
-4.  **Phase: Backen**
-    * Den flüssigen Teig sofort in eine gut gefettete (oder mit Backpapier ausgelegte) Form gießen.
-    * Im vorgeheizten Ofen bei **180 °C (Ober-/Unterhitze)** backen. 
-    * *Standard-Form:* ca. **45–55 Minuten**.
-    * *XL-Blech:* ca. **35–40 Minuten**.
-    * *Stäbchenprobe machen:* Es darf noch feucht sein, aber kein flüssiger Teig mehr am Holzstäbchen kleben. Komplett in der Form auskühlen lassen (er ist warm sehr zerbrechlich!).
-5.  **Phase: Das "Speicherstadt"-Finish (optional)**
-    * Die Zartbitterschokolade fein hacken und in eine hitzefeste Schüssel geben.
-    * Die Sahne in einem kleinen Topf kurz aufkochen und direkt über die gehackte Schokolade gießen.
-    * **2 Minuten in Ruhe stehen lassen** (nicht rühren, sonst kühlt es zu schnell ab!).
-    * Dann mit einem Löffel (von der Mitte aus) zu einer glänzenden, dunklen Creme verrühren.
-    * Über den **komplett abgekühlten** Kuchen gießen, glattstreichen und zum Schluss etwas flockiges Meersalz darüberstreuen. Fest werden lassen.
 
-## Der Vegan-Hack (Saftiger geht's nicht)
+1.  **Der Teig:**
+    * Löse Hefe und Sauerteig in der Milch-Wasser-Mischung auf.
+    * Gib Mehl, Zucker, Salz und Öl dazu.
+    * Knete ca. **5–8 Minuten**, bis der Teig weich, glatt und elastisch ist. Er darf leicht kleben, soll sich aber von der Schüssel lösen.
+    * **Ruhe:** Abgedeckt 60 Minuten an einem warmen Ort gehen lassen (Volumen verdoppeln).
 
-*Schokokuchen lässt sich extrem leicht veganisieren. Das Geheimnis? Pflanzenöl macht den Teig sogar noch saftiger als Butter, und die Säure des Sauerteigs übernimmt zusammen mit dem Natron die Fluffigkeit, für die man sonst Eier braucht.*
+2.  **Die Bällchen:**
+    * Mische die geschmolzene Butter mit Knoblauch, Kräutern und Salz in einer kleinen Schale.
+    * Kipp den Teig auf die Arbeitsfläche. Teile ihn in ca. **20–25 kleine Stücke** (Größe einer Walnuss/Tischtennisball).
+    * Forme grobe Kugeln (muss nicht perfekt rund sein).
 
-Tausche die klassischen Zutaten einfach so aus:
+3.  **Das Tauchen & Stapeln:**
+    * Fette deine Kastenform.
+    * Jetzt kommt der Spaß: Tunke jede Teigkugel in die Knoblauchbutter, wälze sie kurz (oder pinsle sie ein) und wirf sie in die Kastenform.
+    * Staple sie einfach wild übereinander ("Chaos-Prinzip").
+    * Wenn noch Butter oder Kräuter übrig sind: Einfach oben drüber gießen. Parmesan drüber streuen.
 
-* **Die Butter:** Ersetze sie durch neutrales Pflanzenöl (z. B. Rapsöl oder Sonnenblumenöl). Rechne hier ca. 80 g Öl für 100 g Butter. Alternativ kannst du 1:1 einen veganen Butter-Block nehmen.
-* **Die Milch:** Nimm einfach Hafermilch oder Sojamilch. 
-  *Der Profi-Tipp:* Gib einen Spritzer Apfelessig in die Sojamilch und lass sie 5 Minuten stehen. Sie flockt aus und wird zu veganer Buttermilch. Das macht die Krume unfassbar zart!
-* **Das Ei:** Brauchst du eigentlich gar nicht, wenn du 1/2 TL Natron im Teig hast, das mit dem Sauerteig reagiert. Wenn du auf Nummer sicher gehen willst, was die Bindung angeht, nimm **2 gehäufte Esslöffel Apfelmus** (schmeckt man im Schokokuchen null!) oder ein "Leinsamen-Ei" (1 EL geschrotete Leinsamen + 3 EL Wasser verrühren und 5 Minuten andicken lassen).
-* **Die Schokolade:** Achte bei den Schokotröpfchen oder dem Kakaopulver einfach darauf, dass es reine Zartbitterschokolade ohne zugesetztes Milchpulver ist (die meisten hochwertigen sind eh von Natur aus vegan).
+4.  **Zweite Ruhe (Wichtig!):**
+    * Lass den Kasten nochmal **30–45 Minuten** stehen, bis die Bällchen fluffig aufgegangen sind und die Lücken füllen.
+
+5.  **Backen:**
+    * Bei **190 °C (Ober-/Unterhitze)** für ca. **30–35 Minuten**.
+    * Wenn es oben zu dunkel wird (Knoblauch verbrennt schnell bitter!), decke es nach 20 Min. mit Alufolie ab.
+
+6.  **Servieren:**
+    * Kurz (5 Min) in der Form abkühlen lassen, dann warm stürzen. Sofort servieren.
+
 
 ===== START FILE: rezepte/kiez-pizza.md =====
 ---
@@ -690,6 +755,52 @@ weight: 120
 3. **Das Auskühlen (WICHTIG!):** Hol den Boden raus und leg ihn **sofort auf einen Gitterrost**. Würdest du ihn auf dem Blech abkühlen lassen, bildet sich Schwitzwasser und der Teig wird labbrig. Lass ihn komplett eiskalt werden.
 4. **Einfrieren:** Wickel die kalten Böden straff in Frischhaltefolie ein oder nutze große Zip-Beutel. So kannst du sie wie Frisbees im Tiefkühler stapeln (halten sich locker 2–3 Monate).
 5. **Der Anti-Labbrig-Trick (Aufbacken):** Wenn du Pizza willst, heiz den Ofen auf Maximum vor. Hol den **steinhart gefrorenen** Boden aus dem Eis, belege ihn sofort (nicht auftauen lassen!) und schieb ihn gefroren in den heißen Ofen. Das Wasser verdampft schlagartig und der Boden wird ultra-knusprig!
+
+===== START FILE: rezepte/hanse-brioche.md =====
+---
+title: Hanse-Brioche
+weight: 130
+---
+
+# Das Hanse-Brioche
+
+*Wolkig, buttrig, sündhaft. Der Endgegner für das Sonntagsfrühstück oder als Basis für French Toast.*
+
+**Warnung:** Dies ist kein Diät-Brot. Hier arbeiten Butter und Eier für den Geschmack.
+
+## Zutaten
+
+| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- | :--- |
+| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
+| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
+| **Milch** (kalt) | *45 %* | **225 ml** | **340 ml** |
+| **Eier** (M) | *20 %* | **2 Stück** (ca. 100g) | **3 Stück** |
+| **Sauerteig** | *20 %* | **100 g** | **150 g** |
+| **Zucker** | *12 %* | **60 g** | **90 g** |
+| **Salz** | *2 %* | **10 g** | **15 g** |
+| **Butter** (kalt!) | *20 %* | **100 g** | **150 g** |
+| **Hefe** (Frisch) | - | 3 g (für den Trieb) | 5 g |
+
+## Der besondere Ablauf (Fett kommt später!)
+
+Brioche-Teige sind "Diven". Das Fett verhindert die Glutenbildung, deshalb muss es **zum Schluss** rein. Es gibt hier keine Fermentolyse.
+
+1.  **Phase: Mischen (Ohne Butter!)**
+    * Mehl, Milch, Sauerteig, Hefe, Zucker und Eier in die Schüssel.
+    * Knete auf Stufe 1 für 2–3 Minuten, bis alles vermischt ist. Lass den Teig 20 Minuten ruhen.
+2.  **Phase: Kneten (Der Struktur-Aufbau)**
+    * Salz dazu. Jetzt auf Stufe 2–3 (mittelschnell) kneten. Der Teig muss sich komplett vom Schüsselrand lösen (ca. 8–10 Minuten).
+3.  **Phase: Die Butter-Injektion**
+    * Schneide die kalte Butter in kleine Würfel. Schalte die Maschine auf Stufe 2 und wirf Stück für Stück die Butter hinein.
+    * Wenn alle Butter drin ist: Weiterkneten, bis der Teig seidig glänzt und "schmatzt".
+4.  **Phase: Stockgare (Kühl)**
+    * Lass den Teig 2 Stunden bei Raumtemperatur anspringen (einmal falten nach 1 Stunde).
+    * **Dann ab in den Kühlschrank!** Lass ihn mindestens 2 Stunden kühlen, damit die Butter fest wird und er sich formen lässt.
+5.  **Phase: Formen & Backen**
+    * Teile den kalten Teig in 4 (Standard) oder 6 (XL) gleich große Stücke, forme Kugeln und setze sie nebeneinander in die gefettete Kastenform.
+    * Ca. 2–3 Stunden warm gehen lassen. Mit Ei bestreichen.
+    * Bei **190 °C (Ober-/Unterhitze)** für ca. 35–40 Minuten backen.
 
 ===== START FILE: rezepte/pancakes.md =====
 ---
@@ -882,212 +993,75 @@ weight: 180
 
 *Tipp:* Schmeckt lauwarm mit Schlagsahne am besten.
 
-===== START FILE: rezepte/kartoffel-walnuss.md =====
+===== START FILE: rezepte/schokokuchen.md =====
 ---
-title: Kartoffel-Walnuss-Wunder
-weight: 70
----
-
-# Das Kartoffel-Walnuss-Wunder
-
-*Ein absoluter Banger. Durch die gekochten Kartoffeln wird die Krume wattig-weich und hält tagelang frisch. Die gerösteten Walnüsse sorgen für den Biss.*
-
-## Vorbereitung
-1.  **Kartoffeln:** 150 g (Standard) bzw. 225 g (XL) mehligkochende Kartoffeln weich kochen, pellen und **fein zerstampfen**. Komplett auskühlen lassen!
-2.  **Nüsse:** Walnüsse grob hacken und in einer Pfanne ohne Fett kurz anrösten, bis sie duften. Abkühlen lassen.
-
-## Zutaten
-
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Weizen 550* | *80 %* | *400 g* | *600 g* |
-| *...Roggen 1150* | *20 %* | *100 g* | *150 g* |
-| **Wasser** | *60 %* | **300 ml** | **450 ml** |
-| **Kartoffeln (gekocht)** | *30 %* | **150 g** | **225 g** |
-| **Walnüsse** | *20 %* | **100 g** | **150 g** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Salz** | *2 %* | **10 g** | **15 g** |
-| **Hefe** (optional) | - | 1 g (für den Boost) | 2 g |
-| **Muskat** | - | 1 Prise (Geheimtipp!) | 1 Prise |
-
-**Achtung beim Wasser:** Kartoffeln bringen Feuchtigkeit mit. Fang mit etwas weniger Wasser an und schütte nur nach, wenn der Teig zu fest ist.
-
-## Der Ablauf
-
-Folge für dieses Spezialbrot dem **[Standard-Ablauf](../../technik/standard/)**. *(Die Faule Nacht funktioniert hier nicht gut, da die Kartoffeln und die optionale Hefe den Teig zu schnell gären lassen).*
-
-* **Besonderheiten beim Kneten:** Gib die Prise Muskat direkt zum Salz. Knete den Teig gut aus (Stufe 2, ca. 8 Min).
-* **Ganz zum Schluss:** Die gerösteten Walnüsse nur kurz und langsam (Stufe 1) unterkneten, damit sie den Teig nicht zerreißen.
-* **Wichtig:** Da Kartoffelteige sehr aktiv gären können, schau bei der Stockgare öfter mal nach!
-
-===== START FILE: rezepte/hanse-brioche.md =====
----
-title: Hanse-Brioche
-weight: 130
+title: Sauerteig-Schokokuchen
+weight: 190
 ---
 
-# Das Hanse-Brioche
+# Sauerteig-Schokokuchen
 
-*Wolkig, buttrig, sündhaft. Der Endgegner für das Sonntagsfrühstück oder als Basis für French Toast.*
+*Die perfekte Reste-Verwertung ("Discard"). Super saftig, tiefschokoladig und extrem fluffig.*
 
-**Warnung:** Dies ist kein Diät-Brot. Hier arbeiten Butter und Eier für den Geschmack.
-
-## Zutaten
-
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
-| **Milch** (kalt) | *45 %* | **225 ml** | **340 ml** |
-| **Eier** (M) | *20 %* | **2 Stück** (ca. 100g) | **3 Stück** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Zucker** | *12 %* | **60 g** | **90 g** |
-| **Salz** | *2 %* | **10 g** | **15 g** |
-| **Butter** (kalt!) | *20 %* | **100 g** | **150 g** |
-| **Hefe** (Frisch) | - | 3 g (für den Trieb) | 5 g |
-
-## Der besondere Ablauf (Fett kommt später!)
-
-Brioche-Teige sind "Diven". Das Fett verhindert die Glutenbildung, deshalb muss es **zum Schluss** rein. Es gibt hier keine Fermentolyse.
-
-1.  **Phase: Mischen (Ohne Butter!)**
-    * Mehl, Milch, Sauerteig, Hefe, Zucker und Eier in die Schüssel.
-    * Knete auf Stufe 1 für 2–3 Minuten, bis alles vermischt ist. Lass den Teig 20 Minuten ruhen.
-2.  **Phase: Kneten (Der Struktur-Aufbau)**
-    * Salz dazu. Jetzt auf Stufe 2–3 (mittelschnell) kneten. Der Teig muss sich komplett vom Schüsselrand lösen (ca. 8–10 Minuten).
-3.  **Phase: Die Butter-Injektion**
-    * Schneide die kalte Butter in kleine Würfel. Schalte die Maschine auf Stufe 2 und wirf Stück für Stück die Butter hinein.
-    * Wenn alle Butter drin ist: Weiterkneten, bis der Teig seidig glänzt und "schmatzt".
-4.  **Phase: Stockgare (Kühl)**
-    * Lass den Teig 2 Stunden bei Raumtemperatur anspringen (einmal falten nach 1 Stunde).
-    * **Dann ab in den Kühlschrank!** Lass ihn mindestens 2 Stunden kühlen, damit die Butter fest wird und er sich formen lässt.
-5.  **Phase: Formen & Backen**
-    * Teile den kalten Teig in 4 (Standard) oder 6 (XL) gleich große Stücke, forme Kugeln und setze sie nebeneinander in die gefettete Kastenform.
-    * Ca. 2–3 Stunden warm gehen lassen. Mit Ei bestreichen.
-    * Bei **190 °C (Ober-/Unterhitze)** für ca. 35–40 Minuten backen.
-
-===== START FILE: rezepte/ciabatta-style.md =====
----
-title: Die Luftnummer (Ciabatta-Style)
-weight: 100
----
-
-# Die Luftnummer (Ciabatta-Style)
-
-*Große Löcher, knusprige Kruste, weicher Kern. Eigentlich unmöglich in der Form, aber wir tricksen die Physik aus.*
-
-**Wichtig:** Dies ist ein **High-Hydration-Teig** (sehr weich). Er fühlt sich an wie Wackelpudding. Keine Panik, das muss so!
-
-## Die Zutaten
-
-| Zutat | Bäcker-% | Standard (1 Kasten) | XL (Großer Kasten) |
-| :--- | :--- | :--- | :--- |
-| **Gesamtmehl** | **100 %** | **500 g** | **750 g** |
-| *...Weizen 550* | *100 %* | *500 g* | *750 g* |
-| **Wasser (Gesamt)** | *80 %* | **400 ml** | **600 ml** |
-| *...Start-Wasser* | | *350 ml* | *525 ml* |
-| *...Schluckweise* | | *50 ml* | *75 ml* |
-| **Olivenöl** | *6 %* | **30 g** | **45 g** |
-| **Sauerteig** | *20 %* | **100 g** | **150 g** |
-| **Salz** | *2,2 %* | **11 g** | **16 g** |
-| **Hefe** | - | 2 g (Optional für den Turbo) | 3 g |
-
-*Profi-Tipp:* Wenn du hast, nimm **Tipo 00 Mehl** oder spezielles **Manitoba-Mehl**. Das kann das viele Wasser besser halten als normales 550er. Geht aber auch mit 550er, wenn du gut knetest.
-
-## Der Ablauf (Bassinage-Technik)
-
-Wir geben das Wasser nicht auf einmal rein, sonst kriegst du nur Suppe. Wir nutzen die **Bassinage** (das schluckweise Nachgießen).
-
-1.  **Phase: Fermentolyse (Quellphase) (fest)**
-    * Mehl mit dem **Start-Wasser** (350ml) und dem Sauerteig mischen.
-    * Es entsteht ein ruppiger Teig. 30–45 Minuten stehen lassen.
-
-2.  **Phase: Kneten & Trinken lassen**
-    * Salz dazu. Maschine an (Stufe 2).
-    * Jetzt das restliche Wasser (**50ml**) esslöffelweise dazugeben. Immer warten, bis der Teig das Wasser "getrunken" hat, bevor der nächste Löffel kommt.
-    * Das dauert! Knete insgesamt **10–12 Minuten**. Der Teig muss sich komplett vom Rand lösen und fast durchsichtig dehnbar sein ("Fenstertest").
-
-3.  **Phase: Das Öl**
-    * Ganz am Ende das Olivenöl langsam einlaufen lassen und nur noch kurz unterkneten (Stufe 1), bis der Teig wieder glänzt.
-
-4.  **Phase: Stockgare & Coil Folds (Pflicht!)**
-    * Gib den Teig in eine geölte Wanne/Schüssel.
-    * **Falten ist hier alles:** Dehne und falte den Teig ("Coil Fold") alle 30 Minuten für die ersten 2 Stunden (insgesamt 4x). Das baut das Gerüst auf, das die Luft hält.
-    * Danach noch 1–2 Stunden ruhen lassen, bis er sich **verdoppelt** hat und Blasen wirft.
-
-5.  **Phase: Ab in den Kasten (Vorsicht!)**
-    * Kastenform gut mit Olivenöl fetten und mit Grieß/Mehl ausstreuen.
-    * Den Teig **ganz vorsichtig** aus der Wanne in den Kasten gleiten lassen. **Nicht drücken! Nicht kneten!** Wir wollen keine einzige Luftblase zerstören.
-    * Wenn er ungleichmäßig liegt: Einfach warten. Die Schwerkraft regelt das in 10 Minuten.
-
-6.  **Phase: Backen**
-    * Ofen auf **250 °C** vorheizen (mit viel Dampf!).
-    * Kasten rein. 10 Minuten bei 250 °C.
-    * Runter auf **220 °C** und weitere **35–40 Minuten** backen. Er muss dunkelbraun und knusprig sein.
-    * Aus der Form stürzen und auf dem Rost auskühlen lassen (das ist schwer, weil es so gut riecht, aber er muss stabil werden).
-
-===== START FILE: rezepte/zupfbrot.md =====
----
-title: Das Zupfbrot (Knoblauch & Kräuter)
-weight: 110
----
-
-# Das Zupfbrot (Pull-Apart Bread)
-
-*Der ultimative Eisbrecher für Gäste. Luftige Teigbällchen, getränkt in Knoblauchbutter und Kräutern. Jeder reißt sich ein Stück ab.*
-
-**Perfekt zu:** Pasta, Grillabenden oder Wein.
+**Keine Panik:** Der Teig ist am Ende flüssig wie eine dicke Suppe. Das muss so sein! Das kochende Wasser ist der Geheimtrick: Es löst die Kakao-Aromen und macht den Kuchen unverschämt saftig.
 
 ## Zutaten (Teig)
 
-| Zutat | Menge |
-| :--- | :--- |
-| **Mehl** (Weizen 550) | 450 g |
-| **Sauerteig-Reste** (Discard) | 100 g |
-| **Milch** (lauwarm) | 150 ml |
-| **Wasser** (lauwarm) | 100 ml |
-| **Hefe** (Frisch) | 5 g (für die Fluffigkeit) |
-| **Zucker/Honig** | 1 TL |
-| **Salz** | 8 g |
-| **Olivenöl** | 30 ml |
+| Zutat | Standard (1 Springform 24cm / Kasten) | XL (Für ein tiefes Backblech) |
+| :--- | :--- | :--- |
+| **Sauerteig-Reste** (inaktiv ist völlig ok) | **200 g** | **300 g** |
+| **Weizenmehl 550** (oder Dinkel 630) | **250 g** | **375 g** |
+| **Zucker** | **200 g** | **300 g** |
+| **Backkakao** (ungesüßt) | **100 g** | **150 g** |
+| **Natron** | 1 TL | 1,5 TL |
+| **Backpulver** | 1 TL | 1,5 TL |
+| **Salz** | 1 kräftige Prise | 2 Prisen |
+| **Eier** (Größe M) | **2 Stück** | **3 Stück** |
+| **Öl** (Raps- oder Sonnenblumenöl) | **120 ml** | **180 ml** |
+| **Milch** | **250 ml** | **375 ml** |
+| **Kochendes Wasser** (Pflicht!) | **150 ml** | **225 ml** |
 
-## Die "Magie" (Zum Tauchen)
-* **Butter:** 80 g (geschmolzen)
-* **Knoblauch:** 2–3 Zehen (gepresst)
-* **Kräuter:** 1 Handvoll Petersilie oder Rosmarin (gehackt)
-* **Parmesan:** 30 g (optional, gerieben)
-* **Salz:** 1 Prise (grob)
+## Der "Speicherstadt"-Schoko-Turbo (Das Ganache-Finish)
+*Für alle, denen "schokoladig" noch nicht genug ist.*
+
+| Zutat | Standard | XL |
+| :--- | :--- | :--- |
+| **Zartbitterschokolade** (min. 70%) | **100 g** | **150 g** |
+| **Schlagsahne** | **100 ml** | **150 ml** |
+| **Flockensalz** (Meersalz) | 1 Prise | 2 Prisen |
 
 ## Der Ablauf
+1.  **Phase: Die trockenen Zutaten**
+    * Mehl, Zucker, Kakao, Natron, Backpulver und Salz in einer großen Schüssel gut mit einem Schneebesen vermischen, damit keine Kakao-Klümpchen bleiben.
+2.  **Phase: Die nassen Zutaten**
+    * In einer zweiten Schüssel die Sauerteig-Reste, Eier, Öl und Milch glattrühren.
+    * Die nasse Mischung zu den trockenen Zutaten geben und kurz verrühren, bis ein dicker Teig entsteht.
+3.  **Phase: Die Kakao-Explosion**
+    * Jetzt das **kochende Wasser** in einem Rutsch dazugießen und mit dem Schneebesen zügig unterrühren. Der Teig wird jetzt sehr flüssig – das ist exakt richtig!
+4.  **Phase: Backen**
+    * Den flüssigen Teig sofort in eine gut gefettete (oder mit Backpapier ausgelegte) Form gießen.
+    * Im vorgeheizten Ofen bei **180 °C (Ober-/Unterhitze)** backen. 
+    * *Standard-Form:* ca. **45–55 Minuten**.
+    * *XL-Blech:* ca. **35–40 Minuten**.
+    * *Stäbchenprobe machen:* Es darf noch feucht sein, aber kein flüssiger Teig mehr am Holzstäbchen kleben. Komplett in der Form auskühlen lassen (er ist warm sehr zerbrechlich!).
+5.  **Phase: Das "Speicherstadt"-Finish (optional)**
+    * Die Zartbitterschokolade fein hacken und in eine hitzefeste Schüssel geben.
+    * Die Sahne in einem kleinen Topf kurz aufkochen und direkt über die gehackte Schokolade gießen.
+    * **2 Minuten in Ruhe stehen lassen** (nicht rühren, sonst kühlt es zu schnell ab!).
+    * Dann mit einem Löffel (von der Mitte aus) zu einer glänzenden, dunklen Creme verrühren.
+    * Über den **komplett abgekühlten** Kuchen gießen, glattstreichen und zum Schluss etwas flockiges Meersalz darüberstreuen. Fest werden lassen.
 
-1.  **Der Teig:**
-    * Löse Hefe und Sauerteig in der Milch-Wasser-Mischung auf.
-    * Gib Mehl, Zucker, Salz und Öl dazu.
-    * Knete ca. **5–8 Minuten**, bis der Teig weich, glatt und elastisch ist. Er darf leicht kleben, soll sich aber von der Schüssel lösen.
-    * **Ruhe:** Abgedeckt 60 Minuten an einem warmen Ort gehen lassen (Volumen verdoppeln).
+## Der Vegan-Hack (Saftiger geht's nicht)
 
-2.  **Die Bällchen:**
-    * Mische die geschmolzene Butter mit Knoblauch, Kräutern und Salz in einer kleinen Schale.
-    * Kipp den Teig auf die Arbeitsfläche. Teile ihn in ca. **20–25 kleine Stücke** (Größe einer Walnuss/Tischtennisball).
-    * Forme grobe Kugeln (muss nicht perfekt rund sein).
+*Schokokuchen lässt sich extrem leicht veganisieren. Das Geheimnis? Pflanzenöl macht den Teig sogar noch saftiger als Butter, und die Säure des Sauerteigs übernimmt zusammen mit dem Natron die Fluffigkeit, für die man sonst Eier braucht.*
 
-3.  **Das Tauchen & Stapeln:**
-    * Fette deine Kastenform.
-    * Jetzt kommt der Spaß: Tunke jede Teigkugel in die Knoblauchbutter, wälze sie kurz (oder pinsle sie ein) und wirf sie in die Kastenform.
-    * Staple sie einfach wild übereinander ("Chaos-Prinzip").
-    * Wenn noch Butter oder Kräuter übrig sind: Einfach oben drüber gießen. Parmesan drüber streuen.
+Tausche die klassischen Zutaten einfach so aus:
 
-4.  **Zweite Ruhe (Wichtig!):**
-    * Lass den Kasten nochmal **30–45 Minuten** stehen, bis die Bällchen fluffig aufgegangen sind und die Lücken füllen.
-
-5.  **Backen:**
-    * Bei **190 °C (Ober-/Unterhitze)** für ca. **30–35 Minuten**.
-    * Wenn es oben zu dunkel wird (Knoblauch verbrennt schnell bitter!), decke es nach 20 Min. mit Alufolie ab.
-
-6.  **Servieren:**
-    * Kurz (5 Min) in der Form abkühlen lassen, dann warm stürzen. Sofort servieren.
-
+* **Die Butter:** Ersetze sie durch neutrales Pflanzenöl (z. B. Rapsöl oder Sonnenblumenöl). Rechne hier ca. 80 g Öl für 100 g Butter. Alternativ kannst du 1:1 einen veganen Butter-Block nehmen.
+* **Die Milch:** Nimm einfach Hafermilch oder Sojamilch. 
+  *Der Profi-Tipp:* Gib einen Spritzer Apfelessig in die Sojamilch und lass sie 5 Minuten stehen. Sie flockt aus und wird zu veganer Buttermilch. Das macht die Krume unfassbar zart!
+* **Das Ei:** Brauchst du eigentlich gar nicht, wenn du 1/2 TL Natron im Teig hast, das mit dem Sauerteig reagiert. Wenn du auf Nummer sicher gehen willst, was die Bindung angeht, nimm **2 gehäufte Esslöffel Apfelmus** (schmeckt man im Schokokuchen null!) oder ein "Leinsamen-Ei" (1 EL geschrotete Leinsamen + 3 EL Wasser verrühren und 5 Minuten andicken lassen).
+* **Die Schokolade:** Achte bei den Schokotröpfchen oder dem Kakaopulver einfach darauf, dass es reine Zartbitterschokolade ohne zugesetztes Milchpulver ist (die meisten hochwertigen sind eh von Natur aus vegan).
 
 ===== START FILE: wissen/_index.md =====
 ---
@@ -1098,6 +1072,32 @@ weight: 50
 # Wissenswertes & Tipps
 
 Hier findest du das theoretische Fundament, Werkzeug-Tipps und das Baby-Spezial.
+
+===== START FILE: wissen/philosophie.md =====
+---
+title: Philosophie & Grundlagen
+weight: 10
+---
+
+# Philosophie & Grundlagen
+
+Brotbacken ist Handwerk, aber vor allem ist es Gefühl. Das wichtigste Gesetz lautet: **Mehl ist ein Naturprodukt.** Es verhält sich jeden Tag ein bisschen anders, je nach Luftfeuchtigkeit in Hamburg oder der Temperatur in deiner Küche.
+
+Bevor du blind Wasser in die Schüssel kippst, schau dir an, wen du vor dir hast.
+
+## Warum machen wir das alles?
+
+### Kneten
+Im Weizen und Dinkel steckt Gluten (Klebereiweiß). Stell dir das wie ein Netz vor. Durch das Kneten verknüpfen wir die Fäden zu einem stabilen Netz, das die Luftbläschen festhält.
+* **Weizen:** Mag es, kräftig geknetet zu werden.
+* **Dinkel:** Ist empfindlich. Zu viel Kneten zerreißt das Netz wieder (der Teig wird nass und glänzend).
+* **Roggen:** Hat kein solches Netz. Roggen wird nur gemischt.
+
+### Warten (Gare)
+Sauerteig ist wilde Biologie: Hefen und Milchsäurebakterien. Die brauchen Zeit, um den Zucker im Mehl zu futtern und dabei CO₂ zu produzieren (das macht die Löcher) und Säure zu bilden (das macht den Geschmack). Zeit ist die wichtigste Zutat.
+
+### Falten
+Wenn der Teig ruht, entspannt er sich und läuft breit. Durch das Dehnen und Falten ("Coil Fold") bringen wir wieder Spannung in das Paket, damit das Brot im Ofen nach oben aufgeht und nicht in die Breite fließt.
 
 ===== START FILE: wissen/teigbearbeitung.md =====
 ---
@@ -1259,6 +1259,69 @@ Das Problem: Du streust Haferflocken auf das Brot, backst es, und beim Anschneid
 
 *Tipp für Roggen:* Reine Roggenbrote (wie der Hanseat) haben keinen starken Ofentrieb. Man sticht sie eher mit einem Holzstäbchen (Schaschlikspieß) ein paar Mal ein, damit Blasen entweichen können, oder lässt sie ganz wild von alleine aufreißen ("wilde Gare").
 
+===== START FILE: wissen/zeitplan.md =====
+---
+title: Der Zeitplan-Spickzettel
+weight: 60
+---
+
+# Der Zeitplan-Spickzettel (Alltags-Hacks)
+
+*„Wie soll ich backen, wenn ich den ganzen Tag arbeite?“* Das ist die häufigste Ausrede. Die gute Nachricht: Du musst nicht daneben stehen und dem Teig beim Wachsen zuschauen. Dein bester Freund ist der **Kühlschrank**. Er funktioniert wie eine Pause-Taste. Sobald der Teig im Kalten steht, gärt er nur noch im Schneckentempo weiter und wartet auf dich.
+
+Hier sind zwei praxiserprobte Fahrpläne für den normalen Alltag.
+
+## Fahrplan 1: Das "Feierabend-Brot" (Für 9-to-5 Jobs)
+*Du bereitest den Teig abends nebenbei vor und backst am nächsten Tag, wann es dir passt.*
+
+* **Tag 1 – Morgens (07:30 Uhr):** Bevor du aus dem Haus gehst, fütterst du deinen Sauerteig-Starter (z. B. 50g Wasser, 50g Mehl) und lässt ihn einfach auf der Arbeitsplatte stehen.
+* **Tag 1 – Abends (18:00 Uhr):** Du kommst nach Hause. Der Starter hat sich verdoppelt und ist bereit. Du mischst den Teig an (Fermentolyse) und knetest ihn.
+* **Tag 1 – Couch-Zeit (18:30 – 22:00 Uhr):** Der Teig ruht (Stockgare). Wenn du sowieso zum Kühlschrank gehst oder in der Küche bist, faltest du ihn ein- oder zweimal.
+* **Tag 1 – Bettzeit (22:00 Uhr):** Ab in die Kastenform und direkt in den Kühlschrank. 
+* **Tag 2 – Das Backen:** Jetzt hast du die Wahl! Der Teig kann problemlos 10 bis 24 Stunden im Kühlschrank bleiben. 
+  * *Option A:* Du backst ihn morgens vor der Arbeit frisch auf.
+  * *Option B:* Du lässt ihn im Kühlschrank, gehst arbeiten und schiebst ihn abends um 18:00 Uhr direkt kalt in den heißen Ofen. 
+
+## Fahrplan 2: Der "Lazy Weekend" Rhythmus
+*Perfekt, um Sonntagmorgen frisches, warmes Brot auf dem Tisch zu haben.*
+
+* **Freitagabend (22:00 Uhr):** Starter aus dem Kühlschrank holen und füttern. Stehen lassen.
+* **Samstagmorgen (09:00 Uhr):** Nach dem Frühstück den Teig anmischen und kneten.
+* **Samstagmittag (09:30 – 13:30 Uhr):** Stockgare bei Raumtemperatur. Ab und zu falten.
+* **Samstagnachmittag (14:00 Uhr):** Teig in die Form geben und ab in den Kühlschrank. Jetzt hast du den restlichen Samstag komplett frei!
+* **Sonntagmorgen (09:00 Uhr):** Ofen vorheizen, Brot eiskalt aus dem Kühlschrank in den Ofen schieben. Um 10:00 Uhr steht knisterndes Brot auf dem Frühstückstisch.
+
+## Die goldene Regel zur Temperatur
+* **Sommer (25°C+ in der Küche):** Alles passiert schneller! Der Starter ist in 4 Stunden fertig, die Stockgare dauert vielleicht nur 2,5 Stunden. 
+* **Winter (19°C in der Küche):** Alles dauert ewig. Nutze warmes Wasser (35°C) zum Anmischen oder stell den Teig in den (ausgeschalteten!) Ofen mit eingeschalteter Ofenlampe. Das bringt gemütliche 26°C.
+
+===== START FILE: wissen/erste-hilfe.md =====
+---
+title: Erste Hilfe (Troubleshooting)
+weight: 70
+---
+
+# Erste Hilfe & Troubleshooting
+
+*Keine Panik! Jeder Bäcker produziert ab und zu mal einen Ziegelstein oder ein Ufo. Brotbacken ist Natur – und die hält sich nicht immer an den Wecker. Hier ist die schnelle Diagnose, wenn mal etwas schiefgeht.*
+
+## Die Symptom-Tabelle
+
+| Das Problem (Symptom) | Die Diagnose (Ursache) | Die Rettung (Lösung fürs nächste Mal) |
+| :--- | :--- | :--- |
+| **Der Ziegelstein:** Das Brot ist klein, schwer, extrem dicht und fast ohne Poren. | **Untergare:** Dem Teig war zu kalt, er stand zu kurz, oder dein Sauerteig war noch zu schwach/müde. | Geduld! Lass den Teig beim nächsten Mal länger gehen (oft 2–4 Stunden mehr). Füttere deinen Starter vor dem Backen zweimal, damit er richtig Power hat. |
+| **Das Ufo / Die Pfütze:** Der Teig hat keine Spannung, zerfließt komplett und riecht stark nach Essig/Alkohol. | **Übergare:** Der Teig stand zu lange zu warm. Die Bakterien haben das Klebergerüst (Gluten) komplett zersetzt. | Kürzer gehen lassen oder kühler stellen. *Notfall-Hack:* Genau deshalb backen wir im Kasten! Der hält auch übergegarten Teig in Form. |
+| **Das saure Brot:** Das Brot sieht super aus, schmeckt aber extrem sauer, beißend oder stark nach Essig. | **Zu viel Party im Teig:** Die Milchsäurebakterien hatten zu viel Zeit oder Wärme. Häufigste Gründe: Du hast für die Übernacht-Gare zu viel Starter genommen (20 % statt 10 %), die Küche war nachts zu warm, oder dein Starter aus dem Kühlschrank war schon drüber (voller Säure). | Bei langer Gare (wie der "Faulen Nacht") den Starter rigoros auf 10 % reduzieren und kälteres Wasser nehmen. Pflege-Tipp: Füttere deinen Starter vor dem Backen frisch und nutze ihn genau am "Peak" (wenn er am höchsten steht). |
+| **Die Gummi-Kruste:** Frisch aus dem Ofen kracht es, aber nach zwei Stunden ist die Kruste zäh wie Leder. | **Gefangene Feuchtigkeit:** Der Dampf im Ofen konnte nicht weg, oder das Brot ist im Kasten liegend abgekühlt. | Ofentür die letzten 10–15 Min. einen Spalt offen lassen (Kochlöffel einklemmen). Brot **immer** sofort stürzen und auf einem Gitterrost komplett auskühlen lassen! |
+| **Der wilde Riss:** Das Brot reißt nicht oben auf, sondern platzt unkontrolliert an der Seite oder am Boden. | **Fehlendes Ventil:** Der Teig hatte viel Ofentrieb, du hast ihm aber keinen Weg nach oben gezeigt. | Mutiger einschneiden! Mindestens 1 bis 1,5 cm tief ritzen. Das geht am besten, wenn der Teig kühlschrankkalt ist. |
+| **Außen Kohle, innen klebrig:** Die Kruste ist verbrannt, beim Anschneiden klebt der Teig aber am Messer. | **Hitze-Stau:** Der Ofen war dauerhaft zu heiß oder das Brot stand zu weit oben. | Nach 15 Minuten (beim Dampf ablassen) die Temperatur rigoros auf 200 °C runterdrehen. *Notfall-Hack:* Oben ein Stück Alufolie drauflegen, wenn es zu dunkel wird. |
+| **Der Klebe-Horror:** Der Teig ist nach dem Mischen eine nasse Pampe und lässt sich null bearbeiten. | **Mehl-Lotterie:** Dein Mehl (z. B. Dinkel) konnte das Wasser aus dem Rezept nicht so gut aufnehmen. | *Notfall-Hack:* 2 EL Haferflocken oder 1 TL Flohsamenschalen unterkneten und 20 Min. warten (saugt Wasser auf). Oder einfach mit nassen Händen stur in den Kasten verfrachten. |
+
+## Die goldene Regel bei Fehlversuchen
+Wirf ein misslungenes Brot niemals sofort weg! 
+* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** 
+* Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
+
 ===== START FILE: wissen/baby-spezial.md =====
 ---
 title: Baby-Spezial
@@ -1327,69 +1390,6 @@ Manchmal muss man einfach *sehen*, wie ein feuchter Teig gefaltet wird, damit es
 
 > **Der wichtigste Tipp zum Schluss:**
 > Wenn du Rezepte aus dem Internet oder dicken Büchern nachbäckst: Lass dich nicht stressen. Profis nutzen oft klimatisierte Räume und Profi-Knetmaschinen. Wenn dein Brot nicht exakt so aussieht wie auf Instagram, schmeckt es meistens trotzdem tausendmal besser als aus dem Supermarkt!
-
-===== START FILE: wissen/erste-hilfe.md =====
----
-title: Erste Hilfe (Troubleshooting)
-weight: 70
----
-
-# Erste Hilfe & Troubleshooting
-
-*Keine Panik! Jeder Bäcker produziert ab und zu mal einen Ziegelstein oder ein Ufo. Brotbacken ist Natur – und die hält sich nicht immer an den Wecker. Hier ist die schnelle Diagnose, wenn mal etwas schiefgeht.*
-
-## Die Symptom-Tabelle
-
-| Das Problem (Symptom) | Die Diagnose (Ursache) | Die Rettung (Lösung fürs nächste Mal) |
-| :--- | :--- | :--- |
-| **Der Ziegelstein:** Das Brot ist klein, schwer, extrem dicht und fast ohne Poren. | **Untergare:** Dem Teig war zu kalt, er stand zu kurz, oder dein Sauerteig war noch zu schwach/müde. | Geduld! Lass den Teig beim nächsten Mal länger gehen (oft 2–4 Stunden mehr). Füttere deinen Starter vor dem Backen zweimal, damit er richtig Power hat. |
-| **Das Ufo / Die Pfütze:** Der Teig hat keine Spannung, zerfließt komplett und riecht stark nach Essig/Alkohol. | **Übergare:** Der Teig stand zu lange zu warm. Die Bakterien haben das Klebergerüst (Gluten) komplett zersetzt. | Kürzer gehen lassen oder kühler stellen. *Notfall-Hack:* Genau deshalb backen wir im Kasten! Der hält auch übergegarten Teig in Form. |
-| **Das saure Brot:** Das Brot sieht super aus, schmeckt aber extrem sauer, beißend oder stark nach Essig. | **Zu viel Party im Teig:** Die Milchsäurebakterien hatten zu viel Zeit oder Wärme. Häufigste Gründe: Du hast für die Übernacht-Gare zu viel Starter genommen (20 % statt 10 %), die Küche war nachts zu warm, oder dein Starter aus dem Kühlschrank war schon drüber (voller Säure). | Bei langer Gare (wie der "Faulen Nacht") den Starter rigoros auf 10 % reduzieren und kälteres Wasser nehmen. Pflege-Tipp: Füttere deinen Starter vor dem Backen frisch und nutze ihn genau am "Peak" (wenn er am höchsten steht). |
-| **Die Gummi-Kruste:** Frisch aus dem Ofen kracht es, aber nach zwei Stunden ist die Kruste zäh wie Leder. | **Gefangene Feuchtigkeit:** Der Dampf im Ofen konnte nicht weg, oder das Brot ist im Kasten liegend abgekühlt. | Ofentür die letzten 10–15 Min. einen Spalt offen lassen (Kochlöffel einklemmen). Brot **immer** sofort stürzen und auf einem Gitterrost komplett auskühlen lassen! |
-| **Der wilde Riss:** Das Brot reißt nicht oben auf, sondern platzt unkontrolliert an der Seite oder am Boden. | **Fehlendes Ventil:** Der Teig hatte viel Ofentrieb, du hast ihm aber keinen Weg nach oben gezeigt. | Mutiger einschneiden! Mindestens 1 bis 1,5 cm tief ritzen. Das geht am besten, wenn der Teig kühlschrankkalt ist. |
-| **Außen Kohle, innen klebrig:** Die Kruste ist verbrannt, beim Anschneiden klebt der Teig aber am Messer. | **Hitze-Stau:** Der Ofen war dauerhaft zu heiß oder das Brot stand zu weit oben. | Nach 15 Minuten (beim Dampf ablassen) die Temperatur rigoros auf 200 °C runterdrehen. *Notfall-Hack:* Oben ein Stück Alufolie drauflegen, wenn es zu dunkel wird. |
-| **Der Klebe-Horror:** Der Teig ist nach dem Mischen eine nasse Pampe und lässt sich null bearbeiten. | **Mehl-Lotterie:** Dein Mehl (z. B. Dinkel) konnte das Wasser aus dem Rezept nicht so gut aufnehmen. | *Notfall-Hack:* 2 EL Haferflocken oder 1 TL Flohsamenschalen unterkneten und 20 Min. warten (saugt Wasser auf). Oder einfach mit nassen Händen stur in den Kasten verfrachten. |
-
-## Die goldene Regel bei Fehlversuchen
-Wirf ein misslungenes Brot niemals sofort weg! 
-* Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** 
-* Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
-
-===== START FILE: wissen/zeitplan.md =====
----
-title: Der Zeitplan-Spickzettel
-weight: 60
----
-
-# Der Zeitplan-Spickzettel (Alltags-Hacks)
-
-*„Wie soll ich backen, wenn ich den ganzen Tag arbeite?“* Das ist die häufigste Ausrede. Die gute Nachricht: Du musst nicht daneben stehen und dem Teig beim Wachsen zuschauen. Dein bester Freund ist der **Kühlschrank**. Er funktioniert wie eine Pause-Taste. Sobald der Teig im Kalten steht, gärt er nur noch im Schneckentempo weiter und wartet auf dich.
-
-Hier sind zwei praxiserprobte Fahrpläne für den normalen Alltag.
-
-## Fahrplan 1: Das "Feierabend-Brot" (Für 9-to-5 Jobs)
-*Du bereitest den Teig abends nebenbei vor und backst am nächsten Tag, wann es dir passt.*
-
-* **Tag 1 – Morgens (07:30 Uhr):** Bevor du aus dem Haus gehst, fütterst du deinen Sauerteig-Starter (z. B. 50g Wasser, 50g Mehl) und lässt ihn einfach auf der Arbeitsplatte stehen.
-* **Tag 1 – Abends (18:00 Uhr):** Du kommst nach Hause. Der Starter hat sich verdoppelt und ist bereit. Du mischst den Teig an (Fermentolyse) und knetest ihn.
-* **Tag 1 – Couch-Zeit (18:30 – 22:00 Uhr):** Der Teig ruht (Stockgare). Wenn du sowieso zum Kühlschrank gehst oder in der Küche bist, faltest du ihn ein- oder zweimal.
-* **Tag 1 – Bettzeit (22:00 Uhr):** Ab in die Kastenform und direkt in den Kühlschrank. 
-* **Tag 2 – Das Backen:** Jetzt hast du die Wahl! Der Teig kann problemlos 10 bis 24 Stunden im Kühlschrank bleiben. 
-  * *Option A:* Du backst ihn morgens vor der Arbeit frisch auf.
-  * *Option B:* Du lässt ihn im Kühlschrank, gehst arbeiten und schiebst ihn abends um 18:00 Uhr direkt kalt in den heißen Ofen. 
-
-## Fahrplan 2: Der "Lazy Weekend" Rhythmus
-*Perfekt, um Sonntagmorgen frisches, warmes Brot auf dem Tisch zu haben.*
-
-* **Freitagabend (22:00 Uhr):** Starter aus dem Kühlschrank holen und füttern. Stehen lassen.
-* **Samstagmorgen (09:00 Uhr):** Nach dem Frühstück den Teig anmischen und kneten.
-* **Samstagmittag (09:30 – 13:30 Uhr):** Stockgare bei Raumtemperatur. Ab und zu falten.
-* **Samstagnachmittag (14:00 Uhr):** Teig in die Form geben und ab in den Kühlschrank. Jetzt hast du den restlichen Samstag komplett frei!
-* **Sonntagmorgen (09:00 Uhr):** Ofen vorheizen, Brot eiskalt aus dem Kühlschrank in den Ofen schieben. Um 10:00 Uhr steht knisterndes Brot auf dem Frühstückstisch.
-
-## Die goldene Regel zur Temperatur
-* **Sommer (25°C+ in der Küche):** Alles passiert schneller! Der Starter ist in 4 Stunden fertig, die Stockgare dauert vielleicht nur 2,5 Stunden. 
-* **Winter (19°C in der Küche):** Alles dauert ewig. Nutze warmes Wasser (35°C) zum Anmischen oder stell den Teig in den (ausgeschalteten!) Ofen mit eingeschalteter Ofenlampe. Das bringt gemütliche 26°C.
 
 ===== START FILE: impressum.md =====
 ---
