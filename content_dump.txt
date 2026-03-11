@@ -840,27 +840,34 @@ weight: 130
 
 # Die Kiez-Pizza (Sauerteig + Hefe)
 
-*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der berühmten "Schnellen Nummer" vom Hamburger Jung Steffen Henssler. Da Steffen ja ohnehin schon für lokalen Tiefgang sorgt, steuern wir mit dem Sauerteig einfach noch die extra Portion Aroma bei!*
+*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer" von Steffen Henssler. Dieses Rezept ist auf normales Standard-Mehl optimiert. Da handelsübliches Mehl oft nicht extrem viel Wasser halten kann, reduzieren wir die Feuchtigkeit und kneten mit einer speziellen Anti-Klebe-Technik.*
 
 ## Zutaten (für 4 Pizzen)
 
 | Zutat | Menge |
 | :--- | :--- |
-| **Mehl** (Tipo 00 / 550) | 500 g |
-| **Wasser** (lauwarm) | 325 ml |
+| **Mehl** (Tipo 00 / 550 - normales Supermarktmehl) | 500 g |
+| **Wasser** (lauwarm) | **280 ml (Start) + 20 ml (Reserve)** |
 | **Sauerteig** (fürs Aroma) | 50 g |
 | **Hefe** (Frischhefe) | 2 g |
 | **Salz** | 12 g |
 | **Olivenöl** | 1 EL |
 
-## Der Ablauf
-1.  **Mischen:** Hefe und Sauerteig im Wasser auflösen. Mehl dazu. Kurz mischen. 15 Min warten.
-2.  **Kneten:** Salz und Öl dazu. Teig glatt kneten (Maschine: 5–8 Min).
-3.  **Gehen lassen (Stockgare):** 2 Stunden bei Raumtemperatur. Nach 1 Stunde einmal falten.
-4.  **Kugeln:** Teile den Teig in 4 Stücke (à ca. 220 g). Schleife sie zu straffen Kugeln.
-5.  **Die lange Ruhe:** Leg die Kugeln in eine bemehlte Box/Auflaufform (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**.
-    * *Eilig?* Lass sie 4 Stunden bei Raumtemperatur gehen, dann backen. Aber der Kühlschrank bringt den Geschmack.
-6.  **Backen:** Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Teig mit den Händen ausziehen (nicht rollen!), belegen, 5–8 Minuten backen.
+## Der Ablauf (Das Anti-Klebe-Protokoll)
+
+Da wir ein starkes Gerüst brauchen, bauen wir den Teig in Phasen auf. 
+
+1. **Mischen (Der Start):** Löse Hefe und Sauerteig in den **280 ml Start-Wasser** auf. Gib das Mehl dazu. Kurz in der Maschine grob mischen, bis kein trockenes Mehl mehr zu sehen ist. (Noch kein Salz, noch kein Öl!). **15 Minuten ruhen lassen** (Autolyse).
+2. **Kneten & Wassertest:** Das Salz dazugeben und die Maschine starten (Stufe 2). Nur wenn der Teig jetzt extrem fest und krümelig ist, gibst du schluckweise die **20 ml Reserve-Wasser** dazu. Knete solange, bis sich der Teig komplett vom Rand der Schüssel löst und als kompakte Kugel um den Haken wickelt (ca. 5–8 Min).
+3. **Das Öl (Ganz zum Schluss!):** Fett verhindert am Anfang den Aufbau des Klebergerüsts. Gib das Olivenöl erst jetzt in die Schüssel, wenn die Teigkugel perfekt ist. Knete noch 1–2 Minuten weiter, bis das Öl komplett aufgenommen ist und der Teig seidig glänzt.
+4. **Stockgare & Der Kälte-Hack:** Den Teig abgedeckt 2 Stunden bei Raumtemperatur gehen lassen. Nach 1 Stunde einmal mit nassen Händen in der Schüssel dehnen und falten. **Der Hack:** Stell die komplette Schüssel danach für **45 Minuten in den Kühlschrank**. Kaltes Gluten erstarrt, der Teig klebt gleich beim Formen kaum noch!
+5. **Kugeln schleifen (Die nackte Wahrheit):**
+    * Teile den kalten Teig in 4 Stücke (à ca. 210 g).
+    * **Wichtig: Kein Mehl auf die Arbeitsfläche!** Der Tisch bleibt absolut nackt, sonst hast du keine Reibung zum Spannen.
+    * Verreibe einen winzigen Tropfen Olivenöl in deinen Handflächen.
+    * Leg ein Teigstück auf den Tisch, leg beide Hände wie hohle Schaufeln dahinter und **zieh den Teig auf der Platte zu dir heran**. Die Unterseite bremst auf dem Tisch, die Oberseite spannt sich wie ein Ballon. Um 90 Grad drehen, wiederholen, bis es eine pralle Kugel ist.
+6. **Die lange Ruhe:** Leg die straffen Kugeln in eine leicht geölte Box (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**.
+7. **Backen:** Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Teig mit den Händen ausziehen (nicht rollen!), belegen, 5–8 Minuten backen.
 
 ---
 
