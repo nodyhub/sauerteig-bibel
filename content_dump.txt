@@ -1006,6 +1006,7 @@ weight: 170
 Der Ablauf ist exakt der gleiche wie beim herzhaften Klassiker (Kneten, Kühlen, Rollen, Ritzen). **Aber Achtung beim Backen:**
 Da der Teig durch den Kakao schon dunkel ist, siehst du im Ofen nicht so leicht, wenn die Cracker verbrennen. Bleib beim ersten Mal in der Nähe! Backe sie bei **180 °C (Umluft)** für ca. **12–15 Minuten**. Die Ränder müssen spürbar fest werden und der Teig darf nicht mehr feucht glänzen.
 
+===== START FILE: rezepte/galette.md =====
 ---
 title: Die rustikale Sauerteig-Galette
 weight: 180
