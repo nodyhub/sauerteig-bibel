@@ -2,51 +2,7 @@ import os
 import re
 import markdown
 
-# 1. Die logische Reihenfolge exakt nach der Struktur deiner Markdown-Dateien
-ORDER = [
-    "_index.md",
-    "wissen/philosophie.md",
-    "sauerteig/_index.md",
-    "technik/_index.md",
-    "technik/standard.md",
-    "technik/lazy.md",
-    "rezepte/_index.md",
-    "rezepte/anfaenger.md",
-    "rezepte/anfaenger-mix.md",
-    "rezepte/landbrot.md",
-    "rezepte/graubrot.md",
-    "rezepte/vollkorn.md",
-    "rezepte/hanseat.md",
-    "rezepte/dinkel-seele.md",
-    "rezepte/dinkel-saftkorn.md",
-    "rezepte/kartoffel-walnuss.md",
-    "rezepte/reformer.md",
-    "rezepte/no-knead.md",
-    "rezepte/ciabatta-style.md",
-    "rezepte/zupfbrot.md",
-    "rezepte/kiez-pizza.md",
-    "rezepte/hanse-brioche.md",
-    "rezepte/pancakes.md",
-    "rezepte/weltmeister.md",
-    "rezepte/cracker.md",
-    "rezepte/schoko-cracker.md",
-    "rezepte/zitronenkuchen.md",
-    "rezepte/apfelkuchen.md",
-    "rezepte/schokokuchen.md",
-    "wissen/_index.md",
-    "wissen/teigbearbeitung.md",
-    "wissen/grundlagen.md",
-    "wissen/werkzeuge.md",
-    "wissen/backmethoden.md",
-    "wissen/optik-finish.md",
-    "wissen/baby-spezial.md",
-    "wissen/empfehlungen.md",
-    "wissen/erste-hilfe.md",
-    "wissen/zeitplan.md",
-    "impressum.md"
-]
-
-# 2. Das Kochbuch-CSS (Echte Buch-Optik für das PDF)
+# Das Kochbuch-CSS (Echte Buch-Optik für das PDF)
 CSS = """
 <style>
     /* Basis-Buch-Design (Serifen für den Fließtext!) */
@@ -159,7 +115,9 @@ def build():
     with open(dump_file, 'r', encoding='utf-8') as f:
         raw_text = f.read()
 
-    # Dictionary bauen { "dateiname.md" : "Inhalt..." }
+    # Geordnete Liste bauen { "dateiname.md" : "Inhalt..." }
+    # Die Reihenfolge ergibt sich aus content_dump.txt (dort nach weight sortiert)
+    files_order = []
     files_data = {}
     parts = raw_text.split('===== START FILE: ')
     for part in parts:
@@ -169,13 +127,14 @@ def build():
         if len(lines) >= 2:
             filename = lines[0].strip().replace('=====', '').strip()
             content = lines[1]
+            files_order.append(filename)
             files_data[filename] = content
 
     combined_md = ""
     version = "1.0" # Fallback
 
-    # 2. Dateien in der richtigen Reihenfolge zusammenbauen
-    for file_path in ORDER:
+    # 2. Dateien in der Reihenfolge aus dem Dump zusammenbauen
+    for file_path in files_order:
         if file_path not in files_data:
             print(f"WARNUNG: {file_path} fehlt im Dump!")
             continue

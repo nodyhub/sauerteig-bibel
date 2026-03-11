@@ -436,7 +436,7 @@ weight: 50
 
 # Das Dinkel-Saftkorn
 
-*100 % Dinkel Vollkorn. Nussig, kernig und fein. Wirkt der typischen Dinkel-Trockenheit extrem entgegen: mit einem aromatischen Hafer-Kochstück und Flohsamenschalen.*
+*Nussig, kernig und trotzdem wunderbar geschmeidig. Der 50/50-Mix aus hellem und Vollkorn-Dinkel verhindert die typische Dinkel-Trockenheit. Der absolute Geheimtipp: Ein Schuss Öl im Teig und das Hafer-Kochstück sorgen dafür, dass das Brot saftig bleibt und sich im Mund nicht wie eine "Staubwüste" anfühlt.*
 
 ## 1. Das Kochstück (Vorbereitung)
 *Das Kochstück bindet extrem viel Wasser und macht das Brot tagelang haltbar.*
@@ -446,16 +446,16 @@ weight: 50
 | **Haferflocken** | **50 g** | **75 g** |
 | **Wasser** | **150 ml** | **225 ml** |
 
-**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** 
-
-## 2. Der Hauptteig
+**So geht's:** Die Haferflocken im Topf kurz anrösten, Wasser dazugießen, aufkochen bis es ein Brei wird. **Komplett abkühlen lassen!** ## 2. Der Hauptteig
 
 | Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
 | :--- | :--- | :--- |
-| **Dinkel VK Mehl** | **500 g** | **750 g** |
+| **Dinkelmehl (Type 630)** | **250 g** | **375 g** |
+| **Dinkel VK Mehl** | **250 g** | **375 g** |
 | **Wasser** (Hauptteig)| **250 ml** | **375 ml** |
 | **Sauerteig** | **100 g** | **150 g** |
 | **Kaltes Kochstück** | **komplett** | **komplett** |
+| **Olivenöl (oder weiche Butter)** | **1–2 EL (Anti-Staub-Trick!)**| **2–3 EL** |
 | **Salz** | **9 g** | **13 g** |
 | **Essig** | **2 EL (Pflicht!)** | **3 EL (Pflicht!)** |
 | **Honig** & **Flohsamen** | je 1 EL / 1 TL | je 1 EL / 1,5 TL |
@@ -469,6 +469,7 @@ Du hast zwei Möglichkeiten:
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     Wenn du abends nicht kneten willst, **reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das kalte Kochstück und alle anderen Zutaten nur mit dem Löffel und lass den Teig über Nacht bei Raumtemperatur stehen.
 
+> **💡 Warum das Öl im Teig?** > Dinkel-Vollkorn neigt beim Essen zum "Speichel-Schwamm-Effekt": Es saugt im Mund die Feuchtigkeit auf und wirkt extrem trocken. Das bisschen Fett legt sich wie ein hauchdünner Schutzfilm um die rauen Schalenteile. Das Brot rutscht wunderbar cremig runter und hinterlässt kein stumpfes Gefühl!
 
 ===== START FILE: rezepte/dinkel-seele.md =====
 ---
@@ -510,10 +511,62 @@ Du hast zwei Möglichkeiten:
     Nutze das eiskalte Wasser und das kalte Kochstück. *Besonderheit beim Kneten:* Kurz und langsam (Stufe 1, max. 4 Min).
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
+
+---
+title: Das Quinoa-Jasmin Brot
+weight: 70
+---
+
+# Das Quinoa-Jasmin Brot
+
+*Inspiriert von einer genialen Idee aus "Tan's Brotboutique". Ein echtes Power-Brot, das durch gekochten Jasminreis und Quinoa unfassbar saftig wird und tagelang frisch bleibt. Karotten und gerösteter Sesam machen es zu einem absoluten Aroma-Feuerwerk.*
+
+## Die Besonderheit: Reis & Quinoa im Teig
+
+Warum packt man Reis und Quinoa in ein Brot? Das ist pure Bäcker-Physik:
+
+* **Jasminreis (Der Feuchtigkeits-Booster):** Jasminreis besteht aus komplexen Kohlenhydraten und lässt den Blutzuckerspiegel nur sehr langsam ansteigen. Für den Teig ist er aber vor allem ein gigantischer Wasserspeicher. Wenn der Reis weich gekocht wird, verkleistert seine Stärke. Im Teig verhält er sich dann wie ein riesiges Kochstück: Er schließt die Feuchtigkeit ein und macht die Krume absurd saftig. Jasminreis bringt zudem eine ganz leicht blumige, nussige Note mit, die perfekt zum Sauerteig passt.
+* **Quinoa (Das Protein-Wunder):** Quinoa ist ein mineralreiches Pseudogetreide und bringt als eine der wenigen pflanzlichen Quellen alle neun essenziellen Aminosäuren mit ("Eiweiß in Hülle und Fülle"). Im Brot sorgt es für einen tollen, leicht knackigen Biss und extrem feine Röstaromen.
+
+*(Wichtig: Beides muss vor dem Kneten gekocht werden, sonst wirken sie wie "Feuchtigkeits-Vampire", saugen das Wasser aus dem Teig und bescheren dir die gefürchtete Staubwüste im Mund!)*
+
+## 1. Das Kochstück (Vorbereitung)
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Jasminreis** (roh) | **40 g** |
+| **Quinoa** (roh) | **40 g** |
+| **Wasser** (zum Kochen) | **ca. 200 ml** |
+
+**So geht's:** Reis und Quinoa kurz heiß abspülen. Dann in einem kleinen Topf mit dem Wasser aufkochen und bei schwacher Hitze ca. 15–20 Minuten köcheln lassen, bis sie weich sind und das Wasser aufgesaugt haben. **Komplett abkühlen lassen!**
+
+## 2. Der Hauptteig
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Dinkelvollkornmehl** | **300 g** |
+| **Roggenvollkornmehl** | **150 g** |
+| **Wasser** (Zimmertemperatur) | **220 ml** |
+| **Sauerteig** (aktiv, am Peak) | **100 g** |
+| **Kaltes Reis-Quinoa-Kochstück** | **komplett** |
+| **Karotte** (fein geraspelt) | **50 g** |
+| **Gehackte Mandeln** | **30 g** |
+| **Salz** | **11 g** |
+| **Essig** (Pflicht wegen Dinkel!) | **1 EL** |
+| **Sesam** | Reichlich, zum Wälzen! |
+
+## Der Ablauf
+
+1. **Mischen & Kneten:** Das kalte Kochstück, die geraspelten Karotten, Mandeln und alle restlichen Zutaten (außer dem Sesam) vermengen. Kurz und langsam kneten (Maschine: ca. 5 Min auf Stufe 1). Der Teig wird klebrig sein – das ist durch den Roggenanteil und die Karotten völlig normal!
+2. **Stockgare:** Den Teig in eine geölte Wanne geben und 3 bis 4 Stunden bei Raumtemperatur anspringen lassen. Einmal pro Stunde sanft dehnen und falten, um Struktur aufzubauen.
+3. **Formen & Wälzen:** Den Teig auf die leicht bemehlte Arbeitsfläche kippen und schonend zu einem Laib formen. Ein nasses Küchentuch flach ausbreiten, den Laib kurz mit der Oberseite darauf drücken und danach direkt in einem tiefen Teller voller **Sesam** wälzen. Das Wasser wirkt wie Kleber.
+4. **Die kalte Gare:** Den Laib mit der Sesam-Seite nach unten in ein Gärbörbchen legen, abdecken und für 12 bis 16 Stunden in den Kühlschrank verfrachten.
+5. **Backen:** Am nächsten Tag den Ofen (mit Gusseisentopf oder Pizzastein) auf **250 °C** vorheizen. Den eiskalten Laib direkt aus dem Kühlschrank stürzen, einschneiden und mit viel Dampf backen. Nach 10 Minuten die Temperatur auf **210 °C** reduzieren und weitere 35–40 Minuten kräftig dunkel backen. *Die Hitze röstet die Sesam-Kruste von außen an – ein absoluter Traum!*
+
 ===== START FILE: rezepte/kartoffel-walnuss.md =====
 ---
 title: Kartoffel-Walnuss-Wunder
-weight: 70
+weight: 80
 ---
 
 # Das Kartoffel-Walnuss-Wunder
@@ -552,7 +605,7 @@ Folge für dieses Spezialbrot dem **[Standard-Ablauf](../../technik/standard/)**
 ===== START FILE: rezepte/reformer.md =====
 ---
 title: Der Reformer
-weight: 80
+weight: 90
 ---
 
 # Der Reformer
@@ -585,7 +638,7 @@ Du hast zwei Möglichkeiten:
 ===== START FILE: rezepte/no-knead.md =====
 ---
 title: No-Knead Topfbrot
-weight: 90
+weight: 100
 ---
 
 # No-Knead Topfbrot ("Lazy Sunday")
@@ -625,7 +678,7 @@ weight: 90
 ===== START FILE: rezepte/ciabatta-style.md =====
 ---
 title: Die Luftnummer (Ciabatta-Style)
-weight: 100
+weight: 110
 ---
 
 # Die Luftnummer (Ciabatta-Style)
@@ -685,7 +738,7 @@ Wir geben das Wasser nicht auf einmal rein, sonst kriegst du nur Suppe. Wir nutz
 ===== START FILE: rezepte/zupfbrot.md =====
 ---
 title: Das Zupfbrot (Knoblauch & Kräuter)
-weight: 110
+weight: 120
 ---
 
 # Das Zupfbrot (Pull-Apart Bread)
@@ -747,7 +800,7 @@ weight: 110
 ===== START FILE: rezepte/kiez-pizza.md =====
 ---
 title: Die Kiez-Pizza
-weight: 120
+weight: 130
 ---
 
 # Die Kiez-Pizza (Sauerteig + Hefe)
@@ -789,7 +842,7 @@ weight: 120
 ===== START FILE: rezepte/hanse-brioche.md =====
 ---
 title: Hanse-Brioche
-weight: 130
+weight: 140
 ---
 
 # Das Hanse-Brioche
@@ -835,7 +888,7 @@ Brioche-Teige sind "Diven". Das Fett verhindert die Glutenbildung, deshalb muss 
 ===== START FILE: rezepte/pancakes.md =====
 ---
 title: Sauerteig-Pancakes
-weight: 140
+weight: 150
 ---
 
 # Sauerteig-Pancakes (Fluffig & Dick)
@@ -866,7 +919,7 @@ weight: 140
 ===== START FILE: rezepte/weltmeister.md =====
 ---
 title: Hamburger Weltmeister-Brötchen
-weight: 150
+weight: 160
 ---
 
 # Hamburger Weltmeister-Brötchen (Übernacht-Hack)
@@ -905,7 +958,7 @@ weight: 150
 ===== START FILE: rezepte/cracker.md =====
 ---
 title: Discard-Cracker
-weight: 160
+weight: 170
 ---
 
 # Discard-Cracker (Der Knabber-Spaß)
@@ -953,10 +1006,50 @@ weight: 160
 Der Ablauf ist exakt der gleiche wie beim herzhaften Klassiker (Kneten, Kühlen, Rollen, Ritzen). **Aber Achtung beim Backen:**
 Da der Teig durch den Kakao schon dunkel ist, siehst du im Ofen nicht so leicht, wenn die Cracker verbrennen. Bleib beim ersten Mal in der Nähe! Backe sie bei **180 °C (Umluft)** für ca. **12–15 Minuten**. Die Ränder müssen spürbar fest werden und der Teig darf nicht mehr feucht glänzen.
 
+---
+title: Die rustikale Sauerteig-Galette
+weight: 180
+---
+
+# Die rustikale Sauerteig-Galette
+
+*Die französische "Tarte für Faule". Keine Kuchenform, kein Blindbacken, kein Stress. Der Teig wird einfach auf dem Blech ausgerollt, belegt und rustikal zugeklappt. Der kalte Sauerteig-Discard im Teig sorgt für eine unfassbar blättrige, zarte Kruste.*
+
+## 1. Der Teig (Mürbeteig mit Discard)
+
+| Zutat | Menge |
+| :--- | :--- |
+| **Mehl** (Weizen 550 oder Dinkel 630) | **150 g** |
+| **Butter (Eiskalt!)** | **115 g** |
+| **Sauerteig-Discard** (Kalt aus dem Kühlschrank) | **100 g** |
+| **Zucker** (für süße Galettes) | **1 EL** |
+| **Salz** | **1 Prise** |
+
+*Tipp: Für eine herzhafte Galette (z. B. mit Tomaten und Ziegenkäse) lässt du den Zucker einfach weg und nimmst eine kräftigere Prise Salz.*
+
+## 2. Die Füllung (Süße Basis-Version)
+
+Hier kannst du reinwerfen, was die Saison hergibt (Äpfel, Beeren, Pfirsiche, Pflaumen).
+* **Obst nach Wahl:** ca. 300–400 g (in Spalten oder Würfeln)
+* **Zucker:** 1–2 EL (je nach Süße des Obstes)
+* **Speisestärke:** 1 EL (Ganz wichtig! Bindet den Fruchtsaft, damit der Boden nicht durchmatscht)
+
+## Der Ablauf
+
+1. **Butter "krümeln":** Mehl, Salz und Zucker in einer Schüssel mischen. Die eiskalte Butter in kleinen Würfeln dazugeben. Jetzt mit den Fingerspitzen zügig zerreiben, bis die Mischung aussieht wie grobe Streusel oder naser Sand. (Nicht zu lange kneten, die Butter darf nicht schmelzen!)
+2. **Der Discard:** Den kalten Sauerteig dazugeben. Mit einer Gabel oder Teigkarte grob untermischen, bis sich der Teig gerade so zu einem Ball formen lässt. 
+3. **Kühlen (Pflicht!):** Den Teig in Frischhaltefolie wickeln, flach drücken und für **mindestens 1 Stunde** (gerne auch über Nacht) in den Kühlschrank legen. *Nur kalte Butter im Ofen macht den Teig später blättrig!*
+4. **Ausrollen:** Den kalten Teig direkt auf einem Bogen Backpapier kreisförmig ausrollen (ca. 3 bis 4 mm dick). Es muss kein perfekter Kreis sein – rustikal ist hier das Ziel!
+5. **Belegen:** Die Mitte des Teiges mit dem Obst (gemischt mit Zucker und Stärke) belegen. Dabei rundherum einen **Rand von ca. 4 bis 5 cm frei lassen**.
+6. **Falten:** Den freien Teigrand einfach Stück für Stück über die Früchte klappen. Es dürfen Falten entstehen, das drückt alles schön zusammen.
+7. **Backen:** Bei **200 °C (Ober-/Unterhitze)** für ca. 35 bis 40 Minuten backen, bis der Rand goldbraun und knusprig ist und die Früchte blubbern.
+
+*Das Optik-Finish:* Vor dem Backen den umgeklappten Rand mit etwas Milch oder Ei bestreichen und mit grobem Zucker bestreuen. Das gibt einen genialen Crunch!
+
 ===== START FILE: rezepte/zitronenkuchen.md =====
 ---
 title: Saftiger Zitronenkuchen
-weight: 170
+weight: 190
 ---
 
 # Saftiger Zitronenkuchen
@@ -991,7 +1084,7 @@ weight: 170
 ===== START FILE: rezepte/apfelkuchen.md =====
 ---
 title: Schneller Apfelkuchen
-weight: 180
+weight: 200
 ---
 
 # Schneller Apfel-Sauerteigkuchen
@@ -1026,7 +1119,7 @@ weight: 180
 ===== START FILE: rezepte/schokokuchen.md =====
 ---
 title: Sauerteig-Schokokuchen
-weight: 190
+weight: 210
 ---
 
 # Sauerteig-Schokokuchen
@@ -1351,6 +1444,22 @@ weight: 70
 Wirf ein misslungenes Brot niemals sofort weg! 
 * Ist es ein klebriger Fladen geworden? Schneide ihn in Würfel, röste sie in der Pfanne mit Olivenöl und Knoblauch – **die weltbesten Croutons für Salat oder Suppe.** 
 * Ist es steinhart? Reibe es zu **Paniermehl** (Semmelbrösel). Sourdough-Paniermehl macht Schnitzel unglaublich knusprig!
+
+## Hilfe, mein Brot staubt! (Das Staubwüsten-Syndrom)
+
+*Das Brot sieht fantastisch aus, die Krume glänzt beim Anschneiden sogar leicht, aber sobald du abbeißt, hast du das Gefühl, du kaust auf Sägespänen und brauchst dringend ein Glas Wasser. Dein Mund fühlt sich danach richtig stumpf an. Was ist da los?*
+
+Das ist der gefürchtete **"Speichel-Schwamm-Effekt"**, der fast immer zuschlägt, wenn man Brote aus 100 % Dinkel- oder Weizenvollkorn backt. 
+
+**Warum passiert das?**
+Vollkornmehl enthält die kompletten, harten Schalenteile (Kleie) des Korns. Diese Kleie ist von Natur aus rau und extrem durstig. Wenn du das Brot kaust, zerkleinerst du die Struktur. Diese unzähligen, rauen Vollkorn-Partikel legen sich auf deine Zunge und saugen blitzartig deinen Speichel auf. Das Brot entzieht *dir* beim Essen die Feuchtigkeit. Bei Dinkel ist das besonders extrem, da Dinkel von Natur aus dazu neigt, trocken auszubacken. 
+*(Ausnahme: Roggenvollkorn. Roggen enthält natürliche Schleimstoffe, die ihn immer klebrig und saftig halten).*
+
+**So verhinderst du die Staubwüste:**
+
+1. **Der Öl- / Butter-Trick (Der Schmierstoff):** Wenn du ein rustikales Vollkornbrot backst, gib **1 bis 2 Esslöffel Olivenöl** oder ein Stückchen weiche Butter (ca. 15–20 g) mit in den Hauptteig. Das bisschen Fett legt sich wie ein hauchdünner Schutzfilm um die rauen Schalenteile. Sie können deinen Speichel dann beim Kauen nicht mehr aufsaugen, und das Brot rutscht wunderbar cremig runter.
+2. **Die 50/50-Regel:** Zwinge dich nicht zu 100 % Vollkorn, wenn es dir zu trocken ist. Mische stattdessen 50 % helles Mehl (z. B. Dinkel 630 oder Weizen 550) und 50 % Vollkornmehl. Das helle Mehl bringt die nötige Geschmeidigkeit zurück in die Krume.
+3. **Wasser "einsperren":** Vollkornbrote brauchen massiv Wasser, das im Ofen nicht verdampfen darf. Nutze immer ein **Kochstück** (z. B. aus Haferflocken oder Mehl) oder ein **Quellstück** (mit Flohsamenschalen oder Leinsamen). Diese binden das Wasser gelartig an sich, sodass das Brot tagelang saftig bleibt.
 
 ===== START FILE: wissen/baby-spezial.md =====
 ---
