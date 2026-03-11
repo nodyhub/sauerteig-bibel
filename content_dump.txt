@@ -520,49 +520,46 @@ weight: 70
 
 # Das Quinoa-Jasmin Brot
 
-*Inspiriert von einer genialen Idee aus "Tan's Brotboutique". Ein echtes Power-Brot, das durch gekochten Jasminreis und Quinoa unfassbar saftig wird und tagelang frisch bleibt. Karotten und gerösteter Sesam machen es zu einem absoluten Aroma-Feuerwerk.*
+*Inspiriert von einer genialen Idee aus "Tan's Brotboutique". Ein echtes Power-Brot, das durch gekochten Jasminreis und Quinoa unfassbar saftig wird und tagelang frisch bleibt. Karotten und gerösteter Sesam machen es zu einem absoluten Aroma-Feuerwerk. Wir backen es im Kasten, da der extrem feuchte Teig so den besten Stand hat.*
 
 ## Die Besonderheit: Reis & Quinoa im Teig
 
-Warum packt man Reis und Quinoa in ein Brot? Das ist pure Bäcker-Physik:
+* **Jasminreis:** Verkleistert beim Kochen und verhält sich im Teig wie ein gigantischer Wasserspeicher (Kochstück). Macht die Krume absurd saftig.
+* **Quinoa:** Bringt alle neun essenziellen Aminosäuren, einen tollen Biss und feine Röstaromen.
 
-* **Jasminreis (Der Feuchtigkeits-Booster):** Jasminreis besteht aus komplexen Kohlenhydraten und lässt den Blutzuckerspiegel nur sehr langsam ansteigen. Für den Teig ist er aber vor allem ein gigantischer Wasserspeicher. Wenn der Reis weich gekocht wird, verkleistert seine Stärke. Im Teig verhält er sich dann wie ein riesiges Kochstück: Er schließt die Feuchtigkeit ein und macht die Krume absurd saftig. Jasminreis bringt zudem eine ganz leicht blumige, nussige Note mit, die perfekt zum Sauerteig passt.
-* **Quinoa (Das Protein-Wunder):** Quinoa ist ein mineralreiches Pseudogetreide und bringt als eine der wenigen pflanzlichen Quellen alle neun essenziellen Aminosäuren mit ("Eiweiß in Hülle und Fülle"). Im Brot sorgt es für einen tollen, leicht knackigen Biss und extrem feine Röstaromen.
-
-*(Wichtig: Beides muss vor dem Kneten gekocht werden, sonst wirken sie wie "Feuchtigkeits-Vampire", saugen das Wasser aus dem Teig und bescheren dir die gefürchtete Staubwüste im Mund!)*
+*(Wichtig: Beides muss gekocht werden, sonst saugen sie das Wasser aus dem Teig und bescheren dir eine Staubwüste im Mund!)*
 
 ## 1. Das Kochstück (Vorbereitung)
 
-| Zutat | Menge |
-| :--- | :--- |
-| **Jasminreis** (roh) | **40 g** |
-| **Quinoa** (roh) | **40 g** |
-| **Wasser** (zum Kochen) | **ca. 200 ml** |
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Jasminreis** (roh) | **40 g** | **60 g** |
+| **Quinoa** (roh) | **40 g** | **60 g** |
+| **Wasser** (zum Kochen) | **ca. 200 ml** | **ca. 300 ml** |
 
-**So geht's:** Reis und Quinoa kurz heiß abspülen. Dann in einem kleinen Topf mit dem Wasser aufkochen und bei schwacher Hitze ca. 15–20 Minuten köcheln lassen, bis sie weich sind und das Wasser aufgesaugt haben. **Komplett abkühlen lassen!**
+**So geht's:** Reis und Quinoa kurz heiß abspülen. Mit dem Wasser aufkochen und bei schwacher Hitze 15–20 Minuten köcheln lassen, bis sie weich sind und das Wasser aufgesaugt haben. **Komplett abkühlen lassen!**
 
 ## 2. Der Hauptteig
 
-| Zutat | Menge |
-| :--- | :--- |
-| **Dinkelvollkornmehl** | **300 g** |
-| **Roggenvollkornmehl** | **150 g** |
-| **Wasser** (Zimmertemperatur) | **220 ml** |
-| **Sauerteig** (aktiv, am Peak) | **100 g** |
-| **Kaltes Reis-Quinoa-Kochstück** | **komplett** |
-| **Karotte** (fein geraspelt) | **50 g** |
-| **Gehackte Mandeln** | **30 g** |
-| **Salz** | **11 g** |
-| **Essig** (Pflicht wegen Dinkel!) | **1 EL** |
-| **Sesam** | Reichlich, zum Wälzen! |
+| Zutat | Standard (1 Kasten) | XL (Großer Kasten) |
+| :--- | :--- | :--- |
+| **Dinkelvollkornmehl** | **300 g** | **450 g** |
+| **Roggenvollkornmehl** | **150 g** | **225 g** |
+| **Wasser** (Zimmertemperatur) | **220 ml** | **330 ml** |
+| **Sauerteig** | **100 g** | **150 g** |
+| **Kaltes Reis-Quinoa-Kochstück**| **komplett** | **komplett** |
+| **Karotte** (fein geraspelt) | **50 g** | **75 g** |
+| **Gehackte Mandeln** | **30 g** | **45 g** |
+| **Salz** | **11 g** | **16 g** |
+| **Essig** (Pflicht wegen Dinkel!)| **1 EL** | **1,5 EL** |
+| **Sesam** (für die Kruste) | **Reichlich!** | **Noch mehr!** |
 
 ## Der Ablauf
 
-1. **Mischen & Kneten:** Das kalte Kochstück, die geraspelten Karotten, Mandeln und alle restlichen Zutaten (außer dem Sesam) vermengen. Kurz und langsam kneten (Maschine: ca. 5 Min auf Stufe 1). Der Teig wird klebrig sein – das ist durch den Roggenanteil und die Karotten völlig normal!
-2. **Stockgare:** Den Teig in eine geölte Wanne geben und 3 bis 4 Stunden bei Raumtemperatur anspringen lassen. Einmal pro Stunde sanft dehnen und falten, um Struktur aufzubauen.
-3. **Formen & Wälzen:** Den Teig auf die leicht bemehlte Arbeitsfläche kippen und schonend zu einem Laib formen. Ein nasses Küchentuch flach ausbreiten, den Laib kurz mit der Oberseite darauf drücken und danach direkt in einem tiefen Teller voller **Sesam** wälzen. Das Wasser wirkt wie Kleber.
-4. **Die kalte Gare:** Den Laib mit der Sesam-Seite nach unten in ein Gärbörbchen legen, abdecken und für 12 bis 16 Stunden in den Kühlschrank verfrachten.
-5. **Backen:** Am nächsten Tag den Ofen (mit Gusseisentopf oder Pizzastein) auf **250 °C** vorheizen. Den eiskalten Laib direkt aus dem Kühlschrank stürzen, einschneiden und mit viel Dampf backen. Nach 10 Minuten die Temperatur auf **210 °C** reduzieren und weitere 35–40 Minuten kräftig dunkel backen. *Die Hitze röstet die Sesam-Kruste von außen an – ein absoluter Traum!*
+Folge für dieses Brot dem **[Standard-Ablauf](../../technik/standard/)**. *(Die Faule Nacht ist hier nicht zu empfehlen, da der extrem nasse Teig durch den Roggen und die Karotten besser im Blick behalten werden sollte).*
+
+* **Besonderheit beim Kneten:** Das eiskalte Kochstück, die Karotten und Mandeln kommen direkt mit in die Schüssel. Nur kurz und langsam (Stufe 1, max. 5 Min) kneten. Der Teig ist durch den Roggen und die Karotten sehr klebrig – das muss so!
+* **Besonderheit beim Formen (Sesam-Kruste):** Wenn der Teig nach der Stockgare in den Kasten soll, formst du ihn mit nassen Händen grob zu einer Rolle. Wälze diese Rolle einmal kräftig durch einen tiefen Teller mit **Sesam**, sodass sie ringsherum dick paniert ist. Erst dann kommt sie in die gefettete Kastenform und ab in den Kühlschrank.
 
 ===== START FILE: rezepte/kartoffel-walnuss.md =====
 ---
