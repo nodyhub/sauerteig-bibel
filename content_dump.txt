@@ -1012,40 +1012,72 @@ title: Die rustikale Sauerteig-Galette
 weight: 180
 ---
 
-# Die rustikale Sauerteig-Galette
+# Die rustikale Sauerteig-Galette (Baukasten)
 
-*Die französische "Tarte für Faule". Keine Kuchenform, kein Blindbacken, kein Stress. Der Teig wird einfach auf dem Blech ausgerollt, belegt und rustikal zugeklappt. Der kalte Sauerteig-Discard im Teig sorgt für eine unfassbar blättrige, zarte Kruste.*
+*Die französische "Tarte für Faule". Keine Kuchenform, kein Blindbacken, kein Stress. Der Teig wird einfach auf dem Blech ausgerollt, belegt und rustikal zugeklappt. Der kalte Sauerteig-Discard im Teig sorgt für eine unfassbar blättrige, zarte Kruste (wie bei einem Croissant). Hier ist der Basis-Ablauf mit 6 genialen Füllungen.*
 
-## 1. Der Teig (Mürbeteig mit Discard)
+## 1. Der universelle Basis-Teig
 
 | Zutat | Menge |
 | :--- | :--- |
 | **Mehl** (Weizen 550 oder Dinkel 630) | **150 g** |
 | **Butter (Eiskalt!)** | **115 g** |
 | **Sauerteig-Discard** (Kalt aus dem Kühlschrank) | **100 g** |
-| **Zucker** (für süße Galettes) | **1 EL** |
-| **Salz** | **1 Prise** |
+| **Salz** | **1 kräftige Prise** |
+| *Nur für rein süße Galettes:* **Zucker** | *1 EL* |
 
-*Tipp: Für eine herzhafte Galette (z. B. mit Tomaten und Ziegenkäse) lässt du den Zucker einfach weg und nimmst eine kräftigere Prise Salz.*
+## 2. Der Basis-Ablauf
 
-## 2. Die Füllung (Süße Basis-Version)
-
-Hier kannst du reinwerfen, was die Saison hergibt (Äpfel, Beeren, Pfirsiche, Pflaumen).
-* **Obst nach Wahl:** ca. 300–400 g (in Spalten oder Würfeln)
-* **Zucker:** 1–2 EL (je nach Süße des Obstes)
-* **Speisestärke:** 1 EL (Ganz wichtig! Bindet den Fruchtsaft, damit der Boden nicht durchmatscht)
-
-## Der Ablauf
-
-1. **Butter "krümeln":** Mehl, Salz und Zucker in einer Schüssel mischen. Die eiskalte Butter in kleinen Würfeln dazugeben. Jetzt mit den Fingerspitzen zügig zerreiben, bis die Mischung aussieht wie grobe Streusel oder naser Sand. (Nicht zu lange kneten, die Butter darf nicht schmelzen!)
+1. **Butter "krümeln":** Mehl, Salz (und ggf. Zucker) mischen. Die eiskalte Butter in kleinen Würfeln dazugeben. Mit den Fingerspitzen zügig zerreiben, bis die Mischung aussieht wie grobe Streusel. (Nicht warm kneten!)
 2. **Der Discard:** Den kalten Sauerteig dazugeben. Mit einer Gabel oder Teigkarte grob untermischen, bis sich der Teig gerade so zu einem Ball formen lässt. 
-3. **Kühlen (Pflicht!):** Den Teig in Frischhaltefolie wickeln, flach drücken und für **mindestens 1 Stunde** (gerne auch über Nacht) in den Kühlschrank legen. *Nur kalte Butter im Ofen macht den Teig später blättrig!*
-4. **Ausrollen:** Den kalten Teig direkt auf einem Bogen Backpapier kreisförmig ausrollen (ca. 3 bis 4 mm dick). Es muss kein perfekter Kreis sein – rustikal ist hier das Ziel!
-5. **Belegen:** Die Mitte des Teiges mit dem Obst (gemischt mit Zucker und Stärke) belegen. Dabei rundherum einen **Rand von ca. 4 bis 5 cm frei lassen**.
-6. **Falten:** Den freien Teigrand einfach Stück für Stück über die Früchte klappen. Es dürfen Falten entstehen, das drückt alles schön zusammen.
-7. **Backen:** Bei **200 °C (Ober-/Unterhitze)** für ca. 35 bis 40 Minuten backen, bis der Rand goldbraun und knusprig ist und die Früchte blubbern.
+3. **Kühlen (Pflicht!):** Den Teig in Frischhaltefolie wickeln, flach drücken und für **mindestens 1 Stunde** (gerne auch über Nacht) in den Kühlschrank legen. *Nur eiskalte Butter macht den Teig im Ofen blättrig!*
+4. **Ausrollen:** Den kalten Teig direkt auf einem Bogen Backpapier kreisförmig ausrollen (ca. 3 bis 4 mm dick). Es muss kein perfekter Kreis sein – rustikal ist das Ziel!
+5. **Belegen:** Die Mitte des Teiges mit der Füllung (siehe unten) belegen. Dabei rundherum einen **Rand von ca. 4 bis 5 cm frei lassen**.
+6. **Falten & Finish:** Den freien Teigrand einfach Stück für Stück über die Füllung klappen. Es dürfen Falten entstehen! Den Rand mit etwas Milch oder Ei bestreichen.
+7. **Backen:** Bei **200 °C (Ober-/Unterhitze)** für ca. 35 bis 40 Minuten backen, bis der Rand goldbraun und knusprig ist.
 
-*Das Optik-Finish:* Vor dem Backen den umgeklappten Rand mit etwas Milch oder Ei bestreichen und mit grobem Zucker bestreuen. Das gibt einen genialen Crunch!
+---
+
+## 3. Die Füllungen (Baukasten-System)
+
+*Egal welche Füllung du wählst: Lass beim Belegen immer den 4–5 cm Rand frei zum Umklappen!*
+
+### Süße Füllungen
+
+**Süß 1: Der Apfel-Zimt-Klassiker**
+* *Die Basis:* 2–3 säuerliche Äpfel (z.B. Boskoop oder Elstar), in dünne Spalten geschnitten.
+* *Der Mix:* Die Apfelspalten in einer Schüssel mit **2 EL Zucker**, **1 TL Zimt** und **1 EL Speisestärke** mischen. *(Wichtig: Die Stärke bindet den Fruchtsaft im Ofen, damit der Boden knusprig bleibt und nicht durchmatscht!)*
+* *Das Finish:* Vor dem Backen den umgeklappten Teigrand mit etwas grobem Zucker bestreuen.
+
+**Süß 2: Die wilde Beere**
+* *Die Basis:* 300 g gemischte Beeren (frisch oder TK – TK vorher nicht auftauen!).
+* *Der Mix:* Beeren mit **2 EL Zucker**, **1 TL Vanilleextrakt** und **1,5 EL Speisestärke** mischen. 
+* *Der Puffer:* Bevor du die Beeren auf den Teig gibst, streue 1 EL gemahlene Mandeln oder Semmelbrösel auf den Teigboden. Sie saugen überschüssigen Beerensaft auf.
+
+### Deftige Füllungen (Mit Fleisch)
+
+**Deftig 1: Der Elsässer (Flammkuchen-Style)**
+* *Die Creme:* Den ausgerollten Teigboden mit **3 EL Crème fraîche** bestreichen (mit Salz, Pfeffer und Muskat würzen).
+* *Der Belag:* **100 g gewürfelter Speck** und **1 große rote Zwiebel** (in feine Ringe geschnitten) darauf verteilen. 
+* *Das Finish:* Zum Schluss eine Handvoll geriebenen Gruyère oder Bergkäse drüberstreuen.
+
+**Deftig 2: Die feurige Chorizo**
+* *Die Creme:* Boden mit **3 EL Ricotta** oder Frischkäse bestreichen.
+* *Der Belag:* **100 g Chorizo** (in dünnen Scheiben) und **150 g halbierte Kirschtomaten** darauf verteilen. 
+* *Das Finish:* Mit frisch gemahlenem schwarzen Pfeffer und etwas geriebenem Manchego-Käse abrunden.
+
+### Vegetarische Füllungen
+
+**Veggie 1: Ziegenkäse, Feige & Thymian**
+* *Der Belag:* **150 g Ziegenkäserolle** (in Scheiben geschnitten) und **3–4 frische Feigen** (geviertelt) abwechselnd auf dem Teigboden verteilen. 
+* *Die Würze:* Ein paar Zweige frischen Thymian und eine Handvoll grob gehackte Walnüsse darüber streuen. 
+* *Das Finish:* Direkt nach dem Backen (wenn sie noch heiß ist) mit **1–2 EL flüssigem Honig** beträufeln. Eine unfassbare süß-salzige Kombination!
+
+**Veggie 2: Rustikaler Waldpilz**
+* *Die Vorbereitung:* **300 g gemischte Pilze** (Champignons, Kräuterseitlinge, Pfifferlinge) in Scheiben schneiden und in der Pfanne mit einer halben Zwiebel und etwas Knoblauch **scharf anbraten**, bis sie ihr Wasser verloren haben. Abkühlen lassen!
+* *Die Creme:* Teigboden mit **3 EL Schmand oder Ricotta** bestreichen (gut pfeffern und salzen).
+* *Der Belag:* Die angebratenen Pilze darauf verteilen und mit frischer Petersilie und etwas geriebenem Parmesan toppen.
+
 
 ===== START FILE: rezepte/zitronenkuchen.md =====
 ---
