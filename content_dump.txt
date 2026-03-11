@@ -249,7 +249,9 @@ Da der Teig jetzt nicht mehr gefaltet wird, macht er seine komplette Reifezeit d
 
 ## 4. Das Backen
 * **Ofen anfeuern:** Heiz den Ofen auf **250 °C (Ober-/Unterhitze)** vor (Dampfschale nicht vergessen!).
-* **Der Schnitt:** Hol den eiskalten Kasten aus dem Kühlschrank. Schneide den Teig der Länge
+* **Der Schnitt:** Hol den eiskalten Kasten aus dem Kühlschrank. Schneide den Teig der Länge nach ca. 1,5 cm tief ein (kalter Teig lässt sich super schneiden).
+* **Backen:** Ab in den Ofen, Wasser in die heiße Schale kippen, Tür zu! 15 Minuten bei 250 °C anbacken. Dann Dampf ablassen, auf 200–210 °C reduzieren und weitere 40–45 Minuten fertig backen.
+* Das Brot sofort aus der Form stürzen und auf einem Rost auskühlen lassen.
 
 ===== START FILE: rezepte/_index.md =====
 ---
