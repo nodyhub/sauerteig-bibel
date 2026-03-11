@@ -22,7 +22,7 @@ Warum? Weil es im Alltag verdammt praktisch ist, Fehler verzeiht, den Ofen saube
 ## Der Fahrplan
 
 * **[Die Sauerteig-Schule](sauerteig/)** – Wie du startest, fütterst und pflegst.
-* **[Die Techniken](technik/)** – Der Standard-Weg oder die Faule Nacht (No-Knead).
+* **[Die Techniken](technik/)** – Der Standard-Weg, die Faule Nacht (No-Knead) oder der saubere, direkte Kasten-Weg.
 * **[Rezept-Bibliothek](rezepte/)** – Die Brote (inkl. Bäckerprozenten) und süße Snacks für die Resteverwertung.
 * **[Wissenswertes & Tipps](wissen/)** – Mehlkunde, Werkzeuge und das Baby-Spezial.
 
@@ -144,10 +144,11 @@ weight: 20
 
 # Die Techniken & Abläufe
 
-Das wichtigste Geheimnis beim Sauerteig: **Zutaten und Ablauf sind zwei verschiedene Dinge.** Du hast ein Rezept aus der Bibliothek ausgesucht? Super. Jetzt entscheidest du, *wie* du es backen willst, je nachdem, wie viel Zeit du hast. Hier sind die zwei Standard-Wege, die für fast jedes Kastenbrot in diesem Buch funktionieren:
+Das wichtigste Geheimnis beim Sauerteig: **Zutaten und Ablauf sind zwei verschiedene Dinge.** Du hast ein Rezept aus der Bibliothek ausgesucht? Super. Jetzt entscheidest du, *wie* du es backen willst, je nachdem, wie viel Zeit (und Lust auf klebrige Hände) du hast. Hier sind die drei Standard-Wege, die für fast jedes Kastenbrot in diesem Buch funktionieren:
 
 1. **[Der Standard-Ablauf (Kühlschrank)](standard/)**: Für die beste Kruste, den tiefsten Geschmack und eine einfache Teigverarbeitung am Backtag. (Erfordert Kneten/Falten).
 2. **[Die Faule Nacht (Anfänger)](lazy/)**: Für den absoluten Minimal-Aufwand. Kein Kneten, keine klebrigen Hände. Die Zeit macht die Arbeit.
+3. **[Der Direkte Kasten-Weg (Ohne Formen)](direkt/)**: Der goldene Mittelweg. Die Maschine knetet für eine perfekte Krume, aber du sparst dir das Dehnen, Falten und Formen auf der Arbeitsplatte.
 
 ===== START FILE: technik/standard.md =====
 ---
@@ -215,6 +216,40 @@ weight: 22
 * Den Kasten noch **1 Stunde** ruhen lassen. In der Zeit den Ofen auf **230 °C** vorheizen (Dampf-Schale auf den Boden!).
 * Kasten rein, Wasser in die Schale, Tür zu. **15 Minuten** mit Dampf backen.
 * Dampf ablassen, auf **200 °C** runterdrehen und weitere **40–45 Minuten** backen.
+
+===== START FILE: technik/direkt.md =====
+---
+title: Der Direkte Kasten-Weg (Ohne Formen)
+weight: 23
+---
+
+# Der Direkte Kasten-Weg (Kneten ohne Formen)
+
+*Der Kompromiss für saubere Hände. Du willst die gute Krumen-Struktur durch das Kneten in der Maschine, hast aber absolut keine Lust auf klebrige Hände beim Dehnen, Falten und Formen auf der Arbeitsplatte? Dann geht der Teig direkt aus der Rührschüssel in die Kastenform.*
+
+**Perfekt für:** Alle klebrigen Alltagsbrote (Graubrot, Vollkorn, Saftkorn). 
+**Weniger geeignet für:** Brote, die extrem große Luftlöcher haben sollen (wie Ciabatta).
+
+## 1. Die Fermentolyse & Kneten
+Hier ändert sich nichts zum [Standard-Ablauf](standard/).
+* Mische Mehl, Wasser und Sauerteig (ohne Salz) und lass es 30–45 Minuten quellen.
+* Gib das Salz (und ggf. Essig/Öl) dazu und knete den Teig mit der Maschine oder nassen Teigkarte fertig.
+
+## 2. Der "Clean-Desk" Transfer (Direkt in den Kasten)
+Wir überspringen die Stockgare in der Schüssel und das Formen auf dem Tisch komplett!
+* Fette deine Kastenform extrem gut mit Butter ein.
+* Mach deine Hände oder eine Teigkarte richtig nass (kaltes Wasser).
+* Hol den fertig gekneteten Teig aus der Rührschüssel und lass ihn direkt als ganzen Klumpen in die Kastenform gleiten.
+* Drücke ihn mit nassen Fingernägeln oder dem nassen Löffelrücken gleichmäßig in die Ecken und streiche die Oberfläche schön glatt.
+
+## 3. Die Kasten-Gare (Alles in einem)
+Da der Teig jetzt nicht mehr gefaltet wird, macht er seine komplette Reifezeit direkt in der Form.
+* **Anspringen (Raumtemperatur):** Deck den Kasten ab (z.B. mit einer Duschhaube oder einem feuchten Tuch) und lass ihn für ca. **2 bis 4 Stunden** bei Raumtemperatur stehen. Er sollte sichtbar an Volumen zunehmen und oben leicht bauchig werden.
+* **Die kalte Nacht (Kühlschrank):** Danach wandert der Kasten abgedeckt für **8 bis 16 Stunden in den Kühlschrank**. Dort entwickelt sich der Geschmack und der Teig wird stabil.
+
+## 4. Das Backen
+* **Ofen anfeuern:** Heiz den Ofen auf **250 °C (Ober-/Unterhitze)** vor (Dampfschale nicht vergessen!).
+* **Der Schnitt:** Hol den eiskalten Kasten aus dem Kühlschrank. Schneide den Teig der Länge
 
 ===== START FILE: rezepte/_index.md =====
 ---
