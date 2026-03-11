@@ -512,6 +512,7 @@ Du hast zwei Möglichkeiten:
 * **Option B: [Die Faule Nacht (No-Knead)](../../technik/lazy/)**
     **Reduziere den Sauerteig auf 10 %** (50 g / 75 g), mische das Kochstück und alle Zutaten mit dem Löffel (Wasser muss hier nicht eiskalt sein) und lass alles über Nacht stehen.
 
+===== START FILE: rezepte/quinoa-jasmin.md =====
 ---
 title: Das Quinoa-Jasmin Brot
 weight: 70
