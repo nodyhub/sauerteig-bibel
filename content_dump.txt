@@ -1579,6 +1579,28 @@ Vollkornmehl enthält die kompletten, harten Schalenteile (Kleie) des Korns. Die
 2. **Die 50/50-Regel:** Zwinge dich nicht zu 100 % Vollkorn, wenn es dir zu trocken ist. Mische stattdessen 50 % helles Mehl (z. B. Dinkel 630 oder Weizen 550) und 50 % Vollkornmehl. Das helle Mehl bringt die nötige Geschmeidigkeit zurück in die Krume.
 3. **Wasser "einsperren":** Vollkornbrote brauchen massiv Wasser, das im Ofen nicht verdampfen darf. Nutze immer ein **Kochstück** (z. B. aus Haferflocken oder Mehl) oder ein **Quellstück** (mit Flohsamenschalen oder Leinsamen). Diese binden das Wasser gelartig an sich, sodass das Brot tagelang saftig bleibt.
 
+## 🚨 Hilfe, mein Brot ist innen matschig (klitschige Krume)!
+
+*Symptom: Die Kruste kracht, das Brot sieht von außen perfekt aus, aber beim Anschneiden klebt der Teig am Messer. Die Krume wirkt feucht, gummiartig, extrem verdichtet oder glänzt speckig.*
+
+Wenn dein Brot innen eine Matsch-Party feiert, liegt das fast immer an einem dieser vier "Root Causes":
+
+**1. Der Ungedulds-Schnitt (Die Hauptursache Nummer 1)**
+* **Das Problem:** Du hast das Brot angeschnitten, solange es noch warm war. Im frisch gebackenen Brot ist die Stärke noch dabei, sich zu stabilisieren und die Restfeuchtigkeit zu binden (Verkleisterung). Schneidest du es heiß an, entweicht der Dampf schlagartig, die weiche Struktur fällt zusammen und verklebt direkt an der Messerklinge.
+* **Die Lösung:** Finger weg vom Messer! Ein Brot muss **mindestens 2 bis 4 Stunden** (Roggenteige sogar über Nacht) auf einem Gitter komplett auskühlen. Erst wenn der Boden sich wirklich eiskalt anfühlt, ist der Backprozess im Inneren abgeschlossen.
+
+**2. Unterbacken (Die Kerntemperatur fehlte)**
+* **Das Problem:** Jeder Ofen heizt anders. Nur weil dein Brot nach der im Rezept angegebenen Zeit außen wunderschön braun ist, bedeutet das nicht, dass es im Zentrum schon durchgebacken ist. 
+* **Die Lösung:** Miss beim nächsten Mal nach! Nutze ein einfaches Fleisch- oder Einstichthermometer und stecke es in die exakte Mitte des Brotes.  Die Kerntemperatur muss bei **97 bis 98 °C** liegen. Ist sie noch bei 90 oder 92 °C, lass das Brot im Ofen (notfalls die Temperatur auf 180 °C runterdrehen, damit die Kruste nicht verbrennt) und backe es weitere 10–15 Minuten.
+
+**3. Zu viel Wasser für dein Mehl**
+* **Das Problem:** Mehle sind Naturprodukte. Wenn das Mehl aus deiner Mühle oder dem Supermarkt weniger Wasser aufnehmen kann als das Mehl des Rezeptautors, hat der Teig am Ende zu viel freies Wasser. Dieses Wasser kann beim Backen nicht vollständig verdampfen – die Krume bleibt nass.
+* **Die Lösung:** Nutze die "Bassinage" (Schluckwasser). Halte beim Kneten pauschal immer die letzten 30 bis 50 ml Wasser zurück. Knete den Teig. Nur wenn er noch zu fest wirkt, gibst du das restliche Wasser schluckweise dazu.
+
+**4. Die Untergare (Der Teig war noch nicht reif)**
+* **Das Problem:** Dein Sauerteig hatte bei der Stockgare (dem ersten Gehen) nicht genug Zeit oder Wärme, um ausreichend Gasbläschen zu produzieren. Wo im Teig keine Luftblasen sind, ist eine dichte Teigmasse. Da diese dichte Masse Hitze extrem schlecht leitet, backt das Zentrum nicht richtig durch und bleibt speckig.
+* **Die Lösung:** Verlass dich weniger auf die Uhrzeit im Rezept und mehr auf die Optik. Der Teig muss sich vor dem Formen spürbar vergrößert haben, von Luftblasen durchzogen sein und sich "fluffig" anfühlen.
+
 ===== START FILE: wissen/baby-spezial.md =====
 ---
 title: Baby-Spezial
