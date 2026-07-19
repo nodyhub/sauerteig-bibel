@@ -2,7 +2,6 @@ baseURL = 'https://sauerteig-bibel.de/'
 languageCode = 'de-DE'
 title = 'Sauerteig Bibel'
 theme = 'hugo-book'
-googleAnalytics = "G-V6WWFW2FNX"
 disablePathToLower = false
 enableGitInfo = false
 
