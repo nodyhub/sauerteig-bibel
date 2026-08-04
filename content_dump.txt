@@ -838,38 +838,70 @@ title: Die Kiez-Pizza
 weight: 130
 ---
 
-# Die Kiez-Pizza (Sauerteig + Hefe)
+# Die Kiez-Pizza (Hybrid-Teig)
 
-*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der berühmten "Schnellen Nummer" vom Hamburger Jung Steffen Henssler. Da Steffen ja ohnehin schon für lokalen Tiefgang sorgt, steuern wir mit dem Sauerteig einfach noch die extra Portion Aroma bei!*
+*Der Geschmack von langer Reife, aber der "Wumms" von Hefe. Inspiriert von der "Schnellen Nummer" vom Hamburger Jung Steffen Henssler – nur dass wir mit Sauerteig noch eine massive Portion Aroma beisteuern.* 
 
-## Zutaten (für 4 Pizzen)
+**Das Update für perfekte Handhabung:** Wir haben die Ballengröße auf ca. 250 g pro Pizza optimiert. Das ist die absolute "Stressfrei-Größe" für den Haushaltsbackofen und erst recht für kleine Pizzaöfen (wie den Ooni), damit der Teig beim Einschießen nicht am Rand verbrennt.
+
+---
+
+## Exkurs: Der Lievito Madre (LM)
+
+Für klassisches Brot ist flüssiger Sauerteig toll. Für original italienische Pizza ist ein **Lievito Madre (LM)** der absolute Endgegner. Er ist ein fester Sauerteig (nur ca. 50 % Wasser). Der riesige Vorteil: Er produziert fast ausschließlich milde Milchsäure und keine beißende Essigsäure. Der Pizzateig wird unfassbar fluffig, triebstark und schmeckt nach 48 Stunden leicht süßlich und mild, niemals sauer.
+
+**So machst du aus deinem Starter einen Lievito Madre:**
+Du zwingst deinen flüssigen Starter einfach auf eine "Trocken-Diät". 
+1. **Tag 1:** Nimm 20 g deines normalen Starters aus dem Kühlschrank. Knete ihn mit 20 g Wasser und 40 g starkem Weizenmehl (Tipo 00 oder 550er) zu einer festen Kugel. Schneide sie oben kreuzweise ein, ab ins Glas und warm stellen, bis sie sich verdoppelt hat.
+2. **Tag 2 bis 4:** Füttere ihn täglich im Rhythmus `1 Teil Madre : 1 Teil Mehl : 0,5 Teile Wasser` (also z.B. 20 g Teig + 20 g Mehl + 10 g Wasser). 
+3. **Fertig:** Nach ein paar Tagen duftet er mild nach Joghurt. Ab in den Kühlschrank. Vor dem Pizza-Backen frischt du ihn einfach einmal auf.
+
+---
+
+## Die Zutaten (Für 4 Pizzen à ~250 g)
+
+Weil ein Lievito Madre weniger Wasser enthält als ein flüssiger Starter, musst du dich für eine der beiden Tabellen entscheiden (die Gesamtwassermenge im Teig bleibt am Ende bei perfekten 60 % Hydration).
+
+*Tipp zum Mehl:* Mische Tipo 00 und normales 550er Weizenmehl einfach 50/50. Achte auf min. 12 g Eiweiß auf der Packung für ein starkes Klebergerüst!
+
+### Variante A: Mit normalem Flüssig-Sauerteig (Der milde Weg)
+*Die Sauerteigmenge ist hier ganz bewusst auf 40 g reduziert. So kannst du den Teig absolut entspannt für 48 Stunden im Kühlschrank reifen lassen, ohne dass die Pizza am Ende sauer schmeckt!*
 
 | Zutat | Menge |
 | :--- | :--- |
-| **Mehl** (Tipo 00 / 550) | 500 g *(WICHTIG: Min. 12 g Eiweiß für ein starkes Gerüst!)* |
-| **Wasser** (lauwarm) | 325 ml *(Aufteilen: 285 ml Start + 40 ml Reserve)* |
-| **Sauerteig** (fürs Aroma) | 50 g |
-| **Hefe** (Frischhefe) | 2 g |
-| **Salz** | 12 g |
-| **Olivenöl** | 1 EL |
+| **Kaltes Wasser** | **350 g** *(Aufteilen: 30 g für Hefe/Starter + 320 g Hauptwasser)* |
+| **Flüssiger Starter** (fürs Aroma) | **40 g** |
+| **Frische Hefe** | **1 g** (Größe einer kleinen Erbse) |
+| **Weizenmehl** (Mix 00 / 550) | **600 g** |
+| **Salz** | **13 g** |
 
-## Der Ablauf (Die Anti-Brei-Methode)
+### Variante B: Mit Lievito Madre (Der Italien-Weg)
+| Zutat | Menge |
+| :--- | :--- |
+| **Kaltes Wasser** | **335 g** *(Aufteilen: 30 g für Hefe + 305 g Hauptwasser)* |
+| **Lievito Madre** (aktiv) | **100 g** |
+| **Frische Hefe** | **1 g** (Größe einer kleinen Erbse) |
+| **Weizenmehl** (Mix 00 / 550) | **545 g** |
+| **Salz** | **13 g** |
 
-Hier arbeiten wir mit 65 % Wasser. Damit der Teig nicht zur Suppe wird, bauen wir das Klebergerüst strategisch auf. Trockenes Mehl auf der Arbeitsfläche ist ab sofort tabu!
+> ⚠️ **Die Olivenöl-Regel (Ooni vs. Haushaltsbackofen):**
+> * **Für den normalen Ofen (250 °C):** Gib am Ende des Knetens **15 g Olivenöl** in den Teig. Es verhindert, dass die Pizza austrocknet und macht sie knusprig.
+> * **Für den Pizzaofen (Ooni etc. bei 400 °C+):** **Streiche das Öl komplett!** Bei diesen Extremtemperaturen verbrennt Fett auf der Teigoberfläche in Sekunden zu bitterer Kohle.
 
-1. **Das Fundament (Mischen):** Hefe und Sauerteig im **Start-Wasser (285 ml)** auflösen. Das Mehl dazugeben und kurz mischen. 15 Minuten stehen lassen (Fermentolyse).
-2. **Kneten & Trinken (Bassinage):** Das Salz dazugeben und die Maschine starten (Stufe 2). Wenn der Teig ein ruppiger Klumpen ist, gibst du die restlichen **40 ml Wasser schluckweise** dazu. Immer warten, bis das Wasser komplett aufgenommen wurde!
-3. **Das Öl (Der Abschluss):** Erst wenn der Teig sich nach ca. 5–8 Minuten komplett vom Schüsselrand löst und eine starke, elastische Kugel bildet, lässt du das Olivenöl einlaufen. Knete nur noch so lange, bis das Öl komplett geschluckt ist und der Teig glänzt.
-4. **Stockgare & Kälte-Schock:** Den Teig abgedeckt 2 Stunden bei Raumtemperatur gehen lassen (nach 1 Stunde einmal mit nassen Händen in der Schüssel dehnen und falten). *Der Profi-Trick:* Stell die Schüssel die letzten 45 Minuten in den Kühlschrank! Kaltes Gluten klebt weniger und lässt sich gleich viel besser formen.
-5. **Kugeln schleifen (Auf nackter Platte!):** 
-    * Kipp den kühlen Teig auf die **saubere, unbemehlte** Arbeitsfläche. Teile ihn in 4 Stücke (à ca. 220 g).
-    * Mach dir einen winzigen Tropfen Öl auf die Hände.
-    * Leg deine Hände hohl hinter einen Teigling und zieh ihn zügig über die nackte Platte zu dir heran. Die klebrige Unterseite bremst auf dem Tisch, die Oberseite spannt sich straff wie ein Ballon. Um 90 Grad drehen und wiederholen, bis du eine pralle Kugel hast.
-6. **Die lange Ruhe:** Leg die straffen Kugeln in eine leicht geölte Box (Deckel drauf!). Ab in den **Kühlschrank für 24 bis 48 Stunden**. *(Eilig? Lass sie 4 Stunden bei Raumtemperatur gehen, dann backen).*
-7. **Ausziehen & Backen:** Hol die Kugeln 1–2 Stunden vor dem Backen aus dem Kühlschrank (Zimmertemperatur). Zieh den Teig mit den Händen auf viel Hartweizengrieß oder Mehl aus. 
-    > **⚠️ Der Gummiband-Effekt:** Zieht der Teig sich beim Ausziehen immer wieder bockig zusammen? Dann ist das Gluten gestresst. Leg den Teigfladen einfach abgedeckt hin, warte 10 bis 15 Minuten und versuch es nochmal. Er wird sich danach widerstandslos ziehen lassen!
-    
-    Ofen auf **Maximum** (250–300 °C) mit Blech oder Pizzastein vorheizen. Belegen und 5–8 Minuten backen.
+---
+
+## Der Ablauf (Die Henssler-Methode)
+
+Steffen Henssler löst das Salz im Wasser auf, *bevor* er Hefe und Mehl dazugibt. Was erstmal falschherum klingt, ist ein genialer, neapolitanischer Bäcker-Trick: Salz tötet Hefe. Wenn das Salz im Wasser aufgelöst wird und das Mehl reinkommt, baut das Mehl einen physischen Schutzschild um das Salz auf. Die Hefe, die erst zum Schluss reinkommt, kann absolut ungestört arbeiten.
+
+1. **Der sichere Hafen:** Nimm dir eine kleine Schale. Gib **30 g von deinem kalten Wasser**, das **1 g Hefe** und deine **100 g Sauerteig / LM** hinein. Verrühre das gut, bis es flüssig ist. Stell es kurz beiseite.
+2. **Das Salzwasser:** Gieße das restliche kalte Wasser (290 g bzw. 305 g) in die große Rührschüssel. Gib das **Salz (13 g)** dazu und rühre, bis es komplett aufgelöst ist.
+3. **Der Puffer:** Kipp das komplette Mehl auf einmal in das Salzwasser. Knete es kurz durch, bis kein trockenes Mehl mehr zu sehen ist und sich ein grober Klumpen bildet. Das Salz ist nun sicher vom Mehl umschlossen.
+4. **Die Hochzeit:** Kipp nun deine Hefe-Sauerteig-Mischung (aus Schritt 1) direkt auf den Teig. Knete alles für ca. 5 bis 8 Minuten kräftig durch, bis der Teig eine glatte, elastische Kugel bildet.
+5. **Das Fett (Nur Haushaltsbackofen!):** Erst ganz zum Schluss lässt du die 15 g Olivenöl einlaufen und knetest nur noch so lange, bis der Teig glänzt und kein Öl mehr am Schüsselrand schwimmt.
+6. **Die Kaltgare (Direkt ab in die Kälte):** Forme den Teig zu einer Kugel, gib ihn in eine leicht geölte, luftdichte Dose und stelle ihn **sofort für 24 bis 48 Stunden in den Kühlschrank**. (Wir überspringen die Raumtemperatur, damit der Teig in 48 Stunden nicht übergart!).
+7. **Die Ballen formen:** Hol den Teig ca. **4 bis 5 Stunden vor dem Backen** aus der Kälte. Teile ihn in 4 Stücke (à ca. 250 g). Schleife sie auf der nackten, unbemehlten Arbeitsfläche zu straffen, runden Ballen. 
+8. **Das Finale:** Leg die Ballen in eine Box, Deckel drauf und lass sie bei Raumtemperatur entspannen. Danach lassen sie sich auf einer Schicht Hartweizengrieß wunderbar leicht mit den Fingern ausziehen. Belegen und auf maximaler Stufe backen!
 
 ---
 
@@ -891,7 +923,7 @@ Gieß das wässrige Püree aus der Dose ab (das macht die Pizza sonst matschig).
 ### Der "Dirty Hack" (Mit Tomatenmark)
 *Du hast keine Dosentomaten im Haus oder bist im absoluten Feierabend-Notfall-Modus? Der gute alte Tomatenmark-Trick funktioniert! Tomatenmark ist hochkonzentriertes Umami.*
 
-* **Die Gefahr:** Reines Tomatenmark hat kaum Wasser und viel Fruchtzucker. Im 300 °C heißen Ofen verbrennt es extrem schnell und wird bitter.
+* **Die Gefahr:** Reines Tomatenmark hat kaum Wasser und viel Fruchtzucker. Im Ofen verbrennt es extrem schnell und wird bitter.
 * **Die Lösung:** Gib 2–3 EL Tomatenmark in eine kleine Schale. Rühre einen kleinen Schuss Wasser und etwas Olivenöl unter, bis es die Konsistenz von Ketchup hat. So lässt es sich super auf dem Teig verstreichen und verbrennt nicht. Mit Salz, ordentlich Pfeffer und getrockneten Kräutern (Oregano/Basilikum) abschmecken. Ab auf den Boden damit!
 
 ---
